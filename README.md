@@ -1,6 +1,6 @@
-### BSMotifs
+### BSMotif
 
-BSMotifs is a Python package and pipeline for analyzing transcription factor (TF) binding site motif similarity. It integrates motif comparison results with TF classification by DNA-binding domain and constructs hierarchical branches of similar motifs within different classification levels.
+BSMotif is a Python package and pipeline for analyzing transcription factor (TF) binding site motif similarity. It integrates motif comparison results with TF classification by DNA-binding domain and constructs hierarchical branches of similar motifs within different classification levels.
 
 ## Overview
 
@@ -25,17 +25,17 @@ This allows identifying clusters of similar motifs within structural levels of D
 ## Installation
 
 ``` bash
-git clone https://github.com/vladiMIR28161/BSMotifs.git
-cd bsmotifs
+git clone https://github.com/vladiMIR28161/BSMotif.git
+cd bsmotif
 pip install .
 ```
 
-After installation, the bsmotifs command becomes available in the terminal.
+After installation, the bsmotif command becomes available in the terminal.
 
 ## Usage
 
 ``` bash
-bsmotifs input_classification.tsv input_tomtom.tsv score.tsv classification.xlsx
+bsmotif input_classification.tsv input_tomtom.tsv score.tsv classification.xlsx
 ```
 
 Where:
@@ -51,9 +51,9 @@ Where:
 ## Example code
 
 ``` python
-from bsmotifs.io import read_classification, read_tomtom, save_results
-from bsmotifs.preprocessing import fill_classification, calculate_score_tf
-from bsmotifs.hierarchical_classification import hierarchical_classification_tf
+from bsmotif.io import read_classification, read_tomtom, save_results
+from bsmotif.preprocessing import fill_classification, calculate_score_tf
+from bsmotif.hierarchical_classification import hierarchical_classification_tf
 import pandas as pd
 
 classification = read_classification("Classification.tsv")
@@ -80,5 +80,6 @@ for superclass in tomtom.Query_superclass.unique():
 
 
 *numpy
+
 
 
