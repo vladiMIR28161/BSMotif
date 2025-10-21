@@ -26,12 +26,13 @@ def main():
 
     for superclass in tomtom.Query_superclass.unique():
         res_tomtom_filtr = tomtom.loc[tomtom.Query_superclass == superclass].reset_index(drop=True)
-        class_ = hierarchical_classification_tf (res_tomtom_filtr, 'Query_superclass', 'Target_superclass', 'Query_class', 'Target_class')
-        family = hierarchical_classification_tf (class_, 'Query_class', 'Target_class', 'Query_family', 'Target_family')
-        subfamily = hierarchical_classification_tf (family, 'Query_family', 'Target_family', 'Query_subfamily', 'Target_subfamily')
-        gene = hierarchical_classification_tf (subfamily, 'Query_subfamily', 'Target_subfamily', 'Query_gene', 'Target_gene')
+        class_ = hierarchical_classification (res_tomtom_filtr, 'Query_superclass', 'Target_superclass', 'Query_class', 'Target_class')
+        family = hierarchical_classification (class_, 'Query_class', 'Target_class', 'Query_family', 'Target_family')
+        subfamily = hierarchical_classification (family, 'Query_family', 'Target_family', 'Query_subfamily', 'Target_subfamily')
+        gene = hierarchical_classification (subfamily, 'Query_subfamily', 'Target_subfamily', 'Query_gene', 'Target_gene')
 
     hierarchical_classification.results_df.to_excel(result_classification)
     
 if __name__ == "__main__":
+
     main()
