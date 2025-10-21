@@ -1,20 +1,20 @@
 ### BSMotifs
 
-BSMotifs is a Python package and pipeline for analyzing transcription factor (TF) binding site motif similarity. It integrates motif comparison results with TF classification by DNA-binding domain and constructs hierarchical branches of similar motifs within different classification levels.
+BSMotifs is a Python package and pipeline for analyzing the similarity of transcription factor (TF) binding site (TFBS) motifs. It integrates the results of motif comparison with the TF classification by DNA-binding domain structure and constructs the tree of similar motifs consisting of different hierarchical levels from class to TF gene.
 
 ## Overview
 
 The pipeline takes two input files:
 
-1. Tomtom.tsv — results of pairwise motif comparisons between transcription factors (e.g., using Tomtom).
+1. Tomtom.tsv — results of pairwise TFBS motif comparisons between TFs (e.g., using Tomtom tool ([Gupta et al., 2007](https://doi.org/10.1186/gb-2007-8-2-r24))).
 
-2. Classification.tsv — transcription factor classification by DNA-binding domain (including superclass, class, family, subfamily, gene).
+2. Classification.tsv — TF classification by DNA-binding domains (including superclass, class, family, subfamily, gene).
 
 Outputs:
 
 1. Score.tsv — table with motif similarity scores for each TF pair.
 
-2. Classification.xlsx — hierarchical list of branches of similar motifs within each classification level (class, family, subfamily, TF).
+2. Classification.xlsx — hierarchical list of branches of similar TFBS motifs within each classification level (class, family, subfamily, TF).
 
 Example:
 
@@ -80,5 +80,6 @@ for superclass in tomtom.Query_superclass.unique():
 
 
 *numpy
+
 
 
