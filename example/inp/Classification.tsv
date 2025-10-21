@@ -1,0 +1,1215 @@
+	ID	Superclass	Class	Family	Subfamily	Gene
+0	CREB5.H12CORE.1.SM.B	Basic domains {1}	Basic leucine zipper factors (bZIP) {1.1}	Jun-related {1.1.1}	ATF2 {1.1.1.3}	CREB5 {1.1.1.3.3}
+1	CEBPD.H12CORE.1.SM.B	Basic domains {1}	Basic leucine zipper factors (bZIP) {1.1}	C/EBP-related {1.1.8}	CEBP {1.1.8.1}	CEBPD {1.1.8.1.4}
+2	ATF4.H12CORE.0.P.B	Basic domains {1}	Basic leucine zipper factors (bZIP) {1.1}	ATF4-related {1.1.6}	null {1.1.6.0}	ATF4 {1.1.6.0.1}
+3	SRBP2.H12CORE.0.S.B	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	bHLH-ZIP {1.2.6}	SREBF {1.2.6.3}	SRBP2 {1.2.6.3.2}
+4	ATF4.H12CORE.1.S.B	Basic domains {1}	Basic leucine zipper factors (bZIP) {1.1}	ATF4-related {1.1.6}	null {1.1.6.0}	ATF4 {1.1.6.0.1}
+5	FIGLA.H12CORE.0.SM.B	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	Tal-related {1.2.3}	TWIST {1.2.3.2}	FIGLA {1.2.3.2.8}
+6	NRL.H12CORE.0.SM.B	Basic domains {1}	Basic leucine zipper factors (bZIP) {1.1}	Maf-related {1.1.3}	Large MAF {1.1.3.1}	NRL {1.1.3.1.4}
+7	DDIT3.H12CORE.0.P.B	Basic domains {1}	Basic leucine zipper factors (bZIP) {1.1}	C/EBP-related {1.1.8}	CEBP {1.1.8.1}	DDIT3 {1.1.8.1.6}
+8	BACH1.H12CORE.0.P.B	Basic domains {1}	Basic leucine zipper factors (bZIP) {1.1}	Jun-related {1.1.1}	NFE2 {1.1.1.2}	BACH1 {1.1.1.2.5}
+9	MAD4.H12CORE.0.P.C	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	bHLH-ZIP {1.2.6}	MAD {1.2.6.7}	MAD4 {1.2.6.7.3}
+10	MAFA.H12CORE.0.PSM.A	Basic domains {1}	Basic leucine zipper factors (bZIP) {1.1}	Maf-related {1.1.3}	Large MAF {1.1.3.1}	MAFA {1.1.3.1.2}
+11	CR3L1.H12CORE.0.PSM.A	Basic domains {1}	Basic leucine zipper factors (bZIP) {1.1}	CREB-related {1.1.7}	CREB3-like {1.1.7.2}	CR3L1 {1.1.7.2.2}
+12	CEBPD.H12CORE.0.P.B	Basic domains {1}	Basic leucine zipper factors (bZIP) {1.1}	C/EBP-related {1.1.8}	CEBP {1.1.8.1}	CEBPD {1.1.8.1.4}
+13	JUND.H12CORE.0.PM.A	Basic domains {1}	Basic leucine zipper factors (bZIP) {1.1}	Jun-related {1.1.1}	Jun {1.1.1.1}	JUND {1.1.1.1.3}
+14	JUNB.H12CORE.1.S.C	Basic domains {1}	Basic leucine zipper factors (bZIP) {1.1}	Jun-related {1.1.1}	Jun {1.1.1.1}	JUNB {1.1.1.1.2}
+15	NPAS2.H12CORE.1.M.C	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	PAS {1.2.5}	PAS-ARNT {1.2.5.2}	NPAS2 {1.2.5.2.6}
+16	BHE22.H12CORE.0.SM.B	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	Tal-related {1.2.3}	Neurogenin-ATO {1.2.3.4}	BHE22 {1.2.3.4.11}
+17	BACH2.H12CORE.1.SM.B	Basic domains {1}	Basic leucine zipper factors (bZIP) {1.1}	Jun-related {1.1.1}	NFE2 {1.1.1.2}	BACH2 {1.1.1.2.6}
+18	ARNT.H12CORE.0.P.B	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	PAS {1.2.5}	PAS-ARNT {1.2.5.2}	ARNT {1.2.5.2.1}
+19	AHRR.H12CORE.0.P.C	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	PAS {1.2.5}	PAS-AHR {1.2.5.1}	AHRR {1.2.5.1.2}
+20	JUN.H12CORE.1.S.C	Basic domains {1}	Basic leucine zipper factors (bZIP) {1.1}	Jun-related {1.1.1}	Jun {1.1.1.1}	JUN {1.1.1.1.1}
+21	NF2L2.H12CORE.0.P.B	Basic domains {1}	Basic leucine zipper factors (bZIP) {1.1}	Jun-related {1.1.1}	NFE2 {1.1.1.2}	NF2L2 {1.1.1.2.3}
+22	CEBPG.H12CORE.1.SM.B	Basic domains {1}	Basic leucine zipper factors (bZIP) {1.1}	C/EBP-related {1.1.8}	CEBP {1.1.8.1}	CEBPG {1.1.8.1.3}
+23	JUND.H12CORE.1.SM.B	Basic domains {1}	Basic leucine zipper factors (bZIP) {1.1}	Jun-related {1.1.1}	Jun {1.1.1.1}	JUND {1.1.1.1.3}
+24	TFEB.H12CORE.0.SM.B	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	bHLH-ZIP {1.2.6}	TFE3 {1.2.6.1}	TFEB {1.2.6.1.2}
+25	TWST2.H12CORE.0.P.B	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	Tal-related {1.2.3}	TWIST {1.2.3.2}	TWST2 {1.2.3.2.2}
+26	FOS.H12CORE.2.S.C	Basic domains {1}	Basic leucine zipper factors (bZIP) {1.1}	Fos-related {1.1.2}	Fos {1.1.2.1}	FOS {1.1.2.1.1}
+27	NPAS4.H12CORE.0.P.B	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	PAS {1.2.5}	NPAS4 {1.2.5.4}	NPAS4 {1.2.5.4.1}
+28	BHE41.H12CORE.0.PSM.A	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	Hairy-related {1.2.4}	HAIRY {1.2.4.1}	BHE41 {1.2.4.1.13}
+29	CREM.H12CORE.1.P.C	Basic domains {1}	Basic leucine zipper factors (bZIP) {1.1}	CREB-related {1.1.7}	CREB-like {1.1.7.1}	CREM {1.1.7.1.3}
+30	MYCN.H12CORE.1.M.C	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	bHLH-ZIP {1.2.6}	MYC {1.2.6.5}	MYCN {1.2.6.5.2}
+31	OLIG1.H12CORE.0.S.B	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	Tal-related {1.2.3}	Neurogenin-ATO {1.2.3.4}	OLIG1 {1.2.3.4.13}
+32	MAFA.H12CORE.1.M.C	Basic domains {1}	Basic leucine zipper factors (bZIP) {1.1}	Maf-related {1.1.3}	Large MAF {1.1.3.1}	MAFA {1.1.3.1.2}
+33	EPAS1.H12CORE.0.P.B	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	PAS {1.2.5}	PAS-AHR {1.2.5.1}	EPAS1 {1.2.5.1.7}
+34	FER3L.H12CORE.0.SM.B	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	Tal-related {1.2.3}	Neurogenin-ATO {1.2.3.4}	FER3L {1.2.3.4.17}
+35	HAND2.H12CORE.0.P.B	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	Tal-related {1.2.3}	TWIST {1.2.3.2}	HAND2 {1.2.3.2.4}
+36	NF2L2.H12CORE.1.P.B	Basic domains {1}	Basic leucine zipper factors (bZIP) {1.1}	Jun-related {1.1.1}	NFE2 {1.1.1.2}	NF2L2 {1.1.1.2.3}
+37	HEY1.H12CORE.0.S.B	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	Hairy-related {1.2.4}	HAIRY {1.2.4.1}	HEY1 {1.2.4.1.8}
+38	TFEC.H12CORE.0.M.B	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	bHLH-ZIP {1.2.6}	TFE3 {1.2.6.1}	TFEC {1.2.6.1.3}
+39	NFIL3.H12CORE.1.S.B	Basic domains {1}	Basic leucine zipper factors (bZIP) {1.1}	C/EBP-related {1.1.8}	PAR {1.1.8.2}	NFIL3 {1.1.8.2.3}
+40	TFAP4.H12CORE.0.PSM.A	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	bHLH-ZIP {1.2.6}	AP4 {1.2.6.4}	TFAP4 {1.2.6.4.1}
+41	CEBPE.H12CORE.1.SM.B	Basic domains {1}	Basic leucine zipper factors (bZIP) {1.1}	C/EBP-related {1.1.8}	CEBP {1.1.8.1}	CEBPE {1.1.8.1.5}
+42	MYOG.H12CORE.0.PSM.A	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	MyoD-ASC-related {1.2.2}	Myogenic TFs {1.2.2.1}	MYOG {1.2.2.1.2}
+43	BHA15.H12CORE.0.P.B	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	Tal-related {1.2.3}	Neurogenin-ATO {1.2.3.4}	BHA15 {1.2.3.4.16}
+44	XBP1.H12CORE.0.PS.A	Basic domains {1}	Basic leucine zipper factors (bZIP) {1.1}	XBP1-related {1.1.5}	null {1.1.5.0}	XBP1 {1.1.5.0.1}
+45	TAL1.H12CORE.1.P.B	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	Tal-related {1.2.3}	TAL-HEN {1.2.3.1}	TAL1 {1.2.3.1.1}
+46	HEY2.H12CORE.0.S.B	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	Hairy-related {1.2.4}	HAIRY {1.2.4.1}	HEY2 {1.2.4.1.9}
+47	HES7.H12CORE.0.S.B	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	Hairy-related {1.2.4}	HAIRY {1.2.4.1}	HES7 {1.2.4.1.7}
+48	MNT.H12CORE.0.PS.A	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	bHLH-ZIP {1.2.6}	MAD {1.2.6.7}	MNT {1.2.6.7.6}
+49	CLOCK.H12CORE.1.PS.A	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	PAS {1.2.5}	PAS-ARNT {1.2.5.2}	CLOCK {1.2.5.2.5}
+50	MESP2.H12CORE.0.S.C	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	Tal-related {1.2.3}	MESP {1.2.3.3}	MESP2 {1.2.3.3.2}
+51	ASCL1.H12CORE.0.PSM.A	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	MyoD-ASC-related {1.2.2}	ASC {1.2.2.2}	ASCL1 {1.2.2.2.1}
+52	ATF2.H12CORE.0.PSM.A	Basic domains {1}	Basic leucine zipper factors (bZIP) {1.1}	Jun-related {1.1.1}	ATF2 {1.1.1.3}	ATF2 {1.1.1.3.1}
+53	MYC.H12CORE.0.P.B	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	bHLH-ZIP {1.2.6}	MYC {1.2.6.5}	MYC {1.2.6.5.1}
+54	MAX.H12CORE.0.PS.A	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	bHLH-ZIP {1.2.6}	MYC {1.2.6.5}	MAX {1.2.6.5.5}
+55	CREB1.H12CORE.0.PSM.A	Basic domains {1}	Basic leucine zipper factors (bZIP) {1.1}	CREB-related {1.1.7}	CREB-like {1.1.7.1}	CREB1 {1.1.7.1.1}
+56	TWST1.H12CORE.0.P.B	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	Tal-related {1.2.3}	TWIST {1.2.3.2}	TWST1 {1.2.3.2.1}
+57	MAX.H12CORE.1.M.C	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	bHLH-ZIP {1.2.6}	MYC {1.2.6.5}	MAX {1.2.6.5.5}
+58	MYF6.H12CORE.0.SM.B	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	MyoD-ASC-related {1.2.2}	Myogenic TFs {1.2.2.1}	MYF6 {1.2.2.1.4}
+59	BHE40.H12CORE.0.PSM.A	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	Hairy-related {1.2.4}	HAIRY {1.2.4.1}	BHE40 {1.2.4.1.12}
+60	BMAL1.H12CORE.0.PSM.A	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	PAS {1.2.5}	PAS-ARNT {1.2.5.2}	BMAL1 {1.2.5.2.3}
+61	ARNT2.H12CORE.1.P.B	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	PAS {1.2.5}	PAS-ARNT {1.2.5.2}	ARNT2 {1.2.5.2.2}
+62	MGAP.H12CORE.0.P.C	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	bHLH-ZIP {1.2.6}	MAD {1.2.6.7}	MGAP {1.2.6.7.4}
+63	HAND2.H12CORE.2.S.C	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	Tal-related {1.2.3}	TWIST {1.2.3.2}	HAND2 {1.2.3.2.4}
+64	MAF.H12CORE.1.PSM.A	Basic domains {1}	Basic leucine zipper factors (bZIP) {1.1}	Maf-related {1.1.3}	Large MAF {1.1.3.1}	MAF {1.1.3.1.1}
+65	MESP1.H12CORE.0.S.C	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	Tal-related {1.2.3}	MESP {1.2.3.3}	MESP1 {1.2.3.3.1}
+66	CREB5.H12CORE.0.P.B	Basic domains {1}	Basic leucine zipper factors (bZIP) {1.1}	Jun-related {1.1.1}	ATF2 {1.1.1.3}	CREB5 {1.1.1.3.3}
+67	CEBPB.H12CORE.0.P.B	Basic domains {1}	Basic leucine zipper factors (bZIP) {1.1}	C/EBP-related {1.1.8}	CEBP {1.1.8.1}	CEBPB {1.1.8.1.2}
+68	BATF.H12CORE.0.P.B	Basic domains {1}	Basic leucine zipper factors (bZIP) {1.1}	B-ATF-related {1.1.4}	null {1.1.4.0}	BATF {1.1.4.0.1}
+69	MYOD1.H12CORE.1.PSM.A	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	MyoD-ASC-related {1.2.2}	Myogenic TFs {1.2.2.1}	MYOD1 {1.2.2.1.1}
+70	MSGN1.H12CORE.0.PSM.A	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	Tal-related {1.2.3}	MESP {1.2.3.3}	MSGN1 {1.2.3.3.6}
+71	CREM.H12CORE.0.PSM.A	Basic domains {1}	Basic leucine zipper factors (bZIP) {1.1}	CREB-related {1.1.7}	CREB-like {1.1.7.1}	CREM {1.1.7.1.3}
+72	FOS.H12CORE.1.S.C	Basic domains {1}	Basic leucine zipper factors (bZIP) {1.1}	Fos-related {1.1.2}	Fos {1.1.2.1}	FOS {1.1.2.1.1}
+73	TWST1.H12CORE.1.P.B	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	Tal-related {1.2.3}	TWIST {1.2.3.2}	TWST1 {1.2.3.2.1}
+74	TCF21.H12CORE.0.PS.A	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	Tal-related {1.2.3}	MESP {1.2.3.3}	TCF21 {1.2.3.3.5}
+75	NDF1.H12CORE.1.S.C	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	Tal-related {1.2.3}	Neurogenin-ATO {1.2.3.4}	NDF1 {1.2.3.4.1}
+76	HIF1A.H12CORE.0.P.B	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	PAS {1.2.5}	PAS-AHR {1.2.5.1}	HIF1A {1.2.5.1.5}
+77	PTF1A.H12CORE.1.PS.A	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	Tal-related {1.2.3}	TWIST {1.2.3.2}	PTF1A {1.2.3.2.7}
+78	SRBP2.H12CORE.1.P.B	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	bHLH-ZIP {1.2.6}	SREBF {1.2.6.3}	SRBP2 {1.2.6.3.2}
+79	MAFB.H12CORE.1.P.B	Basic domains {1}	Basic leucine zipper factors (bZIP) {1.1}	Maf-related {1.1.3}	Large MAF {1.1.3.1}	MAFB {1.1.3.1.3}
+80	HES2.H12CORE.0.S.C	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	Hairy-related {1.2.4}	HAIRY {1.2.4.1}	HES2 {1.2.4.1.2}
+81	ATF6B.H12CORE.0.SM.B	Basic domains {1}	Basic leucine zipper factors (bZIP) {1.1}	CREB-related {1.1.7}	ATF6 {1.1.7.3}	ATF6B {1.1.7.3.2}
+82	SRBP2.H12CORE.2.M.C	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	bHLH-ZIP {1.2.6}	SREBF {1.2.6.3}	SRBP2 {1.2.6.3.2}
+83	NPAS2.H12CORE.2.S.B	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	PAS {1.2.5}	PAS-ARNT {1.2.5.2}	NPAS2 {1.2.5.2.6}
+84	ATF2.H12CORE.1.P.B	Basic domains {1}	Basic leucine zipper factors (bZIP) {1.1}	Jun-related {1.1.1}	ATF2 {1.1.1.3}	ATF2 {1.1.1.3.1}
+85	FOSB.H12CORE.0.P.B	Basic domains {1}	Basic leucine zipper factors (bZIP) {1.1}	Fos-related {1.1.2}	Fos {1.1.2.1}	FOSB {1.1.2.1.2}
+86	MAFK.H12CORE.2.S.B	Basic domains {1}	Basic leucine zipper factors (bZIP) {1.1}	Maf-related {1.1.3}	Small MAF {1.1.3.2}	MAFK {1.1.3.2.3}
+87	NPAS2.H12CORE.0.M.B	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	PAS {1.2.5}	PAS-ARNT {1.2.5.2}	NPAS2 {1.2.5.2.6}
+88	ATF3.H12CORE.0.P.B	Basic domains {1}	Basic leucine zipper factors (bZIP) {1.1}	Fos-related {1.1.2}	ATF3-like {1.1.2.2}	ATF3 {1.1.2.2.1}
+89	BATF3.H12CORE.1.P.B	Basic domains {1}	Basic leucine zipper factors (bZIP) {1.1}	B-ATF-related {1.1.4}	null {1.1.4.0}	BATF3 {1.1.4.0.3}
+90	CEBPG.H12CORE.0.P.B	Basic domains {1}	Basic leucine zipper factors (bZIP) {1.1}	C/EBP-related {1.1.8}	CEBP {1.1.8.1}	CEBPG {1.1.8.1.3}
+91	TFE3.H12CORE.0.PSM.A	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	bHLH-ZIP {1.2.6}	TFE3 {1.2.6.1}	TFE3 {1.2.6.1.1}
+92	NDF2.H12CORE.1.S.B	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	Tal-related {1.2.3}	Neurogenin-ATO {1.2.3.4}	NDF2 {1.2.3.4.2}
+93	TFEB.H12CORE.1.P.C	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	bHLH-ZIP {1.2.6}	TFE3 {1.2.6.1}	TFEB {1.2.6.1.2}
+94	NGN2.H12CORE.0.P.B	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	Tal-related {1.2.3}	Neurogenin-ATO {1.2.3.4}	NGN2 {1.2.3.4.6}
+95	OLIG3.H12CORE.0.SM.B	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	Tal-related {1.2.3}	Neurogenin-ATO {1.2.3.4}	OLIG3 {1.2.3.4.15}
+96	HIF1A.H12CORE.1.P.B	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	PAS {1.2.5}	PAS-AHR {1.2.5.1}	HIF1A {1.2.5.1.5}
+97	HIF3A.H12CORE.1.P.C	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	PAS {1.2.5}	PAS-AHR {1.2.5.1}	HIF3A {1.2.5.1.6}
+98	CREB3.H12CORE.0.SM.B	Basic domains {1}	Basic leucine zipper factors (bZIP) {1.1}	CREB-related {1.1.7}	CREB3-like {1.1.7.2}	CREB3 {1.1.7.2.1}
+99	HIF3A.H12CORE.0.P.C	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	PAS {1.2.5}	PAS-AHR {1.2.5.1}	HIF3A {1.2.5.1.6}
+100	BHE23.H12CORE.0.SM.B	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	Tal-related {1.2.3}	Neurogenin-ATO {1.2.3.4}	BHE23 {1.2.3.4.12}
+101	HLF.H12CORE.1.SM.B	Basic domains {1}	Basic leucine zipper factors (bZIP) {1.1}	C/EBP-related {1.1.8}	PAR {1.1.8.2}	HLF {1.1.8.2.2}
+102	MAFK.H12CORE.0.PS.A	Basic domains {1}	Basic leucine zipper factors (bZIP) {1.1}	Maf-related {1.1.3}	Small MAF {1.1.3.2}	MAFK {1.1.3.2.3}
+103	USF1.H12CORE.0.PSM.A	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	bHLH-ZIP {1.2.6}	USF {1.2.6.2}	USF1 {1.2.6.2.1}
+104	ATOH1.H12CORE.0.P.B	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	Tal-related {1.2.3}	Neurogenin-ATO {1.2.3.4}	ATOH1 {1.2.3.4.8}
+105	MUSC.H12CORE.0.SM.B	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	Tal-related {1.2.3}	MESP {1.2.3.3}	MUSC {1.2.3.3.4}
+106	ATF7.H12CORE.0.PSM.A	Basic domains {1}	Basic leucine zipper factors (bZIP) {1.1}	Jun-related {1.1.1}	ATF2 {1.1.1.3}	ATF7 {1.1.1.3.2}
+107	BATF.H12CORE.1.P.B	Basic domains {1}	Basic leucine zipper factors (bZIP) {1.1}	B-ATF-related {1.1.4}	null {1.1.4.0}	BATF {1.1.4.0.1}
+108	FOSB.H12CORE.1.M.C	Basic domains {1}	Basic leucine zipper factors (bZIP) {1.1}	Fos-related {1.1.2}	Fos {1.1.2.1}	FOSB {1.1.2.1.2}
+109	JUNB.H12CORE.0.PM.A	Basic domains {1}	Basic leucine zipper factors (bZIP) {1.1}	Jun-related {1.1.1}	Jun {1.1.1.1}	JUNB {1.1.1.1.2}
+110	SRBP1.H12CORE.0.P.B	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	bHLH-ZIP {1.2.6}	SREBF {1.2.6.3}	SRBP1 {1.2.6.3.1}
+111	TFE2.H12CORE.0.PS.A	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	E2A {1.2.1}	E2A-like {1.2.1.0}	TFE2 {1.2.1.0.1}
+112	MAFF.H12CORE.0.PSM.A	Basic domains {1}	Basic leucine zipper factors (bZIP) {1.1}	Maf-related {1.1.3}	Small MAF {1.1.3.2}	MAFF {1.1.3.2.1}
+113	HLF.H12CORE.0.P.B	Basic domains {1}	Basic leucine zipper factors (bZIP) {1.1}	C/EBP-related {1.1.8}	PAR {1.1.8.2}	HLF {1.1.8.2.2}
+114	MAX.H12CORE.2.S.C	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	bHLH-ZIP {1.2.6}	MYC {1.2.6.5}	MAX {1.2.6.5.5}
+115	NFE2.H12CORE.0.P.B	Basic domains {1}	Basic leucine zipper factors (bZIP) {1.1}	Jun-related {1.1.1}	NFE2 {1.1.1.2}	NFE2 {1.1.1.2.1}
+116	TEF.H12CORE.0.SM.B	Basic domains {1}	Basic leucine zipper factors (bZIP) {1.1}	C/EBP-related {1.1.8}	PAR {1.1.8.2}	TEF {1.1.8.2.4}
+117	NPAS3.H12CORE.0.P.C	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	PAS {1.2.5}	PAS-AHR {1.2.5.1}	NPAS3 {1.2.5.1.9}
+118	CEBPE.H12CORE.0.P.B	Basic domains {1}	Basic leucine zipper factors (bZIP) {1.1}	C/EBP-related {1.1.8}	CEBP {1.1.8.1}	CEBPE {1.1.8.1.5}
+119	MYCN.H12CORE.0.PS.A	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	bHLH-ZIP {1.2.6}	MYC {1.2.6.5}	MYCN {1.2.6.5.2}
+120	MAFK.H12CORE.1.P.B	Basic domains {1}	Basic leucine zipper factors (bZIP) {1.1}	Maf-related {1.1.3}	Small MAF {1.1.3.2}	MAFK {1.1.3.2.3}
+121	HEN1.H12CORE.0.S.B	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	Tal-related {1.2.3}	TAL-HEN {1.2.3.1}	HEN1 {1.2.3.1.4}
+122	MYOD1.H12CORE.0.P.B	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	MyoD-ASC-related {1.2.2}	Myogenic TFs {1.2.2.1}	MYOD1 {1.2.2.1.1}
+123	ATF6A.H12CORE.0.SM.B	Basic domains {1}	Basic leucine zipper factors (bZIP) {1.1}	CREB-related {1.1.7}	ATF6 {1.1.7.3}	ATF6A {1.1.7.3.1}
+124	NDF2.H12CORE.0.P.B	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	Tal-related {1.2.3}	Neurogenin-ATO {1.2.3.4}	NDF2 {1.2.3.4.2}
+125	NRL.H12CORE.1.SM.B	Basic domains {1}	Basic leucine zipper factors (bZIP) {1.1}	Maf-related {1.1.3}	Large MAF {1.1.3.1}	NRL {1.1.3.1.4}
+126	LYL1.H12CORE.1.P.C	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	Tal-related {1.2.3}	TAL-HEN {1.2.3.1}	LYL1 {1.2.3.1.3}
+127	ASCL2.H12CORE.0.PSM.A	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	MyoD-ASC-related {1.2.2}	ASC {1.2.2.2}	ASCL2 {1.2.2.2.2}
+128	BATF3.H12CORE.2.SM.B	Basic domains {1}	Basic leucine zipper factors (bZIP) {1.1}	B-ATF-related {1.1.4}	null {1.1.4.0}	BATF3 {1.1.4.0.3}
+129	CEBPA.H12CORE.0.P.B	Basic domains {1}	Basic leucine zipper factors (bZIP) {1.1}	C/EBP-related {1.1.8}	CEBP {1.1.8.1}	CEBPA {1.1.8.1.1}
+130	BHE40.H12CORE.1.S.C	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	Hairy-related {1.2.4}	HAIRY {1.2.4.1}	BHE40 {1.2.4.1.12}
+131	MAF.H12CORE.0.PM.A	Basic domains {1}	Basic leucine zipper factors (bZIP) {1.1}	Maf-related {1.1.3}	Large MAF {1.1.3.1}	MAF {1.1.3.1.1}
+132	ATF1.H12CORE.1.P.B	Basic domains {1}	Basic leucine zipper factors (bZIP) {1.1}	CREB-related {1.1.7}	CREB-like {1.1.7.1}	ATF1 {1.1.7.1.2}
+133	ATOH8.H12CORE.0.P.C	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	Tal-related {1.2.3}	Neurogenin-ATO {1.2.3.4}	ATOH8 {1.2.3.4.10}
+134	ATF3.H12CORE.1.P.B	Basic domains {1}	Basic leucine zipper factors (bZIP) {1.1}	Fos-related {1.1.2}	ATF3-like {1.1.2.2}	ATF3 {1.1.2.2.1}
+135	NF2L1.H12CORE.0.P.B	Basic domains {1}	Basic leucine zipper factors (bZIP) {1.1}	Jun-related {1.1.1}	NFE2 {1.1.1.2}	NF2L1 {1.1.1.2.2}
+136	ATF1.H12CORE.0.P.B	Basic domains {1}	Basic leucine zipper factors (bZIP) {1.1}	CREB-related {1.1.7}	CREB-like {1.1.7.1}	ATF1 {1.1.7.1.2}
+137	MLX.H12CORE.0.PM.A	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	bHLH-ZIP {1.2.6}	MONDOlike {1.2.6.6}	MLX {1.2.6.6.1}
+138	CEBPB.H12CORE.1.SM.B	Basic domains {1}	Basic leucine zipper factors (bZIP) {1.1}	C/EBP-related {1.1.8}	CEBP {1.1.8.1}	CEBPB {1.1.8.1.2}
+139	MYF5.H12CORE.0.P.B	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	MyoD-ASC-related {1.2.2}	Myogenic TFs {1.2.2.1}	MYF5 {1.2.2.1.3}
+140	CLOCK.H12CORE.0.M.C	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	PAS {1.2.5}	PAS-ARNT {1.2.5.2}	CLOCK {1.2.5.2.5}
+141	BACH2.H12CORE.0.P.B	Basic domains {1}	Basic leucine zipper factors (bZIP) {1.1}	Jun-related {1.1.1}	NFE2 {1.1.1.2}	BACH2 {1.1.1.2.6}
+142	BATF3.H12CORE.0.P.B	Basic domains {1}	Basic leucine zipper factors (bZIP) {1.1}	B-ATF-related {1.1.4}	null {1.1.4.0}	BATF3 {1.1.4.0.3}
+143	NFIL3.H12CORE.0.P.B	Basic domains {1}	Basic leucine zipper factors (bZIP) {1.1}	C/EBP-related {1.1.8}	PAR {1.1.8.2}	NFIL3 {1.1.8.2.3}
+144	MITF.H12CORE.0.P.B	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	bHLH-ZIP {1.2.6}	TFE3 {1.2.6.1}	MITF {1.2.6.1.4}
+145	ATOH1.H12CORE.1.SM.B	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	Tal-related {1.2.3}	Neurogenin-ATO {1.2.3.4}	ATOH1 {1.2.3.4.8}
+146	CR3L4.H12CORE.0.M.C	Basic domains {1}	Basic leucine zipper factors (bZIP) {1.1}	CREB-related {1.1.7}	CREB3-like {1.1.7.2}	CR3L4 {1.1.7.2.5}
+147	MLX.H12CORE.1.SM.B	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	bHLH-ZIP {1.2.6}	MONDOlike {1.2.6.6}	MLX {1.2.6.6.1}
+148	NGN2.H12CORE.1.SM.B	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	Tal-related {1.2.3}	Neurogenin-ATO {1.2.3.4}	NGN2 {1.2.3.4.6}
+149	HAND1.H12CORE.1.P.B	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	Tal-related {1.2.3}	TWIST {1.2.3.2}	HAND1 {1.2.3.2.3}
+150	MAFF.H12CORE.1.PSM.A	Basic domains {1}	Basic leucine zipper factors (bZIP) {1.1}	Maf-related {1.1.3}	Small MAF {1.1.3.2}	MAFF {1.1.3.2.1}
+151	JDP2.H12CORE.0.SM.B	Basic domains {1}	Basic leucine zipper factors (bZIP) {1.1}	Fos-related {1.1.2}	ATF3-like {1.1.2.2}	JDP2 {1.1.2.2.2}
+152	CR3L2.H12CORE.0.PS.A	Basic domains {1}	Basic leucine zipper factors (bZIP) {1.1}	CREB-related {1.1.7}	CREB3-like {1.1.7.2}	CR3L2 {1.1.7.2.3}
+153	ITF2.H12CORE.1.PSM.A	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	E2A {1.2.1}	E2A-like {1.2.1.0}	ITF2 {1.2.1.0.2}
+154	ARNT2.H12CORE.2.S.C	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	PAS {1.2.5}	PAS-ARNT {1.2.5.2}	ARNT2 {1.2.5.2.2}
+155	OLIG2.H12CORE.0.P.B	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	Tal-related {1.2.3}	Neurogenin-ATO {1.2.3.4}	OLIG2 {1.2.3.4.14}
+156	TFEC.H12CORE.1.SM.B	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	bHLH-ZIP {1.2.6}	TFE3 {1.2.6.1}	TFEC {1.2.6.1.3}
+157	FOSL1.H12CORE.0.P.B	Basic domains {1}	Basic leucine zipper factors (bZIP) {1.1}	Fos-related {1.1.2}	Fos {1.1.2.1}	FOSL1 {1.1.2.1.3}
+158	ATF4.H12CORE.2.SM.B	Basic domains {1}	Basic leucine zipper factors (bZIP) {1.1}	ATF4-related {1.1.6}	null {1.1.6.0}	ATF4 {1.1.6.0.1}
+159	SOLH2.H12CORE.0.S.C	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	PAS {1.2.5}	SOHLH {1.2.5.5}	SOLH2 {1.2.5.5.2}
+160	MAFG.H12CORE.0.PSM.A	Basic domains {1}	Basic leucine zipper factors (bZIP) {1.1}	Maf-related {1.1.3}	Small MAF {1.1.3.2}	MAFG {1.1.3.2.2}
+161	ATF3.H12CORE.2.P.B	Basic domains {1}	Basic leucine zipper factors (bZIP) {1.1}	Fos-related {1.1.2}	ATF3-like {1.1.2.2}	ATF3 {1.1.2.2.1}
+162	NDF1.H12CORE.0.P.B	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	Tal-related {1.2.3}	Neurogenin-ATO {1.2.3.4}	NDF1 {1.2.3.4.1}
+163	ITF2.H12CORE.0.S.B	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	E2A {1.2.1}	E2A-like {1.2.1.0}	ITF2 {1.2.1.0.2}
+164	USF2.H12CORE.0.PSM.A	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	bHLH-ZIP {1.2.6}	USF {1.2.6.2}	USF2 {1.2.6.2.2}
+165	HES5.H12CORE.0.SM.B	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	Hairy-related {1.2.4}	HAIRY {1.2.4.1}	HES5 {1.2.4.1.5}
+166	BHA15.H12CORE.1.SM.B	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	Tal-related {1.2.3}	Neurogenin-ATO {1.2.3.4}	BHA15 {1.2.3.4.16}
+167	MGAP.H12CORE.1.S.B	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	bHLH-ZIP {1.2.6}	MAD {1.2.6.7}	MGAP {1.2.6.7.4}
+168	HAND1.H12CORE.0.P.B	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	Tal-related {1.2.3}	TWIST {1.2.3.2}	HAND1 {1.2.3.2.3}
+169	CR3L4.H12CORE.1.S.C	Basic domains {1}	Basic leucine zipper factors (bZIP) {1.1}	CREB-related {1.1.7}	CREB3-like {1.1.7.2}	CR3L4 {1.1.7.2.5}
+170	FOSB.H12CORE.2.M.C	Basic domains {1}	Basic leucine zipper factors (bZIP) {1.1}	Fos-related {1.1.2}	Fos {1.1.2.1}	FOSB {1.1.2.1.2}
+171	TWST2.H12CORE.1.P.B	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	Tal-related {1.2.3}	TWIST {1.2.3.2}	TWST2 {1.2.3.2.2}
+172	ATF3.H12CORE.3.SM.B	Basic domains {1}	Basic leucine zipper factors (bZIP) {1.1}	Fos-related {1.1.2}	ATF3-like {1.1.2.2}	ATF3 {1.1.2.2.1}
+173	MAFB.H12CORE.0.PS.A	Basic domains {1}	Basic leucine zipper factors (bZIP) {1.1}	Maf-related {1.1.3}	Large MAF {1.1.3.1}	MAFB {1.1.3.1.3}
+174	AHR.H12CORE.0.P.B	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	PAS {1.2.5}	PAS-AHR {1.2.5.1}	AHR {1.2.5.1.1}
+175	MLXPL.H12CORE.0.S.B	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	bHLH-ZIP {1.2.6}	MONDOlike {1.2.6.6}	MLXPL {1.2.6.6.3}
+176	NFE2.H12CORE.1.SM.B	Basic domains {1}	Basic leucine zipper factors (bZIP) {1.1}	Jun-related {1.1.1}	NFE2 {1.1.1.2}	NFE2 {1.1.1.2.1}
+177	LYL1.H12CORE.0.P.C	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	Tal-related {1.2.3}	TAL-HEN {1.2.3.1}	LYL1 {1.2.3.1.3}
+178	HES1.H12CORE.1.S.C	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	Hairy-related {1.2.4}	HAIRY {1.2.4.1}	HES1 {1.2.4.1.1}
+179	PTF1A.H12CORE.0.P.B	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	Tal-related {1.2.3}	TWIST {1.2.3.2}	PTF1A {1.2.3.2.7}
+180	OLIG2.H12CORE.2.SM.B	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	Tal-related {1.2.3}	Neurogenin-ATO {1.2.3.4}	OLIG2 {1.2.3.4.14}
+181	MAFG.H12CORE.1.PSM.A	Basic domains {1}	Basic leucine zipper factors (bZIP) {1.1}	Maf-related {1.1.3}	Small MAF {1.1.3.2}	MAFG {1.1.3.2.2}
+182	CEBPG.H12CORE.2.P.B	Basic domains {1}	Basic leucine zipper factors (bZIP) {1.1}	C/EBP-related {1.1.8}	CEBP {1.1.8.1}	CEBPG {1.1.8.1.3}
+183	TAL1.H12CORE.2.P.B	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	Tal-related {1.2.3}	TAL-HEN {1.2.3.1}	TAL1 {1.2.3.1.1}
+184	TAL1.H12CORE.0.P.B	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	Tal-related {1.2.3}	TAL-HEN {1.2.3.1}	TAL1 {1.2.3.1.1}
+185	SRBP1.H12CORE.1.S.C	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	bHLH-ZIP {1.2.6}	SREBF {1.2.6.3}	SRBP1 {1.2.6.3.1}
+186	FOSL2.H12CORE.0.P.B	Basic domains {1}	Basic leucine zipper factors (bZIP) {1.1}	Fos-related {1.1.2}	Fos {1.1.2.1}	FOSL2 {1.1.2.1.4}
+187	ARNT2.H12CORE.0.P.B	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	PAS {1.2.5}	PAS-ARNT {1.2.5.2}	ARNT2 {1.2.5.2.2}
+188	HEN2.H12CORE.0.SM.B	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	Tal-related {1.2.3}	TAL-HEN {1.2.3.1}	HEN2 {1.2.3.1.5}
+189	DBP.H12CORE.0.SM.B	Basic domains {1}	Basic leucine zipper factors (bZIP) {1.1}	C/EBP-related {1.1.8}	PAR {1.1.8.2}	DBP {1.1.8.2.1}
+190	HES1.H12CORE.0.S.C	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	Hairy-related {1.2.4}	HAIRY {1.2.4.1}	HES1 {1.2.4.1.1}
+191	MXI1.H12CORE.0.P.B	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	bHLH-ZIP {1.2.6}	MAD {1.2.6.7}	MXI1 {1.2.6.7.5}
+192	FOS.H12CORE.0.P.B	Basic domains {1}	Basic leucine zipper factors (bZIP) {1.1}	Fos-related {1.1.2}	Fos {1.1.2.1}	FOS {1.1.2.1.1}
+193	HAND2.H12CORE.1.P.B	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	Tal-related {1.2.3}	TWIST {1.2.3.2}	HAND2 {1.2.3.2.4}
+194	OLIG2.H12CORE.1.P.B	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	Tal-related {1.2.3}	Neurogenin-ATO {1.2.3.4}	OLIG2 {1.2.3.4.14}
+195	HTF4.H12CORE.0.PSM.A	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	E2A {1.2.1}	E2A-like {1.2.1.0}	HTF4 {1.2.1.0.3}
+196	NGN1.H12CORE.0.SM.B	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	Tal-related {1.2.3}	Neurogenin-ATO {1.2.3.4}	NGN1 {1.2.3.4.5}
+197	JUN.H12CORE.0.P.B	Basic domains {1}	Basic leucine zipper factors (bZIP) {1.1}	Jun-related {1.1.1}	Jun {1.1.1.1}	JUN {1.1.1.1.1}
+198	TCF21.H12CORE.1.SM.B	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	Tal-related {1.2.3}	MESP {1.2.3.3}	TCF21 {1.2.3.3.5}
+199	ARNT.H12CORE.1.P.B	Basic domains {1}	Basic helix-loop-helix factors (bHLH) {1.2}	PAS {1.2.5}	PAS-ARNT {1.2.5.2}	ARNT {1.2.5.2.1}
+200	XBP1.H12CORE.1.M.B	Basic domains {1}	Basic leucine zipper factors (bZIP) {1.1}	XBP1-related {1.1.5}	null {1.1.5.0}	XBP1 {1.1.5.0.1}
+201	KLF8.H12CORE.1.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Three-zinc finger Kruppel-related {2.3.1}	Kr-like {2.3.1.2}	KLF8 {2.3.1.2.8}
+202	WT1.H12CORE.1.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	WT1 {2.3.3.0.21}
+203	ZN616.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF841-like {2.3.3.79}	ZN616 {2.3.3.79.3}
+204	RARA.H12CORE.2.P.B	Zinc-coordinating DNA-binding domains {2}	Nuclear receptors with C4 zinc fingers {2.1}	Thyroid hormone receptor-related {2.1.2}	RAR (NR1B) {2.1.2.1}	RARA {2.1.2.1.1}
+205	ERR3.H12CORE.0.PSM.A	Zinc-coordinating DNA-binding domains {2}	Nuclear receptors with C4 zinc fingers {2.1}	Steroid hormone receptors {2.1.1}	ER-like (NR3A) {2.1.1.2}	ERR3 {2.1.1.2.5}
+206	ZN768.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZN768 {2.3.3.0.95}
+207	ZN611.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF813-like {2.3.3.72}	ZN611 {2.3.3.72.3}
+208	NR6A1.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	Nuclear receptors with C4 zinc fingers {2.1}	GCNF (NR6) {2.1.6}	null {2.1.6.0}	NR6A1 {2.1.6.0.1}
+209	ZNF76.H12CORE.1.SM.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF76-like {2.3.3.28}	ZNF76 {2.3.3.28.1}
+210	KLF6.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Three-zinc finger Kruppel-related {2.3.1}	Kr-like {2.3.1.2}	KLF6 {2.3.1.2.6}
+211	ZN787.H12CORE.0.M.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Multiple dispersed zinc fingers {2.3.4}	Unclassified {2.3.4.0}	ZN787 {2.3.4.0.46}
+212	NR1I2.H12CORE.1.S.C	Zinc-coordinating DNA-binding domains {2}	Nuclear receptors with C4 zinc fingers {2.1}	Thyroid hormone receptor-related {2.1.2}	VDR (NR1I) {2.1.2.4}	NR1I2 {2.1.2.4.2}
+213	ZN322.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF322-like {2.3.3.52}	ZN322 {2.3.3.52.1}
+214	GFI1B.H12CORE.1.S.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	GFI1 {2.3.3.21}	GFI1B {2.3.3.21.2}
+215	ZBT26.H12CORE.0.PSM.A	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZBTB6-like {2.3.3.11}	ZBT26 {2.3.3.11.2}
+216	ZN274.H12CORE.0.SM.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZN274 {2.3.3.0.6}
+217	MCR.H12CORE.1.SM.B	Zinc-coordinating DNA-binding domains {2}	Nuclear receptors with C4 zinc fingers {2.1}	Steroid hormone receptors {2.1.1}	GR-like (NR3C) {2.1.1.1}	MCR {2.1.1.1.2}
+218	NR4A1.H12CORE.0.PSM.A	Zinc-coordinating DNA-binding domains {2}	Nuclear receptors with C4 zinc fingers {2.1}	NGFI (NR4A) {2.1.4}	null {2.1.4.0}	NR4A1 {2.1.4.0.1}
+219	ZN714.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZN714 {2.3.3.0.170}
+220	RARB.H12CORE.0.SM.B	Zinc-coordinating DNA-binding domains {2}	Nuclear receptors with C4 zinc fingers {2.1}	Thyroid hormone receptor-related {2.1.2}	RAR (NR1B) {2.1.2.1}	RARB {2.1.2.1.2}
+221	ZN444.H12CORE.0.S.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZN444 {2.3.3.0.24}
+222	PRD14.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	PRD14 {2.3.3.0.35}
+223	SALL4.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Multiple dispersed zinc fingers {2.3.4}	SAL-like {2.3.4.3}	SALL4 {2.3.4.3.4}
+224	ZN664.H12CORE.1.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZN664 {2.3.3.0.84}
+225	ZNF18.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZNF18 {2.3.3.0.20}
+226	ZFP91.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZFP91-like {2.3.3.3}	ZFP91 {2.3.3.3.1}
+227	ZSCA1.H12CORE.0.SM.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Other with up to three adjacent zinc fingers {2.3.2}	SCAN {2.3.2.3}	ZSCA1 {2.3.2.3.1}
+228	NR4A2.H12CORE.0.SM.B	Zinc-coordinating DNA-binding domains {2}	Nuclear receptors with C4 zinc fingers {2.1}	NGFI (NR4A) {2.1.4}	null {2.1.4.0}	NR4A2 {2.1.4.0.2}
+229	RARA.H12CORE.1.P.B	Zinc-coordinating DNA-binding domains {2}	Nuclear receptors with C4 zinc fingers {2.1}	Thyroid hormone receptor-related {2.1.2}	RAR (NR1B) {2.1.2.1}	RARA {2.1.2.1.1}
+230	ZNF26.H12CORE.1.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF26-like {2.3.3.70}	ZNF26 {2.3.3.70.1}
+231	ZN317.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZN317 {2.3.3.0.150}
+232	NR1D1.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	Nuclear receptors with C4 zinc fingers {2.1}	Thyroid hormone receptor-related {2.1.2}	REVERBA (NR1D) {2.1.2.3}	NR1D1 {2.1.2.3.1}
+233	OSR1.H12CORE.0.SM.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Other with up to three adjacent zinc fingers {2.3.2}	Other {2.3.2.4}	OSR1 {2.3.2.4.7}
+234	Z585A.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF81-like {2.3.3.68}	Z585A {2.3.3.68.6}
+235	ZN384.H12CORE.0.PSM.A	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF362-like {2.3.3.37}	ZN384 {2.3.3.37.2}
+236	ZN223.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF222-like {2.3.3.47}	ZN223 {2.3.3.47.2}
+237	ZN768.H12CORE.1.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZN768 {2.3.3.0.95}
+238	ZNF77.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF763-like {2.3.3.33}	ZNF77 {2.3.3.33.10}
+239	HNF4G.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	Nuclear receptors with C4 zinc fingers {2.1}	RXR-related receptors {2.1.3}	HNF4 (NR2A) {2.1.3.2}	HNF4G {2.1.3.2.2}
+240	ZN274.H12CORE.1.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZN274 {2.3.3.0.6}
+241	ZN790.H12CORE.1.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZN790 {2.3.3.0.158}
+242	ZNF12.H12CORE.1.M.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF12-like {2.3.3.81}	ZNF12 {2.3.3.81.1}
+243	ZN100.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF100-like {2.3.3.59}	ZN100 {2.3.3.59.1}
+244	Z354A.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF354A-like {2.3.3.64}	Z354A {2.3.3.64.1}
+245	ZN335.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Multiple dispersed zinc fingers {2.3.4}	Unclassified {2.3.4.0}	ZN335 {2.3.4.0.2}
+246	ZN736.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF736-like {2.3.3.48}	ZN736 {2.3.3.48.1}
+247	KLF5.H12CORE.0.PM.A	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Three-zinc finger Kruppel-related {2.3.1}	Kr-like {2.3.1.2}	KLF5 {2.3.1.2.5}
+248	ZN577.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF350-like {2.3.3.30}	ZN577 {2.3.3.30.2}
+249	ZIC5.H12CORE.1.M.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	GLI-lile {2.3.3.1}	ZIC5 {2.3.3.1.11}
+250	Z585B.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF81-like {2.3.3.68}	Z585B {2.3.3.68.5}
+251	ZN382.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Multiple dispersed zinc fingers {2.3.4}	ZNF37A-like {2.3.4.25}	ZN382 {2.3.4.25.5}
+252	ZN784.H12CORE.0.SM.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Multiple dispersed zinc fingers {2.3.4}	Unclassified {2.3.4.0}	ZN784 {2.3.4.0.40}
+253	ZN283.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF283-like {2.3.3.67}	ZN283 {2.3.3.67.1}
+254	HIC1.H12CORE.0.PSM.A	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Multiple dispersed zinc fingers {2.3.4}	HIC {2.3.4.17}	HIC1 {2.3.4.17.1}
+255	NR2F6.H12CORE.3.SM.B	Zinc-coordinating DNA-binding domains {2}	Nuclear receptors with C4 zinc fingers {2.1}	RXR-related receptors {2.1.3}	COUP (NR2F) {2.1.3.5}	NR2F6 {2.1.3.5.3}
+256	ZSC16.H12CORE.0.PSM.A	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZSC16 {2.3.3.0.15}
+257	ZN251.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Multiple dispersed zinc fingers {2.3.4}	Unclassified {2.3.4.0}	ZN251 {2.3.4.0.52}
+258	ZFP3.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZFP3 {2.3.3.0.162}
+259	STF1.H12CORE.0.PSM.A	Zinc-coordinating DNA-binding domains {2}	Nuclear receptors with C4 zinc fingers {2.1}	FTZF1-related (NR5A) {2.1.5}	null {2.1.5.0}	STF1 {2.1.5.0.1}
+260	SP9.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Three-zinc finger Kruppel-related {2.3.1}	Sp1-like {2.3.1.1}	SP9 {2.3.1.1.9}
+261	RXRB.H12CORE.2.PS.A	Zinc-coordinating DNA-binding domains {2}	Nuclear receptors with C4 zinc fingers {2.1}	RXR-related receptors {2.1.3}	RXR (NR2B) {2.1.3.1}	RXRB {2.1.3.1.2}
+262	ZN623.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZN623 {2.3.3.0.161}
+263	ZBTB6.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZBTB6-like {2.3.3.11}	ZBTB6 {2.3.3.11.1}
+264	THA.H12CORE.2.S.B	Zinc-coordinating DNA-binding domains {2}	Nuclear receptors with C4 zinc fingers {2.1}	Thyroid hormone receptor-related {2.1.2}	T3R (NR1A) {2.1.2.2}	THA {2.1.2.2.1}
+265	ZN660.H12CORE.0.SM.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZN660 {2.3.3.0.91}
+266	ZBT44.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZBT44 {2.3.3.0.28}
+267	NR1H3.H12CORE.1.P.B	Zinc-coordinating DNA-binding domains {2}	Nuclear receptors with C4 zinc fingers {2.1}	Thyroid hormone receptor-related {2.1.2}	LXR (NR1H) {2.1.2.7}	NR1H3 {2.1.2.7.1}
+268	ZN157.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF25-like {2.3.3.69}	ZN157 {2.3.3.69.2}
+269	KLF9.H12CORE.1.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Three-zinc finger Kruppel-related {2.3.1}	Kr-like {2.3.1.2}	KLF9 {2.3.1.2.9}
+270	ZN664.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZN664 {2.3.3.0.84}
+271	ZN266.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZN266 {2.3.3.0.165}
+272	EGR4.H12CORE.0.S.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Three-zinc finger Kruppel-related {2.3.1}	EGR {2.3.1.3}	EGR4 {2.3.1.3.4}
+273	ZN37A.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Multiple dispersed zinc fingers {2.3.4}	ZNF37A-like {2.3.4.25}	ZN37A {2.3.4.25.1}
+274	NR6A1.H12CORE.2.SM.B	Zinc-coordinating DNA-binding domains {2}	Nuclear receptors with C4 zinc fingers {2.1}	GCNF (NR6) {2.1.6}	null {2.1.6.0}	NR6A1 {2.1.6.0.1}
+275	ZSA5A.H12CORE.0.SM.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZSCAN5-like {2.3.3.5}	ZSA5A {2.3.3.5.1}
+276	ZN778.H12CORE.1.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Multiple dispersed zinc fingers {2.3.4}	Unclassified {2.3.4.0}	ZN778 {2.3.4.0.63}
+277	ZSC22.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZSC22 {2.3.3.0.70}
+278	ZIC5.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	GLI-lile {2.3.3.1}	ZIC5 {2.3.3.1.11}
+279	VDR.H12CORE.1.PS.A	Zinc-coordinating DNA-binding domains {2}	Nuclear receptors with C4 zinc fingers {2.1}	Thyroid hormone receptor-related {2.1.2}	VDR (NR1I) {2.1.2.4}	VDR {2.1.2.4.1}
+280	ZN264.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF460-like {2.3.3.54}	ZN264 {2.3.3.54.2}
+281	ZN267.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZN267 {2.3.3.0.186}
+282	ZN479.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF479-like {2.3.3.57}	ZN479 {2.3.3.57.1}
+283	SP1.H12CORE.1.SM.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Three-zinc finger Kruppel-related {2.3.1}	Sp1-like {2.3.1.1}	SP1 {2.3.1.1.1}
+284	NR1H3.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	Nuclear receptors with C4 zinc fingers {2.1}	Thyroid hormone receptor-related {2.1.2}	LXR (NR1H) {2.1.2.7}	NR1H3 {2.1.2.7.1}
+285	ZN257.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZN257 {2.3.3.0.139}
+286	PRD16.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Multiple dispersed zinc fingers {2.3.4}	EVI1-like {2.3.4.14}	PRD16 {2.3.4.14.2}
+287	RBAK.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF12-like {2.3.3.81}	RBAK {2.3.3.81.2}
+288	HNF4A.H12CORE.0.PSM.A	Zinc-coordinating DNA-binding domains {2}	Nuclear receptors with C4 zinc fingers {2.1}	RXR-related receptors {2.1.3}	HNF4 (NR2A) {2.1.3.2}	HNF4A {2.1.3.2.1}
+289	ZN189.H12CORE.1.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZN189 {2.3.3.0.197}
+290	ZSC29.H12CORE.1.M.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF500-like {2.3.3.19}	ZSC29 {2.3.3.19.4}
+291	ZIC2.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	GLI-lile {2.3.3.1}	ZIC2 {2.3.3.1.8}
+292	ZF64B.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZF64B {2.3.3.0.76}
+293	RARG.H12CORE.3.S.B	Zinc-coordinating DNA-binding domains {2}	Nuclear receptors with C4 zinc fingers {2.1}	Thyroid hormone receptor-related {2.1.2}	RAR (NR1B) {2.1.2.1}	RARG {2.1.2.1.3}
+294	ZN669.H12CORE.1.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF763-like {2.3.3.33}	ZN669 {2.3.3.33.4}
+295	NR1I2.H12CORE.0.M.C	Zinc-coordinating DNA-binding domains {2}	Nuclear receptors with C4 zinc fingers {2.1}	Thyroid hormone receptor-related {2.1.2}	VDR (NR1I) {2.1.2.4}	NR1I2 {2.1.2.4.2}
+296	KLF17.H12CORE.1.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Three-zinc finger Kruppel-related {2.3.1}	Kr-like {2.3.1.2}	KLF17 {2.3.1.2.17}
+297	SNAI1.H12CORE.0.PSM.A	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Snail-like {2.3.3.2}	SNAI1 {2.3.3.2.1}
+298	ZN564.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF763-like {2.3.3.33}	ZN564 {2.3.3.33.16}
+299	ZN789.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZN789 {2.3.3.0.61}
+300	ZN285.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF214-like {2.3.3.56}	ZN285 {2.3.3.56.2}
+301	GLI4.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF24-like {2.3.3.10}	GLI4 {2.3.3.10.4}
+302	KLF12.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Three-zinc finger Kruppel-related {2.3.1}	Kr-like {2.3.1.2}	KLF12 {2.3.1.2.12}
+303	ZBT12.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZBTB6-like {2.3.3.11}	ZBT12 {2.3.3.11.3}
+304	ZBT7A.H12CORE.1.SM.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZBTB7 {2.3.3.8}	ZBT7A {2.3.3.8.1}
+305	ZN296.H12CORE.0.S.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Multiple dispersed zinc fingers {2.3.4}	BCL11 {2.3.4.15}	ZN296 {2.3.4.15.3}
+306	RXRA.H12CORE.3.P.B	Zinc-coordinating DNA-binding domains {2}	Nuclear receptors with C4 zinc fingers {2.1}	RXR-related receptors {2.1.3}	RXR (NR2B) {2.1.3.1}	RXRA {2.1.3.1.1}
+307	COT1.H12CORE.0.PSM.A	Zinc-coordinating DNA-binding domains {2}	Nuclear receptors with C4 zinc fingers {2.1}	RXR-related receptors {2.1.3}	COUP (NR2F) {2.1.3.5}	COT1 {2.1.3.5.1}
+308	ZIC3.H12CORE.2.M.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	GLI-lile {2.3.3.1}	ZIC3 {2.3.3.1.9}
+309	SP3.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Three-zinc finger Kruppel-related {2.3.1}	Sp1-like {2.3.1.1}	SP3 {2.3.1.1.3}
+310	ANDR.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	Nuclear receptors with C4 zinc fingers {2.1}	Steroid hormone receptors {2.1.1}	GR-like (NR3C) {2.1.1.1}	ANDR {2.1.1.1.4}
+311	HINFP.H12CORE.2.S.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Multiple dispersed zinc fingers {2.3.4}	HINFP-like {2.3.4.21}	HINFP {2.3.4.21.1}
+312	ZN302.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF302-like {2.3.3.44}	ZN302 {2.3.3.44.1}
+313	RXRB.H12CORE.1.SM.B	Zinc-coordinating DNA-binding domains {2}	Nuclear receptors with C4 zinc fingers {2.1}	RXR-related receptors {2.1.3}	RXR (NR2B) {2.1.3.1}	RXRB {2.1.3.1.2}
+314	ZSA5C.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZSCAN5-like {2.3.3.5}	ZSA5C {2.3.3.5.3}
+315	ZN425.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZN425 {2.3.3.0.218}
+316	GCR.H12CORE.1.S.B	Zinc-coordinating DNA-binding domains {2}	Nuclear receptors with C4 zinc fingers {2.1}	Steroid hormone receptors {2.1.1}	GR-like (NR3C) {2.1.1.1}	GCR {2.1.1.1.1}
+317	EGR3.H12CORE.0.PSM.A	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Three-zinc finger Kruppel-related {2.3.1}	EGR {2.3.1.3}	EGR3 {2.3.1.3.3}
+318	RORA.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	Nuclear receptors with C4 zinc fingers {2.1}	Thyroid hormone receptor-related {2.1.2}	ROR (NR1F) {2.1.2.6}	RORA {2.1.2.6.1}
+319	GLI3.H12CORE.0.PS.A	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	GLI-lile {2.3.3.1}	GLI3 {2.3.3.1.3}
+320	ESR2.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	Nuclear receptors with C4 zinc fingers {2.1}	Steroid hormone receptors {2.1.1}	ER-like (NR3A) {2.1.1.2}	ESR2 {2.1.1.2.2}
+321	ZN134.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Multiple dispersed zinc fingers {2.3.4}	ZNF134-like {2.3.4.24}	ZN134 {2.3.4.24.1}
+322	MYNN.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	MYNN {2.3.3.0.54}
+323	KLF10.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Three-zinc finger Kruppel-related {2.3.1}	Kr-like {2.3.1.2}	KLF10 {2.3.1.2.10}
+324	ZNF76.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF76-like {2.3.3.28}	ZNF76 {2.3.3.28.1}
+325	ZN677.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZN677 {2.3.3.0.99}
+326	ZBT49.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZBT49 {2.3.3.0.38}
+327	ZBTB2.H12CORE.0.SM.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Multiple dispersed zinc fingers {2.3.4}	ZBTB1-like {2.3.4.6}	ZBTB2 {2.3.4.6.2}
+328	ZN787.H12CORE.1.S.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Multiple dispersed zinc fingers {2.3.4}	Unclassified {2.3.4.0}	ZN787 {2.3.4.0.46}
+329	ZSC21.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZSC21 {2.3.3.0.47}
+330	ZN530.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZN530 {2.3.3.0.153}
+331	ZN224.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF222-like {2.3.3.47}	ZN224 {2.3.3.47.6}
+332	ZN260.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF146-like {2.3.3.55}	ZN260 {2.3.3.55.2}
+333	ZN605.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF300-like {2.3.3.71}	ZN605 {2.3.3.71.2}
+334	KLF13.H12CORE.1.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Three-zinc finger Kruppel-related {2.3.1}	Kr-like {2.3.1.2}	KLF13 {2.3.1.2.13}
+335	ZN430.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF100-like {2.3.3.59}	ZN430 {2.3.3.59.2}
+336	ZN716.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF479-like {2.3.3.57}	ZN716 {2.3.3.57.2}
+337	ZN205.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZN205 {2.3.3.0.58}
+338	ZN136.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF763-like {2.3.3.33}	ZN136 {2.3.3.33.15}
+339	SP5.H12CORE.1.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Three-zinc finger Kruppel-related {2.3.1}	Sp1-like {2.3.1.1}	SP5 {2.3.1.1.5}
+340	ZN341.H12CORE.1.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Multiple dispersed zinc fingers {2.3.4}	Unclassified {2.3.4.0}	ZN341 {2.3.4.0.35}
+341	ZNF12.H12CORE.2.S.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF12-like {2.3.3.81}	ZNF12 {2.3.3.81.1}
+342	ZN213.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF75-like {2.3.3.6}	ZN213 {2.3.3.6.4}
+343	ZIC4.H12CORE.0.SM.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	GLI-lile {2.3.3.1}	ZIC4 {2.3.3.1.10}
+344	ZN708.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZN708 {2.3.3.0.181}
+345	GLIS1.H12CORE.2.SM.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	GLI-lile {2.3.3.1}	GLIS1 {2.3.3.1.4}
+346	ZN652.H12CORE.0.PS.A	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF652-like {2.3.3.29}	ZN652 {2.3.3.29.1}
+347	SP2.H12CORE.1.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Three-zinc finger Kruppel-related {2.3.1}	Sp1-like {2.3.1.1}	SP2 {2.3.1.1.2}
+348	ZN558.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF558-like {2.3.3.43}	ZN558 {2.3.3.43.1}
+349	THB.H12CORE.1.PSM.A	Zinc-coordinating DNA-binding domains {2}	Nuclear receptors with C4 zinc fingers {2.1}	Thyroid hormone receptor-related {2.1.2}	T3R (NR1A) {2.1.2.2}	THB {2.1.2.2.2}
+350	PATZ1.H12CORE.1.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Multiple dispersed zinc fingers {2.3.4}	MAZ-like {2.3.4.8}	PATZ1 {2.3.4.8.3}
+351	ZBT7C.H12CORE.0.S.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZBTB7 {2.3.3.8}	ZBT7C {2.3.3.8.3}
+352	NR1H2.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	Nuclear receptors with C4 zinc fingers {2.1}	Thyroid hormone receptor-related {2.1.2}	LXR (NR1H) {2.1.2.7}	NR1H2 {2.1.2.7.2}
+353	ZNF26.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF26-like {2.3.3.70}	ZNF26 {2.3.3.70.1}
+354	ZN329.H12CORE.1.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZN329 {2.3.3.0.148}
+355	ZN506.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZN506 {2.3.3.0.64}
+356	ZN383.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF620-like {2.3.3.35}	ZN383 {2.3.3.35.5}
+357	COT1.H12CORE.1.PSM.A	Zinc-coordinating DNA-binding domains {2}	Nuclear receptors with C4 zinc fingers {2.1}	RXR-related receptors {2.1.3}	COUP (NR2F) {2.1.3.5}	COT1 {2.1.3.5.1}
+358	ZIC5.H12CORE.2.S.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	GLI-lile {2.3.3.1}	ZIC5 {2.3.3.1.11}
+359	ZN317.H12CORE.1.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZN317 {2.3.3.0.150}
+360	ZIC1.H12CORE.1.M.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	GLI-lile {2.3.3.1}	ZIC1 {2.3.3.1.7}
+361	ZN273.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZN273 {2.3.3.0.155}
+362	KLF6.H12CORE.1.SM.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Three-zinc finger Kruppel-related {2.3.1}	Kr-like {2.3.1.2}	KLF6 {2.3.1.2.6}
+363	ZNF16.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZNF16 {2.3.3.0.204}
+364	ZN304.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Multiple dispersed zinc fingers {2.3.4}	Unclassified {2.3.4.0}	ZN304 {2.3.4.0.69}
+365	KLF13.H12CORE.0.PSM.A	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Three-zinc finger Kruppel-related {2.3.1}	Kr-like {2.3.1.2}	KLF13 {2.3.1.2.13}
+366	GLIS3.H12CORE.1.S.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	GLI-lile {2.3.3.1}	GLIS3 {2.3.3.1.6}
+367	ZN441.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZN441 {2.3.3.0.221}
+368	KLF14.H12CORE.1.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Three-zinc finger Kruppel-related {2.3.1}	Kr-like {2.3.1.2}	KLF14 {2.3.1.2.14}
+369	ZN121.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZN121 {2.3.3.0.112}
+370	ZN680.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZN680 {2.3.3.0.140}
+371	PRDM5.H12CORE.1.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	PRDM5 {2.3.3.0.195}
+372	ZN443.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF442-like {2.3.3.74}	ZN443 {2.3.3.74.5}
+373	ZN134.H12CORE.1.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Multiple dispersed zinc fingers {2.3.4}	ZNF134-like {2.3.4.24}	ZN134 {2.3.4.24.1}
+374	ZBT16.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZBT16 {2.3.3.0.74}
+375	FEZF1.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	FEZF {2.3.3.20}	FEZF1 {2.3.3.20.1}
+376	NR1D2.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	Nuclear receptors with C4 zinc fingers {2.1}	Thyroid hormone receptor-related {2.1.2}	REVERBA (NR1D) {2.1.2.3}	NR1D2 {2.1.2.3.2}
+377	VEZF1.H12CORE.1.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Multiple dispersed zinc fingers {2.3.4}	MAZ-like {2.3.4.8}	VEZF1 {2.3.4.8.2}
+378	TYY1.H12CORE.1.S.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	YY1-like {2.3.3.9}	TYY1 {2.3.3.9.1}
+379	THB.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	Nuclear receptors with C4 zinc fingers {2.1}	Thyroid hormone receptor-related {2.1.2}	T3R (NR1A) {2.1.2.2}	THB {2.1.2.2.2}
+380	ZKSC8.H12CORE.1.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZKSC8 {2.3.3.0.81}
+381	WT1.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	WT1 {2.3.3.0.21}
+382	ZN174.H12CORE.0.M.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Other with up to three adjacent zinc fingers {2.3.2}	SCAN {2.3.2.3}	ZN174 {2.3.2.3.2}
+383	REST.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Multiple dispersed zinc fingers {2.3.4}	Unclassified {2.3.4.0}	REST {2.3.4.0.27}
+384	PPARG.H12CORE.1.P.B	Zinc-coordinating DNA-binding domains {2}	Nuclear receptors with C4 zinc fingers {2.1}	Thyroid hormone receptor-related {2.1.2}	PPAR (NR1C) {2.1.2.5}	PPARG {2.1.2.5.3}
+385	ZN713.H12CORE.0.SM.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZN713 {2.3.3.0.14}
+386	ZN143.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF76-like {2.3.3.28}	ZN143 {2.3.3.28.2}
+387	ZN263.H12CORE.1.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZN263 {2.3.3.0.79}
+388	ZN101.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Multiple dispersed zinc fingers {2.3.4}	Unclassified {2.3.4.0}	ZN101 {2.3.4.0.51}
+389	ZN770.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Multiple dispersed zinc fingers {2.3.4}	Unclassified {2.3.4.0}	ZN770 {2.3.4.0.26}
+390	ZN449.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZN449 {2.3.3.0.41}
+391	ZN441.H12CORE.1.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZN441 {2.3.3.0.221}
+392	Z705G.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF705 {2.3.3.7}	Z705G {2.3.3.7.3}
+393	ZNF3.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF3-like {2.3.3.34}	ZNF3 {2.3.3.34.1}
+394	ZN681.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZN681 {2.3.3.0.200}
+395	SNAI2.H12CORE.0.PSM.A	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Snail-like {2.3.3.2}	SNAI2 {2.3.3.2.2}
+396	ZNF8.H12CORE.1.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Multiple dispersed zinc fingers {2.3.4}	Unclassified {2.3.4.0}	ZNF8 {2.3.4.0.29}
+397	ZN239.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZN239 {2.3.3.0.83}
+398	RARB.H12CORE.1.P.B	Zinc-coordinating DNA-binding domains {2}	Nuclear receptors with C4 zinc fingers {2.1}	Thyroid hormone receptor-related {2.1.2}	RAR (NR1B) {2.1.2.1}	RARB {2.1.2.1.2}
+399	ZN549.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZN549 {2.3.3.0.180}
+400	PRD13.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Multiple dispersed zinc fingers {2.3.4}	Unclassified {2.3.4.0}	PRD13 {2.3.4.0.12}
+401	ZN799.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF442-like {2.3.3.74}	ZN799 {2.3.3.74.4}
+402	ZBT17.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Multiple dispersed zinc fingers {2.3.4}	Unclassified {2.3.4.0}	ZBT17 {2.3.4.0.72}
+403	ZN610.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZN610 {2.3.3.0.89}
+404	ZN562.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF562-like {2.3.3.45}	ZN562 {2.3.3.45.1}
+405	ZNF24.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF24-like {2.3.3.10}	ZNF24 {2.3.3.10.1}
+406	ZN547.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZN547 {2.3.3.0.97}
+407	ZNF81.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF81-like {2.3.3.68}	ZNF81 {2.3.3.68.1}
+408	ZN880.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZN880 {2.3.3.0.173}
+409	ZBED5.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	BED zinc finger {2.3.5}	null {2.3.5.0}	ZBED5 {2.3.5.0.5}
+410	ZBT20.H12CORE.0.SM.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZBTB20-like {2.3.3.14}	ZBT20 {2.3.3.14.1}
+411	ZIC3.H12CORE.1.S.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	GLI-lile {2.3.3.1}	ZIC3 {2.3.3.1.9}
+412	GLI2.H12CORE.0.PSM.A	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	GLI-lile {2.3.3.1}	GLI2 {2.3.3.1.2}
+413	SP4.H12CORE.1.S.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Three-zinc finger Kruppel-related {2.3.1}	Sp1-like {2.3.1.1}	SP4 {2.3.1.1.4}
+414	ZFP69.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF642-like {2.3.3.31}	ZFP69 {2.3.3.31.1}
+415	ZN610.H12CORE.1.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZN610 {2.3.3.0.89}
+416	ZNF32.H12CORE.0.SM.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF32-like {2.3.3.41}	ZNF32 {2.3.3.41.1}
+417	E4F1.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Multiple dispersed zinc fingers {2.3.4}	Unclassified {2.3.4.0}	E4F1 {2.3.4.0.74}
+418	COT2.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	Nuclear receptors with C4 zinc fingers {2.1}	RXR-related receptors {2.1.3}	COUP (NR2F) {2.1.3.5}	COT2 {2.1.3.5.2}
+419	ZN891.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF177-like {2.3.3.40}	ZN891 {2.3.3.40.2}
+420	ZN490.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF763-like {2.3.3.33}	ZN490 {2.3.3.33.11}
+421	SP2.H12CORE.0.P.D	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Three-zinc finger Kruppel-related {2.3.1}	Sp1-like {2.3.1.1}	SP2 {2.3.1.1.2}
+422	RXRB.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	Nuclear receptors with C4 zinc fingers {2.1}	RXR-related receptors {2.1.3}	RXR (NR2B) {2.1.3.1}	RXRB {2.1.3.1.2}
+423	ZN211.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Multiple dispersed zinc fingers {2.3.4}	ZNF417-like {2.3.4.1}	ZN211 {2.3.4.1.6}
+424	ZSC31.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF24-like {2.3.3.10}	ZSC31 {2.3.3.10.7}
+425	ZN75A.H12CORE.0.SM.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF75-like {2.3.3.6}	ZN75A {2.3.3.6.1}
+426	ZN879.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZN879 {2.3.3.0.157}
+427	ZN263.H12CORE.0.PM.A	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZN263 {2.3.3.0.79}
+428	ZFP57.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Multiple dispersed zinc fingers {2.3.4}	Unclassified {2.3.4.0}	ZFP57 {2.3.4.0.28}
+429	ZIC1.H12CORE.2.S.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	GLI-lile {2.3.3.1}	ZIC1 {2.3.3.1.7}
+430	ZN274.H12CORE.2.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZN274 {2.3.3.0.6}
+431	Z280A.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF280-like {2.3.3.4}	Z280A {2.3.3.4.1}
+432	ZN416.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZN416 {2.3.3.0.127}
+433	ZN790.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZN790 {2.3.3.0.158}
+434	ZBT43.H12CORE.0.S.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Other with up to three adjacent zinc fingers {2.3.2}	BTB-POZ {2.3.2.1}	ZBT43 {2.3.2.1.10}
+435	PRDM4.H12CORE.0.PSM.A	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Multiple dispersed zinc fingers {2.3.4}	Unclassified {2.3.4.0}	PRDM4 {2.3.4.0.31}
+436	ZN707.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZN707 {2.3.3.0.51}
+437	PRDM5.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	PRDM5 {2.3.3.0.195}
+438	SP8.H12CORE.0.SM.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Three-zinc finger Kruppel-related {2.3.1}	Sp1-like {2.3.1.1}	SP8 {2.3.1.1.8}
+439	ZNF12.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF12-like {2.3.3.81}	ZNF12 {2.3.3.81.1}
+440	GCR.H12CORE.0.PS.A	Zinc-coordinating DNA-binding domains {2}	Nuclear receptors with C4 zinc fingers {2.1}	Steroid hormone receptors {2.1.1}	GR-like (NR3C) {2.1.1.1}	GCR {2.1.1.1.1}
+441	ZN662.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZN662 {2.3.3.0.62}
+442	SNAI3.H12CORE.0.S.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Snail-like {2.3.3.2}	SNAI3 {2.3.3.2.3}
+443	ZKSC8.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZKSC8 {2.3.3.0.81}
+444	ZN816.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF816A-like {2.3.3.73}	ZN816 {2.3.3.73.1}
+445	ZN534.H12CORE.1.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZN534 {2.3.3.0.207}
+446	SP1.H12CORE.2.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Three-zinc finger Kruppel-related {2.3.1}	Sp1-like {2.3.1.1}	SP1 {2.3.1.1.1}
+447	KAISO.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Other with up to three adjacent zinc fingers {2.3.2}	BTB-POZ {2.3.2.1}	KAISO {2.3.2.1.12}
+448	ZN502.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZN502 {2.3.3.0.175}
+449	ZN140.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF302-like {2.3.3.44}	ZN140 {2.3.3.44.4}
+450	ZN823.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF442-like {2.3.3.74}	ZN823 {2.3.3.74.2}
+451	ZN184.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZN184 {2.3.3.0.220}
+452	ZN320.H12CORE.1.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZN320 {2.3.3.0.136}
+453	ZN492.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF98-like {2.3.3.60}	ZN492 {2.3.3.60.2}
+454	ZN140.H12CORE.1.SM.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF302-like {2.3.3.44}	ZN140 {2.3.3.44.4}
+455	EGR2.H12CORE.0.PSM.A	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Three-zinc finger Kruppel-related {2.3.1}	EGR {2.3.1.3}	EGR2 {2.3.1.3.2}
+456	RARG.H12CORE.2.SM.B	Zinc-coordinating DNA-binding domains {2}	Nuclear receptors with C4 zinc fingers {2.1}	Thyroid hormone receptor-related {2.1.2}	RAR (NR1B) {2.1.2.1}	RARG {2.1.2.1.3}
+457	ESR1.H12CORE.1.P.B	Zinc-coordinating DNA-binding domains {2}	Nuclear receptors with C4 zinc fingers {2.1}	Steroid hormone receptors {2.1.1}	ER-like (NR3A) {2.1.1.2}	ESR1 {2.1.1.2.1}
+458	ZN766.H12CORE.1.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZN766 {2.3.3.0.98}
+459	ZN740.H12CORE.1.S.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Other with up to three adjacent zinc fingers {2.3.2}	Other {2.3.2.4}	ZN740 {2.3.2.4.5}
+460	ZBT14.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZBT14 {2.3.3.0.1}
+461	MAZ.H12CORE.1.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Multiple dispersed zinc fingers {2.3.4}	MAZ-like {2.3.4.8}	MAZ {2.3.4.8.1}
+462	SP5.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Three-zinc finger Kruppel-related {2.3.1}	Sp1-like {2.3.1.1}	SP5 {2.3.1.1.5}
+463	ZN684.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZN684 {2.3.3.0.68}
+464	ZN112.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Multiple dispersed zinc fingers {2.3.4}	Unclassified {2.3.4.0}	ZN112 {2.3.4.0.65}
+465	ZN250.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZN250 {2.3.3.0.160}
+466	EGR1.H12CORE.0.PS.A	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Three-zinc finger Kruppel-related {2.3.1}	EGR {2.3.1.3}	EGR1 {2.3.1.3.1}
+467	ZN584.H12CORE.1.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZN584 {2.3.3.0.67}
+468	ZN75D.H12CORE.1.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF75-like {2.3.3.6}	ZN75D {2.3.3.6.3}
+469	ZN682.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZN682 {2.3.3.0.109}
+470	ZN684.H12CORE.1.M.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZN684 {2.3.3.0.68}
+471	NR2E1.H12CORE.1.S.B	Zinc-coordinating DNA-binding domains {2}	Nuclear receptors with C4 zinc fingers {2.1}	RXR-related receptors {2.1.3}	TLX (NR2E1) {2.1.3.3}	NR2E1 {2.1.3.3.1}
+472	ZBED1.H12CORE.0.S.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	BED zinc finger {2.3.5}	null {2.3.5.0}	ZBED1 {2.3.5.0.1}
+473	ZN335.H12CORE.1.P.D	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Multiple dispersed zinc fingers {2.3.4}	Unclassified {2.3.4.0}	ZN335 {2.3.4.0.2}
+474	NR2C2.H12CORE.1.PS.A	Zinc-coordinating DNA-binding domains {2}	Nuclear receptors with C4 zinc fingers {2.1}	RXR-related receptors {2.1.3}	TR (NR2C) {2.1.3.4}	NR2C2 {2.1.3.4.2}
+475	ZN708.H12CORE.1.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZN708 {2.3.3.0.181}
+476	ZNF30.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF283-like {2.3.3.67}	ZNF30 {2.3.3.67.6}
+477	NR1H2.H12CORE.1.P.C	Zinc-coordinating DNA-binding domains {2}	Nuclear receptors with C4 zinc fingers {2.1}	Thyroid hormone receptor-related {2.1.2}	LXR (NR1H) {2.1.2.7}	NR1H2 {2.1.2.7.2}
+478	RORG.H12CORE.0.M.C	Zinc-coordinating DNA-binding domains {2}	Nuclear receptors with C4 zinc fingers {2.1}	Thyroid hormone receptor-related {2.1.2}	ROR (NR1F) {2.1.2.6}	RORG {2.1.2.6.3}
+479	NR2F6.H12CORE.1.PSM.A	Zinc-coordinating DNA-binding domains {2}	Nuclear receptors with C4 zinc fingers {2.1}	RXR-related receptors {2.1.3}	COUP (NR2F) {2.1.3.5}	NR2F6 {2.1.3.5.3}
+480	ZN543.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF460-like {2.3.3.54}	ZN543 {2.3.3.54.4}
+481	KLF11.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Three-zinc finger Kruppel-related {2.3.1}	Kr-like {2.3.1.2}	KLF11 {2.3.1.2.11}
+482	ZN417.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Multiple dispersed zinc fingers {2.3.4}	ZNF417-like {2.3.4.1}	ZN417 {2.3.4.1.1}
+483	RARA.H12CORE.3.P.B	Zinc-coordinating DNA-binding domains {2}	Nuclear receptors with C4 zinc fingers {2.1}	Thyroid hormone receptor-related {2.1.2}	RAR (NR1B) {2.1.2.1}	RARA {2.1.2.1.1}
+484	ZN135.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZN135 {2.3.3.0.202}
+485	NR1H4.H12CORE.2.P.B	Zinc-coordinating DNA-binding domains {2}	Nuclear receptors with C4 zinc fingers {2.1}	Thyroid hormone receptor-related {2.1.2}	LXR (NR1H) {2.1.2.7}	NR1H4 {2.1.2.7.3}
+486	NR1H4.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	Nuclear receptors with C4 zinc fingers {2.1}	Thyroid hormone receptor-related {2.1.2}	LXR (NR1H) {2.1.2.7}	NR1H4 {2.1.2.7.3}
+487	ZN621.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF620-like {2.3.3.35}	ZN621 {2.3.3.35.2}
+488	ZN580.H12CORE.0.SM.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Other with up to three adjacent zinc fingers {2.3.2}	Other {2.3.2.4}	ZN580 {2.3.2.4.3}
+489	RARG.H12CORE.1.PSM.A	Zinc-coordinating DNA-binding domains {2}	Nuclear receptors with C4 zinc fingers {2.1}	Thyroid hormone receptor-related {2.1.2}	RAR (NR1B) {2.1.2.1}	RARG {2.1.2.1.3}
+490	RXRG.H12CORE.2.P.B	Zinc-coordinating DNA-binding domains {2}	Nuclear receptors with C4 zinc fingers {2.1}	RXR-related receptors {2.1.3}	RXR (NR2B) {2.1.3.1}	RXRG {2.1.3.1.3}
+491	ZN730.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF100-like {2.3.3.59}	ZN730 {2.3.3.59.4}
+492	PPARA.H12CORE.1.P.B	Zinc-coordinating DNA-binding domains {2}	Nuclear receptors with C4 zinc fingers {2.1}	Thyroid hormone receptor-related {2.1.2}	PPAR (NR1C) {2.1.2.5}	PPARA {2.1.2.5.1}
+493	ZBT26.H12CORE.1.SM.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZBTB6-like {2.3.3.11}	ZBT26 {2.3.3.11.2}
+494	NR2F6.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	Nuclear receptors with C4 zinc fingers {2.1}	RXR-related receptors {2.1.3}	COUP (NR2F) {2.1.3.5}	NR2F6 {2.1.3.5.3}
+495	ZN197.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZN197 {2.3.3.0.228}
+496	OSR2.H12CORE.1.M.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	OSR2 {2.3.3.0.9}
+497	ZN674.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Multiple dispersed zinc fingers {2.3.4}	Unclassified {2.3.4.0}	ZN674 {2.3.4.0.57}
+498	GLIS3.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	GLI-lile {2.3.3.1}	GLIS3 {2.3.3.1.6}
+499	GLIS1.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	GLI-lile {2.3.3.1}	GLIS1 {2.3.3.1.4}
+500	ZN615.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF432-like {2.3.3.75}	ZN615 {2.3.3.75.2}
+501	ZFP1.H12CORE.0.PSM.A	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZFP1 {2.3.3.0.72}
+502	ZN468.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF525-like {2.3.3.27}	ZN468 {2.3.3.27.4}
+503	ZN570.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF642-like {2.3.3.31}	ZN570 {2.3.3.31.3}
+504	NR2C2.H12CORE.0.SM.B	Zinc-coordinating DNA-binding domains {2}	Nuclear receptors with C4 zinc fingers {2.1}	RXR-related receptors {2.1.3}	TR (NR2C) {2.1.3.4}	NR2C2 {2.1.3.4.2}
+505	ZN793.H12CORE.1.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZN793 {2.3.3.0.16}
+506	MZF1.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	MZF1 {2.3.3.0.152}
+507	TYY2.H12CORE.1.SM.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	YY1-like {2.3.3.9}	TYY2 {2.3.3.9.2}
+508	ZN432.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF432-like {2.3.3.75}	ZN432 {2.3.3.75.1}
+509	THB.H12CORE.3.S.C	Zinc-coordinating DNA-binding domains {2}	Nuclear receptors with C4 zinc fingers {2.1}	Thyroid hormone receptor-related {2.1.2}	T3R (NR1A) {2.1.2.2}	THB {2.1.2.2.2}
+510	KLF16.H12CORE.1.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Three-zinc finger Kruppel-related {2.3.1}	Kr-like {2.3.1.2}	KLF16 {2.3.1.2.16}
+511	PPARA.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	Nuclear receptors with C4 zinc fingers {2.1}	Thyroid hormone receptor-related {2.1.2}	PPAR (NR1C) {2.1.2.5}	PPARA {2.1.2.5.1}
+512	KLF17.H12CORE.0.M.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Three-zinc finger Kruppel-related {2.3.1}	Kr-like {2.3.1.2}	KLF17 {2.3.1.2.17}
+513	ZNF90.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZNF90 {2.3.3.0.184}
+514	SCRT1.H12CORE.0.PSM.A	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Snail-like {2.3.3.2}	SCRT1 {2.3.3.2.4}
+515	HIC2.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Multiple dispersed zinc fingers {2.3.4}	HIC {2.3.4.17}	HIC2 {2.3.4.17.2}
+516	NR2F6.H12CORE.2.SM.B	Zinc-coordinating DNA-binding domains {2}	Nuclear receptors with C4 zinc fingers {2.1}	RXR-related receptors {2.1.3}	COUP (NR2F) {2.1.3.5}	NR2F6 {2.1.3.5.3}
+517	ZN682.H12CORE.1.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZN682 {2.3.3.0.109}
+518	GLIS2.H12CORE.0.SM.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	GLI-lile {2.3.3.1}	GLIS2 {2.3.3.1.5}
+519	ZN561.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF562-like {2.3.3.45}	ZN561 {2.3.3.45.3}
+520	ZN165.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZN165 {2.3.3.0.32}
+521	SP4.H12CORE.2.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Three-zinc finger Kruppel-related {2.3.1}	Sp1-like {2.3.1.1}	SP4 {2.3.1.1.4}
+522	ZNF74.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZNF74 {2.3.3.0.132}
+523	KLF14.H12CORE.0.PSM.A	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Three-zinc finger Kruppel-related {2.3.1}	Kr-like {2.3.1.2}	KLF14 {2.3.1.2.14}
+524	ZN701.H12CORE.1.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF525-like {2.3.3.27}	ZN701 {2.3.3.27.2}
+525	ZBT40.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZBT40 {2.3.3.0.123}
+526	NR2E1.H12CORE.0.SM.B	Zinc-coordinating DNA-binding domains {2}	Nuclear receptors with C4 zinc fingers {2.1}	RXR-related receptors {2.1.3}	TLX (NR2E1) {2.1.3.3}	NR2E1 {2.1.3.3.1}
+527	ZN578.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZN578 {2.3.3.0.135}
+528	ERR2.H12CORE.0.PSM.A	Zinc-coordinating DNA-binding domains {2}	Nuclear receptors with C4 zinc fingers {2.1}	Steroid hormone receptors {2.1.1}	ER-like (NR3A) {2.1.1.2}	ERR2 {2.1.1.2.4}
+529	GLI1.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	GLI-lile {2.3.3.1}	GLI1 {2.3.3.1.1}
+530	ZN467.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Multiple dispersed zinc fingers {2.3.4}	Unclassified {2.3.4.0}	ZN467 {2.3.4.0.45}
+531	ZNF2.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF302-like {2.3.3.44}	ZNF2 {2.3.3.44.2}
+532	KLF4.H12CORE.0.PSM.A	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Three-zinc finger Kruppel-related {2.3.1}	Kr-like {2.3.1.2}	KLF4 {2.3.1.2.4}
+533	ZBT14.H12CORE.1.S.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZBT14 {2.3.3.0.1}
+534	ZN771.H12CORE.0.SM.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF764-like {2.3.3.39}	ZN771 {2.3.3.39.3}
+535	ZN529.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZN529 {2.3.3.0.145}
+536	ZIC1.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	GLI-lile {2.3.3.1}	ZIC1 {2.3.3.1.7}
+537	ZN749.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZN749 {2.3.3.0.217}
+538	ZN284.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF222-like {2.3.3.47}	ZN284 {2.3.3.47.8}
+539	KLF7.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Three-zinc finger Kruppel-related {2.3.1}	Kr-like {2.3.1.2}	KLF7 {2.3.1.2.7}
+540	ZFP90.H12CORE.1.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZFP90 {2.3.3.0.149}
+541	ZN454.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZN454 {2.3.3.0.125}
+542	KLF15.H12CORE.1.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Three-zinc finger Kruppel-related {2.3.1}	Kr-like {2.3.1.2}	KLF15 {2.3.1.2.15}
+543	ZN586.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZN586 {2.3.3.0.115}
+544	ZN132.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Multiple dispersed zinc fingers {2.3.4}	Unclassified {2.3.4.0}	ZN132 {2.3.4.0.70}
+545	ZN671.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Multiple dispersed zinc fingers {2.3.4}	ZNF134-like {2.3.4.24}	ZN671 {2.3.4.24.2}
+546	ZN716.H12CORE.1.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF479-like {2.3.3.57}	ZN716 {2.3.3.57.2}
+547	ZN214.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF214-like {2.3.3.56}	ZN214 {2.3.3.56.1}
+548	ZN560.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZN560 {2.3.3.0.177}
+549	ZNF34.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZNF34 {2.3.3.0.130}
+550	ZN519.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Multiple dispersed zinc fingers {2.3.4}	Unclassified {2.3.4.0}	ZN519 {2.3.4.0.68}
+551	ZN574.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Multiple dispersed zinc fingers {2.3.4}	ZNF526-like {2.3.4.22}	ZN574 {2.3.4.22.2}
+552	PATZ1.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Multiple dispersed zinc fingers {2.3.4}	MAZ-like {2.3.4.8}	PATZ1 {2.3.4.8.3}
+553	ZN860.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF813-like {2.3.3.72}	ZN860 {2.3.3.72.2}
+554	ZN667.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZN667 {2.3.3.0.179}
+555	RXRG.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	Nuclear receptors with C4 zinc fingers {2.1}	RXR-related receptors {2.1.3}	RXR (NR2B) {2.1.3.1}	RXRG {2.1.3.1.3}
+556	ZN510.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Multiple dispersed zinc fingers {2.3.4}	ZNF37A-like {2.3.4.25}	ZN510 {2.3.4.25.6}
+557	ZF64B.H12CORE.1.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZF64B {2.3.3.0.76}
+558	ZN177.H12CORE.0.SM.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF177-like {2.3.3.40}	ZN177 {2.3.3.40.1}
+559	ZN483.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZN483 {2.3.3.0.101}
+560	VEZF1.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Multiple dispersed zinc fingers {2.3.4}	MAZ-like {2.3.4.8}	VEZF1 {2.3.4.8.2}
+561	VDR.H12CORE.0.PS.A	Zinc-coordinating DNA-binding domains {2}	Nuclear receptors with C4 zinc fingers {2.1}	Thyroid hormone receptor-related {2.1.2}	VDR (NR1I) {2.1.2.4}	VDR {2.1.2.4.1}
+562	TZAP.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	TZAP {2.3.3.0.102}
+563	ZN433.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZN433 {2.3.3.0.224}
+564	ZN627.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF763-like {2.3.3.33}	ZN627 {2.3.3.33.7}
+565	ZN649.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF350-like {2.3.3.30}	ZN649 {2.3.3.30.3}
+566	KAISO.H12CORE.1.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Other with up to three adjacent zinc fingers {2.3.2}	BTB-POZ {2.3.2.1}	KAISO {2.3.2.1.12}
+567	ZNF23.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZNF23 {2.3.3.0.210}
+568	ZN440.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF763-like {2.3.3.33}	ZN440 {2.3.3.33.9}
+569	HINFP.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Multiple dispersed zinc fingers {2.3.4}	HINFP-like {2.3.4.21}	HINFP {2.3.4.21.1}
+570	ZN565.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZN565 {2.3.3.0.146}
+571	ZKSC1.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF24-like {2.3.3.10}	ZKSC1 {2.3.3.10.6}
+572	ZN460.H12CORE.0.S.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF460-like {2.3.3.54}	ZN460 {2.3.3.54.1}
+573	ZN337.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZN337 {2.3.3.0.225}
+574	ZSC31.H12CORE.1.SM.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF24-like {2.3.3.10}	ZSC31 {2.3.3.10.7}
+575	ZN211.H12CORE.1.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Multiple dispersed zinc fingers {2.3.4}	ZNF417-like {2.3.4.1}	ZN211 {2.3.4.1.6}
+576	ZFP90.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZFP90 {2.3.3.0.149}
+577	ZN423.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Multiple dispersed zinc fingers {2.3.4}	ZNF423-like {2.3.4.12}	ZN423 {2.3.4.12.1}
+578	ZN566.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF620-like {2.3.3.35}	ZN566 {2.3.3.35.3}
+579	ZN776.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF548-like {2.3.3.53}	ZN776 {2.3.3.53.2}
+580	ZN418.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Multiple dispersed zinc fingers {2.3.4}	ZNF417-like {2.3.4.1}	ZN418 {2.3.4.1.5}
+581	Z780A.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF283-like {2.3.3.67}	Z780A {2.3.3.67.11}
+582	OZF.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF146-like {2.3.3.55}	OZF {2.3.3.55.1}
+583	BCL6.H12CORE.0.PSM.A	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	BCL6 {2.3.3.22}	BCL6 {2.3.3.22.2}
+584	ZN582.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF620-like {2.3.3.35}	ZN582 {2.3.3.35.7}
+585	ZN782.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF25-like {2.3.3.69}	ZN782 {2.3.3.69.5}
+586	ZBT37.H12CORE.0.M.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Other with up to three adjacent zinc fingers {2.3.2}	BTB-POZ {2.3.2.1}	ZBT37 {2.3.2.1.9}
+587	ZIM3.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZIM3 {2.3.3.0.104}
+588	ZIC3.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	GLI-lile {2.3.3.1}	ZIC3 {2.3.3.1.9}
+589	OSR2.H12CORE.0.PSM.A	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	OSR2 {2.3.3.0.9}
+590	PRGR.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	Nuclear receptors with C4 zinc fingers {2.1}	Steroid hormone receptors {2.1.1}	GR-like (NR3C) {2.1.1.1}	PRGR {2.1.1.1.3}
+591	ZNF44.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF442-like {2.3.3.74}	ZNF44 {2.3.3.74.3}
+592	ZBT18.H12CORE.0.PSM.A	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF238-like {2.3.3.16}	ZBT18 {2.3.3.16.1}
+593	ZN805.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF460-like {2.3.3.54}	ZN805 {2.3.3.54.3}
+594	RORG.H12CORE.1.PS.A	Zinc-coordinating DNA-binding domains {2}	Nuclear receptors with C4 zinc fingers {2.1}	Thyroid hormone receptor-related {2.1.2}	ROR (NR1F) {2.1.2.6}	RORG {2.1.2.6.3}
+595	ZN793.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZN793 {2.3.3.0.16}
+596	KLF12.H12CORE.1.PSM.A	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Three-zinc finger Kruppel-related {2.3.1}	Kr-like {2.3.1.2}	KLF12 {2.3.1.2.12}
+597	NR1H4.H12CORE.1.P.B	Zinc-coordinating DNA-binding domains {2}	Nuclear receptors with C4 zinc fingers {2.1}	Thyroid hormone receptor-related {2.1.2}	LXR (NR1H) {2.1.2.7}	NR1H4 {2.1.2.7.3}
+598	ZN154.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZN154 {2.3.3.0.126}
+599	ZN124.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF763-like {2.3.3.33}	ZN124 {2.3.3.33.6}
+600	ZNF28.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF816A-like {2.3.3.73}	ZNF28 {2.3.3.73.2}
+601	ZN749.H12CORE.1.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZN749 {2.3.3.0.217}
+602	ZN548.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF548-like {2.3.3.53}	ZN548 {2.3.3.53.1}
+603	KLF3.H12CORE.1.M.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Three-zinc finger Kruppel-related {2.3.1}	Kr-like {2.3.1.2}	KLF3 {2.3.1.2.3}
+604	ZN711.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Multiple dispersed zinc fingers {2.3.4}	ZNF639-like {2.3.4.13}	ZN711 {2.3.4.13.2}
+605	ZFP14.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZFP30-like {2.3.3.63}	ZFP14 {2.3.3.63.3}
+606	NR6A1.H12CORE.1.P.C	Zinc-coordinating DNA-binding domains {2}	Nuclear receptors with C4 zinc fingers {2.1}	GCNF (NR6) {2.1.6}	null {2.1.6.0}	NR6A1 {2.1.6.0.1}
+607	ZN816.H12CORE.1.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF816A-like {2.3.3.73}	ZN816 {2.3.3.73.1}
+608	ZN248.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Multiple dispersed zinc fingers {2.3.4}	ZNF37A-like {2.3.4.25}	ZN248 {2.3.4.25.3}
+609	KLF8.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Three-zinc finger Kruppel-related {2.3.1}	Kr-like {2.3.1.2}	KLF8 {2.3.1.2.8}
+610	ZN563.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF763-like {2.3.3.33}	ZN563 {2.3.3.33.12}
+611	SP1.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Three-zinc finger Kruppel-related {2.3.1}	Sp1-like {2.3.1.1}	SP1 {2.3.1.1.1}
+612	ZN362.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF362-like {2.3.3.37}	ZN362 {2.3.3.37.1}
+613	ZNF7.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZNF7 {2.3.3.0.190}
+614	ZN33B.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF25-like {2.3.3.69}	ZN33B {2.3.3.69.7}
+615	KLF9.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Three-zinc finger Kruppel-related {2.3.1}	Kr-like {2.3.1.2}	KLF9 {2.3.1.2.9}
+616	MAZ.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Multiple dispersed zinc fingers {2.3.4}	MAZ-like {2.3.4.8}	MAZ {2.3.4.8.1}
+617	TYY1.H12CORE.0.PSM.A	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	YY1-like {2.3.3.9}	TYY1 {2.3.3.9.1}
+618	ZN436.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF180-like {2.3.3.58}	ZN436 {2.3.3.58.3}
+619	ZNF35.H12CORE.1.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZNF35 {2.3.3.0.100}
+620	NR1I3.H12CORE.1.PSM.A	Zinc-coordinating DNA-binding domains {2}	Nuclear receptors with C4 zinc fingers {2.1}	Thyroid hormone receptor-related {2.1.2}	VDR (NR1I) {2.1.2.4}	NR1I3 {2.1.2.4.3}
+621	ZN333.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF177-like {2.3.3.40}	ZN333 {2.3.3.40.3}
+622	ZNF79.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZNF79 {2.3.3.0.122}
+623	ZN454.H12CORE.1.SM.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZN454 {2.3.3.0.125}
+624	ZN626.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZN626 {2.3.3.0.137}
+625	OVOL1.H12CORE.0.SM.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	OVOL {2.3.3.17}	OVOL1 {2.3.3.17.1}
+626	RARA.H12CORE.0.PSM.A	Zinc-coordinating DNA-binding domains {2}	Nuclear receptors with C4 zinc fingers {2.1}	Thyroid hormone receptor-related {2.1.2}	RAR (NR1B) {2.1.2.1}	RARA {2.1.2.1.1}
+627	KLF1.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Three-zinc finger Kruppel-related {2.3.1}	Kr-like {2.3.1.2}	KLF1 {2.3.1.2.1}
+628	ZF69B.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF642-like {2.3.3.31}	ZF69B {2.3.3.31.2}
+629	ZFP37.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF25-like {2.3.3.69}	ZFP37 {2.3.3.69.3}
+630	ZN611.H12CORE.1.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF813-like {2.3.3.72}	ZN611 {2.3.3.72.3}
+631	ZN433.H12CORE.1.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZN433 {2.3.3.0.224}
+632	ZN791.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZN791 {2.3.3.0.209}
+633	ZN550.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZN550 {2.3.3.0.71}
+634	SP3.H12CORE.1.S.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Three-zinc finger Kruppel-related {2.3.1}	Sp1-like {2.3.1.1}	SP3 {2.3.1.1.3}
+635	ZN770.H12CORE.1.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Multiple dispersed zinc fingers {2.3.4}	Unclassified {2.3.4.0}	ZN770 {2.3.4.0.26}
+636	PPARG.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	Nuclear receptors with C4 zinc fingers {2.1}	Thyroid hormone receptor-related {2.1.2}	PPAR (NR1C) {2.1.2.5}	PPARG {2.1.2.5.3}
+637	ZN573.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF283-like {2.3.3.67}	ZN573 {2.3.3.67.8}
+638	RARG.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	Nuclear receptors with C4 zinc fingers {2.1}	Thyroid hormone receptor-related {2.1.2}	RAR (NR1B) {2.1.2.1}	RARG {2.1.2.1.3}
+639	SP4.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Three-zinc finger Kruppel-related {2.3.1}	Sp1-like {2.3.1.1}	SP4 {2.3.1.1.4}
+640	KLF16.H12CORE.0.SM.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Three-zinc finger Kruppel-related {2.3.1}	Kr-like {2.3.1.2}	KLF16 {2.3.1.2.16}
+641	ZN669.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF763-like {2.3.3.33}	ZN669 {2.3.3.33.4}
+642	GLI3.H12CORE.1.M.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	GLI-lile {2.3.3.1}	GLI3 {2.3.3.1.3}
+643	ZN527.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZN527 {2.3.3.0.144}
+644	ZN875.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF343-like {2.3.3.61}	ZN875 {2.3.3.61.2}
+645	ZN148.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF148-like {2.3.3.13}	ZN148 {2.3.3.13.1}
+646	ZN320.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZN320 {2.3.3.0.136}
+647	ZN75D.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF75-like {2.3.3.6}	ZN75D {2.3.3.6.3}
+648	ZN282.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF282-like {2.3.3.38}	ZN282 {2.3.3.38.1}
+649	ZFP28.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZFP28 {2.3.3.0.192}
+650	ESR2.H12CORE.1.P.B	Zinc-coordinating DNA-binding domains {2}	Nuclear receptors with C4 zinc fingers {2.1}	Steroid hormone receptors {2.1.1}	ER-like (NR3A) {2.1.1.2}	ESR2 {2.1.1.2.2}
+651	ZBT22.H12CORE.0.SM.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Other with up to three adjacent zinc fingers {2.3.2}	BTB-POZ {2.3.2.1}	ZBT22 {2.3.2.1.6}
+652	ZBT7A.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZBTB7 {2.3.3.8}	ZBT7A {2.3.3.8.1}
+653	PPARD.H12CORE.0.PSM.A	Zinc-coordinating DNA-binding domains {2}	Nuclear receptors with C4 zinc fingers {2.1}	Thyroid hormone receptor-related {2.1.2}	PPAR (NR1C) {2.1.2.5}	PPARD {2.1.2.5.2}
+654	ZN587.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Multiple dispersed zinc fingers {2.3.4}	ZNF417-like {2.3.4.1}	ZN587 {2.3.4.1.2}
+655	ZN429.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZN429 {2.3.3.0.214}
+656	ZNF10.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZNF10 {2.3.3.0.118}
+657	NR1I3.H12CORE.2.M.C	Zinc-coordinating DNA-binding domains {2}	Nuclear receptors with C4 zinc fingers {2.1}	Thyroid hormone receptor-related {2.1.2}	VDR (NR1I) {2.1.2.4}	NR1I3 {2.1.2.4.3}
+658	ZSC29.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF500-like {2.3.3.19}	ZSC29 {2.3.3.19.4}
+659	ZN595.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF595-like {2.3.3.77}	ZN595 {2.3.3.77.1}
+660	MCR.H12CORE.0.S.B	Zinc-coordinating DNA-binding domains {2}	Nuclear receptors with C4 zinc fingers {2.1}	Steroid hormone receptors {2.1.1}	GR-like (NR3C) {2.1.1.1}	MCR {2.1.1.1.2}
+661	ZN765.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF525-like {2.3.3.27}	ZN765 {2.3.3.27.3}
+662	THA.H12CORE.1.PS.A	Zinc-coordinating DNA-binding domains {2}	Nuclear receptors with C4 zinc fingers {2.1}	Thyroid hormone receptor-related {2.1.2}	T3R (NR1A) {2.1.2.2}	THA {2.1.2.2.1}
+663	TYY2.H12CORE.0.PS.A	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	YY1-like {2.3.3.9}	TYY2 {2.3.3.9.2}
+664	ZN449.H12CORE.1.S.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZN449 {2.3.3.0.41}
+665	ZN528.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZN528 {2.3.3.0.189}
+666	ZN133.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF343-like {2.3.3.61}	ZN133 {2.3.3.61.4}
+667	ZN540.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF283-like {2.3.3.67}	ZN540 {2.3.3.67.4}
+668	ZN281.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF148-like {2.3.3.13}	ZN281 {2.3.3.13.2}
+669	ZN341.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Multiple dispersed zinc fingers {2.3.4}	Unclassified {2.3.4.0}	ZN341 {2.3.4.0.35}
+670	ZN584.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZN584 {2.3.3.0.67}
+671	ZN484.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF81-like {2.3.3.68}	ZN484 {2.3.3.68.4}
+672	ZN485.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZN485 {2.3.3.0.113}
+673	BCL6B.H12CORE.0.PSM.A	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	BCL6 {2.3.3.22}	BCL6B {2.3.3.22.1}
+674	PRDM6.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	PRDM6 {2.3.3.0.23}
+675	ZN613.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF350-like {2.3.3.30}	ZN613 {2.3.3.30.4}
+676	ZN554.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZN554 {2.3.3.0.63}
+677	ZN563.H12CORE.1.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF763-like {2.3.3.33}	ZN563 {2.3.3.33.12}
+678	ZN510.H12CORE.1.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Multiple dispersed zinc fingers {2.3.4}	ZNF37A-like {2.3.4.25}	ZN510 {2.3.4.25.6}
+679	SP7.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Three-zinc finger Kruppel-related {2.3.1}	Sp1-like {2.3.1.1}	SP7 {2.3.1.1.7}
+680	ZKSC5.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Multiple dispersed zinc fingers {2.3.4}	Unclassified {2.3.4.0}	ZKSC5 {2.3.4.0.42}
+681	HINFP.H12CORE.1.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Multiple dispersed zinc fingers {2.3.4}	HINFP-like {2.3.4.21}	HINFP {2.3.4.21.1}
+682	ZFP42.H12CORE.0.PM.A	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	YY1-like {2.3.3.9}	ZFP42 {2.3.3.9.3}
+683	ZN701.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF525-like {2.3.3.27}	ZN701 {2.3.3.27.2}
+684	ZBT7B.H12CORE.0.SM.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZBTB7 {2.3.3.8}	ZBT7B {2.3.3.8.2}
+685	ZN141.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZN141 {2.3.3.0.110}
+686	ESR1.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	Nuclear receptors with C4 zinc fingers {2.1}	Steroid hormone receptors {2.1.1}	ER-like (NR3A) {2.1.1.2}	ESR1 {2.1.1.2.1}
+687	PRDM1.H12CORE.1.PS.A	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	PRDM1-like {2.3.3.12}	PRDM1 {2.3.3.12.1}
+688	ZN534.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZN534 {2.3.3.0.207}
+689	ZN675.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF100-like {2.3.3.59}	ZN675 {2.3.3.59.6}
+690	PRD15.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Multiple dispersed zinc fingers {2.3.4}	Unclassified {2.3.4.0}	PRD15 {2.3.4.0.32}
+691	ZFP82.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZFP30-like {2.3.3.63}	ZFP82 {2.3.3.63.2}
+692	ZN778.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Multiple dispersed zinc fingers {2.3.4}	Unclassified {2.3.4.0}	ZN778 {2.3.4.0.63}
+693	ZN557.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF558-like {2.3.3.43}	ZN557 {2.3.3.43.2}
+694	KLF15.H12CORE.0.S.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Three-zinc finger Kruppel-related {2.3.1}	Kr-like {2.3.1.2}	KLF15 {2.3.1.2.15}
+695	RORB.H12CORE.0.SM.B	Zinc-coordinating DNA-binding domains {2}	Nuclear receptors with C4 zinc fingers {2.1}	Thyroid hormone receptor-related {2.1.2}	ROR (NR1F) {2.1.2.6}	RORB {2.1.2.6.2}
+696	RXRG.H12CORE.1.SM.B	Zinc-coordinating DNA-binding domains {2}	Nuclear receptors with C4 zinc fingers {2.1}	RXR-related receptors {2.1.3}	RXR (NR2B) {2.1.3.1}	RXRG {2.1.3.1.3}
+697	ZN254.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZN254 {2.3.3.0.182}
+698	ZN160.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF665-like {2.3.3.76}	ZN160 {2.3.3.76.2}
+699	ZSC23.H12CORE.0.M.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF24-like {2.3.3.10}	ZSC23 {2.3.3.10.3}
+700	NR1I3.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	Nuclear receptors with C4 zinc fingers {2.1}	Thyroid hormone receptor-related {2.1.2}	VDR (NR1I) {2.1.2.4}	NR1I3 {2.1.2.4.3}
+701	ZBT24.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZBT24 {2.3.3.0.55}
+702	RXRA.H12CORE.2.SM.B	Zinc-coordinating DNA-binding domains {2}	Nuclear receptors with C4 zinc fingers {2.1}	RXR-related receptors {2.1.3}	RXR (NR2B) {2.1.3.1}	RXRA {2.1.3.1.1}
+703	PRGR.H12CORE.1.P.B	Zinc-coordinating DNA-binding domains {2}	Nuclear receptors with C4 zinc fingers {2.1}	Steroid hormone receptors {2.1.1}	GR-like (NR3C) {2.1.1.1}	PRGR {2.1.1.1.3}
+704	ERR1.H12CORE.0.PSM.A	Zinc-coordinating DNA-binding domains {2}	Nuclear receptors with C4 zinc fingers {2.1}	Steroid hormone receptors {2.1.1}	ER-like (NR3A) {2.1.1.2}	ERR1 {2.1.1.2.3}
+705	ZN281.H12CORE.1.SM.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF148-like {2.3.3.13}	ZN281 {2.3.3.13.2}
+706	ZN350.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF350-like {2.3.3.30}	ZN350 {2.3.3.30.1}
+707	SALL1.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Multiple dispersed zinc fingers {2.3.4}	SAL-like {2.3.4.3}	SALL1 {2.3.4.3.1}
+708	ZNF85.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZNF85 {2.3.3.0.198}
+709	ZN329.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZN329 {2.3.3.0.148}
+710	GFI1.H12CORE.0.PSM.A	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	GFI1 {2.3.3.21}	GFI1 {2.3.3.21.1}
+711	NR5A2.H12CORE.0.PSM.A	Zinc-coordinating DNA-binding domains {2}	Nuclear receptors with C4 zinc fingers {2.1}	FTZF1-related (NR5A) {2.1.5}	null {2.1.5.0}	NR5A2 {2.1.5.0.2}
+712	CTCFL.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	CTCF-like {2.3.3.50}	CTCFL {2.3.3.50.2}
+713	ZN567.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF25-like {2.3.3.69}	ZN567 {2.3.3.69.4}
+714	ZN100.H12CORE.1.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF100-like {2.3.3.59}	ZN100 {2.3.3.59.1}
+715	ZNF41.H12CORE.1.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF81-like {2.3.3.68}	ZNF41 {2.3.3.68.3}
+716	ZN343.H12CORE.0.PSM.A	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF343-like {2.3.3.61}	ZN343 {2.3.3.61.1}
+717	NR1D1.H12CORE.1.SM.B	Zinc-coordinating DNA-binding domains {2}	Nuclear receptors with C4 zinc fingers {2.1}	Thyroid hormone receptor-related {2.1.2}	REVERBA (NR1D) {2.1.2.3}	NR1D1 {2.1.2.3.1}
+718	ZN394.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZN394 {2.3.3.0.40}
+719	ZN222.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF222-like {2.3.3.47}	ZN222 {2.3.3.47.1}
+720	ZN480.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZN480 {2.3.3.0.134}
+721	ZN614.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF350-like {2.3.3.30}	ZN614 {2.3.3.30.5}
+722	RXRA.H12CORE.0.PS.A	Zinc-coordinating DNA-binding domains {2}	Nuclear receptors with C4 zinc fingers {2.1}	RXR-related receptors {2.1.3}	RXR (NR2B) {2.1.3.1}	RXRA {2.1.3.1.1}
+723	GFI1B.H12CORE.0.PSM.A	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	GFI1 {2.3.3.21}	GFI1B {2.3.3.21.2}
+724	MTF1.H12CORE.0.SM.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	MTF1-like {2.3.3.24}	MTF1 {2.3.3.24.1}
+725	ZFX.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZFX-ZFY {2.3.3.65}	ZFX {2.3.3.65.1}
+726	OVOL2.H12CORE.0.PSM.A	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	OVOL {2.3.3.17}	OVOL2 {2.3.3.17.2}
+727	ZN250.H12CORE.1.M.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZN250 {2.3.3.0.160}
+728	RXRA.H12CORE.1.S.C	Zinc-coordinating DNA-binding domains {2}	Nuclear receptors with C4 zinc fingers {2.1}	RXR-related receptors {2.1.3}	RXR (NR2B) {2.1.3.1}	RXRA {2.1.3.1.1}
+729	ZN692.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZFP91-like {2.3.3.3}	ZN692 {2.3.3.3.2}
+730	ZN480.H12CORE.1.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZN480 {2.3.3.0.134}
+731	THA.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	Nuclear receptors with C4 zinc fingers {2.1}	Thyroid hormone receptor-related {2.1.2}	T3R (NR1A) {2.1.2.2}	THA {2.1.2.2.1}
+732	ZN766.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZN766 {2.3.3.0.98}
+733	NR2C1.H12CORE.1.PM.A	Zinc-coordinating DNA-binding domains {2}	Nuclear receptors with C4 zinc fingers {2.1}	RXR-related receptors {2.1.3}	TR (NR2C) {2.1.3.4}	NR2C1 {2.1.3.4.1}
+734	ZN316.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Multiple dispersed zinc fingers {2.3.4}	Unclassified {2.3.4.0}	ZN316 {2.3.4.0.43}
+735	KLF3.H12CORE.0.PS.A	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Three-zinc finger Kruppel-related {2.3.1}	Kr-like {2.3.1.2}	KLF3 {2.3.1.2.3}
+736	ZN407.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Multiple dispersed zinc fingers {2.3.4}	Unclassified {2.3.4.0}	ZN407 {2.3.4.0.73}
+737	ZN740.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Other with up to three adjacent zinc fingers {2.3.2}	Other {2.3.2.4}	ZN740 {2.3.2.4.5}
+738	ZN554.H12CORE.1.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZN554 {2.3.3.0.63}
+739	ZN331.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZN331 {2.3.3.0.142}
+740	ZN524.H12CORE.0.S.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF524-like {2.3.3.15}	ZN524 {2.3.3.15.1}
+741	KLF11.H12CORE.1.SM.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Three-zinc finger Kruppel-related {2.3.1}	Kr-like {2.3.1.2}	KLF11 {2.3.1.2.11}
+742	KLF2.H12CORE.0.S.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Three-zinc finger Kruppel-related {2.3.1}	Kr-like {2.3.1.2}	KLF2 {2.3.1.2.2}
+743	ZN431.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF100-like {2.3.3.59}	ZN431 {2.3.3.59.3}
+744	ZNF41.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF81-like {2.3.3.68}	ZNF41 {2.3.3.68.3}
+745	ZN667.H12CORE.1.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZN667 {2.3.3.0.179}
+746	ZNF35.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZNF35 {2.3.3.0.100}
+747	ZN410.H12CORE.0.SM.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	MTF1-like {2.3.3.24}	ZN410 {2.3.3.24.2}
+748	GLIS1.H12CORE.1.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	GLI-lile {2.3.3.1}	GLIS1 {2.3.3.1.4}
+749	ZN180.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF180-like {2.3.3.58}	ZN180 {2.3.3.58.1}
+750	Z324A.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF324 {2.3.3.36}	Z324A {2.3.3.36.1}
+751	KLF10.H12CORE.1.PSM.A	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Three-zinc finger Kruppel-related {2.3.1}	Kr-like {2.3.1.2}	KLF10 {2.3.1.2.10}
+752	THB.H12CORE.2.SM.B	Zinc-coordinating DNA-binding domains {2}	Nuclear receptors with C4 zinc fingers {2.1}	Thyroid hormone receptor-related {2.1.2}	T3R (NR1A) {2.1.2.2}	THB {2.1.2.2.2}
+753	COT2.H12CORE.1.P.B	Zinc-coordinating DNA-binding domains {2}	Nuclear receptors with C4 zinc fingers {2.1}	RXR-related receptors {2.1.3}	COUP (NR2F) {2.1.3.5}	COT2 {2.1.3.5.2}
+754	ZN580.H12CORE.1.SM.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Other with up to three adjacent zinc fingers {2.3.2}	Other {2.3.2.4}	ZN580 {2.3.2.4.3}
+755	ZNF85.H12CORE.1.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZNF85 {2.3.3.0.198}
+756	NR1D2.H12CORE.1.SM.B	Zinc-coordinating DNA-binding domains {2}	Nuclear receptors with C4 zinc fingers {2.1}	Thyroid hormone receptor-related {2.1.2}	REVERBA (NR1D) {2.1.2.3}	NR1D2 {2.1.2.3.2}
+757	ZFP41.H12CORE.0.SM.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZFP41 {2.3.3.0.17}
+758	ZBT45.H12CORE.0.SM.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZBTB20-like {2.3.3.14}	ZBT45 {2.3.3.14.2}
+759	ZBT42.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF238-like {2.3.3.16}	ZBT42 {2.3.3.16.2}
+760	ANDR.H12CORE.2.P.B	Zinc-coordinating DNA-binding domains {2}	Nuclear receptors with C4 zinc fingers {2.1}	Steroid hormone receptors {2.1.1}	GR-like (NR3C) {2.1.1.1}	ANDR {2.1.1.1.4}
+761	SCRT2.H12CORE.0.PSM.A	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Snail-like {2.3.3.2}	SCRT2 {2.3.3.2.5}
+762	ZNF8.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Multiple dispersed zinc fingers {2.3.4}	Unclassified {2.3.4.0}	ZNF8 {2.3.4.0.29}
+763	PRDM1.H12CORE.0.S.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	PRDM1-like {2.3.3.12}	PRDM1 {2.3.3.12.1}
+764	PRDM9.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Multiple dispersed zinc fingers {2.3.4}	Unclassified {2.3.4.0}	PRDM9 {2.3.4.0.71}
+765	ZN276.H12CORE.0.SM.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZFP91-like {2.3.3.3}	ZN276 {2.3.3.3.3}
+766	ZN189.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	Unclassified {2.3.3.0}	ZN189 {2.3.3.0.197}
+767	CTCF.H12CORE.0.P.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	CTCF-like {2.3.3.50}	CTCF {2.3.3.50.1}
+768	ZIK1.H12CORE.0.P.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZNF32-like {2.3.3.41}	ZIK1 {2.3.3.41.2}
+769	NR2C1.H12CORE.0.S.C	Zinc-coordinating DNA-binding domains {2}	Nuclear receptors with C4 zinc fingers {2.1}	RXR-related receptors {2.1.3}	TR (NR2C) {2.1.3.4}	NR2C1 {2.1.3.4.1}
+770	ANDR.H12CORE.1.S.C	Zinc-coordinating DNA-binding domains {2}	Nuclear receptors with C4 zinc fingers {2.1}	Steroid hormone receptors {2.1.1}	GR-like (NR3C) {2.1.1.1}	ANDR {2.1.1.1.4}
+771	SP9.H12CORE.1.S.C	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	Three-zinc finger Kruppel-related {2.3.1}	Sp1-like {2.3.1.1}	SP9 {2.3.1.1.9}
+772	ZSCA4.H12CORE.0.SM.B	Zinc-coordinating DNA-binding domains {2}	C2H2 zinc finger factors {2.3}	More than 3 adjacent zinc fingers {2.3.3}	ZSCAN5-like {2.3.3.5}	ZSCA4 {2.3.3.5.5}
+773	FOXP1.H12CORE.0.PS.A	Helix-turn-helix domains {3}	Fork head/winged helix factors {3.3}	FOX {3.3.1}	FOXP {3.3.1.16}	FOXP1 {3.3.1.16.1}
+774	PO2F1.H12CORE.0.PS.A	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	POU {3.1.10}	POU2 {3.1.10.2}	PO2F1 {3.1.10.2.1}
+775	SIX1.H12CORE.1.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HD-SINE {3.1.6}	SIX1-like {3.1.6.1}	SIX1 {3.1.6.1.1}
+776	HXA1.H12CORE.1.S.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HOX-related {3.1.1}	HOX1 {3.1.1.1}	HXA1 {3.1.1.1.1}
+777	PBX1.H12CORE.2.P.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	TALE-type HD {3.1.4}	PBX {3.1.4.4}	PBX1 {3.1.4.4.1}
+778	HNF6.H12CORE.0.PM.A	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HD-CUT {3.1.9}	ONECUT {3.1.9.1}	HNF6 {3.1.9.1.1}
+779	LHX1.H12CORE.1.M.C	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HD-LIM {3.1.5}	LHX1-like {3.1.5.2}	LHX1 {3.1.5.2.1}
+780	HXD9.H12CORE.0.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HOX-related {3.1.1}	HOX9-13 {3.1.1.8}	HXD9 {3.1.1.8.4}
+781	ERG.H12CORE.1.SM.B	Helix-turn-helix domains {3}	Tryptophan cluster factors {3.5}	Ets-related {3.5.2}	ETS-like {3.5.2.1}	ERG {3.5.2.1.7}
+782	IRF4.H12CORE.2.SM.B	Helix-turn-helix domains {3}	Tryptophan cluster factors {3.5}	IRF {3.5.3}	null {3.5.3.0}	IRF4 {3.5.3.0.4}
+783	HXD1.H12CORE.0.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HOX-related {3.1.1}	HOX1 {3.1.1.1}	HXD1 {3.1.1.1.3}
+784	HXA1.H12CORE.0.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HOX-related {3.1.1}	HOX1 {3.1.1.1}	HXA1 {3.1.1.1.1}
+785	ETV1.H12CORE.0.PSM.A	Helix-turn-helix domains {3}	Tryptophan cluster factors {3.5}	Ets-related {3.5.2}	ELK-like {3.5.2.2}	ETV1 {3.5.2.2.4}
+786	FOXI1.H12CORE.0.SM.B	Helix-turn-helix domains {3}	Fork head/winged helix factors {3.3}	FOX {3.3.1}	FOXI {3.3.1.9}	FOXI1 {3.3.1.9.1}
+787	CUX2.H12CORE.0.P.C	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HD-CUT {3.1.9}	CUX {3.1.9.2}	CUX2 {3.1.9.2.2}
+788	BARH2.H12CORE.1.S.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	NK-related {3.1.2}	BARHL {3.1.2.1}	BARH2 {3.1.2.1.2}
+789	ONEC2.H12CORE.2.S.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HD-CUT {3.1.9}	ONECUT {3.1.9.1}	ONEC2 {3.1.9.1.2}
+790	HXA7.H12CORE.0.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HOX-related {3.1.1}	HOX6-7 {3.1.1.6}	HXA7 {3.1.1.6.4}
+791	CUX2.H12CORE.2.S.C	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HD-CUT {3.1.9}	CUX {3.1.9.2}	CUX2 {3.1.9.2.2}
+792	FOXC2.H12CORE.0.SM.B	Helix-turn-helix domains {3}	Fork head/winged helix factors {3.3}	FOX {3.3.1}	FOXC {3.3.1.3}	FOXC2 {3.3.1.3.2}
+793	HXA10.H12CORE.1.M.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HOX-related {3.1.1}	HOX9-13 {3.1.1.8}	HXA10 {3.1.1.8.5}
+794	DUX4.H12CORE.0.P.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	Paired-related HD {3.1.3}	DUX {3.1.3.7}	DUX4 {3.1.3.7.5}
+795	E2F3.H12CORE.1.SM.B	Helix-turn-helix domains {3}	Fork head/winged helix factors {3.3}	E2F {3.3.2}	E2F {3.3.2.1}	E2F3 {3.3.2.1.3}
+796	HXC10.H12CORE.0.P.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HOX-related {3.1.1}	HOX9-13 {3.1.1.8}	HXC10 {3.1.1.8.7}
+797	ISL1.H12CORE.0.PSM.A	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HD-LIM {3.1.5}	ISL {3.1.5.1}	ISL1 {3.1.5.1.1}
+798	LHX9.H12CORE.1.M.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HD-LIM {3.1.5}	LHX2-like {3.1.5.3}	LHX9 {3.1.5.3.2}
+799	PROX1.H12CORE.0.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HD-PROS {3.1.7}	null {3.1.7.0}	PROX1 {3.1.7.0.1}
+800	FOXO3.H12CORE.0.PS.A	Helix-turn-helix domains {3}	Fork head/winged helix factors {3.3}	FOX {3.3.1}	FOXO {3.3.1.15}	FOXO3 {3.3.1.15.2}
+801	PHX2B.H12CORE.0.PSM.A	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	Paired-related HD {3.1.3}	PHOX {3.1.3.18}	PHX2B {3.1.3.18.2}
+802	PBX1.H12CORE.0.P.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	TALE-type HD {3.1.4}	PBX {3.1.4.4}	PBX1 {3.1.4.4.1}
+803	ONEC2.H12CORE.3.P.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HD-CUT {3.1.9}	ONECUT {3.1.9.1}	ONEC2 {3.1.9.1.2}
+804	IRF8.H12CORE.2.SM.B	Helix-turn-helix domains {3}	Tryptophan cluster factors {3.5}	IRF {3.5.3}	null {3.5.3.0}	IRF8 {3.5.3.0.8}
+805	HMX2.H12CORE.0.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	NK-related {3.1.2}	NK5-HMX {3.1.2.18}	HMX2 {3.1.2.18.2}
+806	HXD13.H12CORE.0.PS.A	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HOX-related {3.1.1}	HOX9-13 {3.1.1.8}	HXD13 {3.1.1.8.17}
+807	OTX2.H12CORE.0.PSM.A	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	Paired-related HD {3.1.3}	OTX {3.1.3.17}	OTX2 {3.1.3.17.2}
+808	SPDEF.H12CORE.0.PSM.A	Helix-turn-helix domains {3}	Tryptophan cluster factors {3.5}	Ets-related {3.5.2}	SPDEF-like {3.5.2.7}	SPDEF {3.5.2.7.1}
+809	HME1.H12CORE.0.PSM.A	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	NK-related {3.1.2}	EN {3.1.2.7}	HME1 {3.1.2.7.1}
+810	ETV5.H12CORE.1.PM.A	Helix-turn-helix domains {3}	Tryptophan cluster factors {3.5}	Ets-related {3.5.2}	ELK-like {3.5.2.2}	ETV5 {3.5.2.2.6}
+811	ISX.H12CORE.0.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	Paired-related HD {3.1.3}	ISX {3.1.3.12}	ISX {3.1.3.12.1}
+812	DLX3.H12CORE.1.S.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	NK-related {3.1.2}	DLX {3.1.2.5}	DLX3 {3.1.2.5.3}
+813	MEOX1.H12CORE.0.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HOX-related {3.1.1}	MEOX {3.1.1.14}	MEOX1 {3.1.1.14.1}
+814	PO2F2.H12CORE.1.M.C	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	POU {3.1.10}	POU2 {3.1.10.2}	PO2F2 {3.1.10.2.2}
+815	RFX1.H12CORE.2.S.C	Helix-turn-helix domains {3}	Fork head/winged helix factors {3.3}	RFX {3.3.3}	null {3.3.3.0}	RFX1 {3.3.3.0.1}
+816	HXB5.H12CORE.0.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HOX-related {3.1.1}	HOX5 {3.1.1.5}	HXB5 {3.1.1.5.2}
+817	TF2LY.H12CORE.0.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	TALE-type HD {3.1.4}	PKNOX {3.1.4.5}	TF2LY {3.1.4.5.4}
+818	MSX2.H12CORE.0.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	NK-related {3.1.2}	MSX {3.1.2.11}	MSX2 {3.1.2.11.2}
+819	PBX2.H12CORE.1.P.C	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	TALE-type HD {3.1.4}	PBX {3.1.4.4}	PBX2 {3.1.4.4.2}
+820	PDX1.H12CORE.1.PSM.A	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HOX-related {3.1.1}	PDX {3.1.1.15}	PDX1 {3.1.1.15.1}
+821	E2F6.H12CORE.0.P.B	Helix-turn-helix domains {3}	Fork head/winged helix factors {3.3}	E2F {3.3.2}	E2F {3.3.2.1}	E2F6 {3.3.2.1.6}
+822	SHOX2.H12CORE.0.S.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	Paired-related HD {3.1.3}	SHOX {3.1.3.25}	SHOX2 {3.1.3.25.2}
+823	ETV5.H12CORE.0.PS.A	Helix-turn-helix domains {3}	Tryptophan cluster factors {3.5}	Ets-related {3.5.2}	ELK-like {3.5.2.2}	ETV5 {3.5.2.2.6}
+824	PKNX2.H12CORE.1.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	TALE-type HD {3.1.4}	PKNOX {3.1.4.5}	PKNX2 {3.1.4.5.2}
+825	HXC9.H12CORE.0.P.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HOX-related {3.1.1}	HOX9-13 {3.1.1.8}	HXC9 {3.1.1.8.3}
+826	NKX25.H12CORE.1.P.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	NK-related {3.1.2}	NK4 {3.1.2.17}	NKX25 {3.1.2.17.2}
+827	FOXA2.H12CORE.1.SM.B	Helix-turn-helix domains {3}	Fork head/winged helix factors {3.3}	FOX {3.3.1}	FOXA {3.3.1.1}	FOXA2 {3.3.1.1.2}
+828	PO4F3.H12CORE.0.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	POU {3.1.10}	POU4 {3.1.10.4}	PO4F3 {3.1.10.4.3}
+829	VENTX.H12CORE.1.S.C	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	NK-related {3.1.2}	VENTX {3.1.2.23}	VENTX {3.1.2.23.1}
+830	SHOX.H12CORE.1.S.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	Paired-related HD {3.1.3}	SHOX {3.1.3.25}	SHOX {3.1.3.25.1}
+831	DLX5.H12CORE.0.PSM.A	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	NK-related {3.1.2}	DLX {3.1.2.5}	DLX5 {3.1.2.5.5}
+832	HXA2.H12CORE.0.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HOX-related {3.1.1}	HOX2 {3.1.1.2}	HXA2 {3.1.1.2.1}
+833	E2F1.H12CORE.1.S.B	Helix-turn-helix domains {3}	Fork head/winged helix factors {3.3}	E2F {3.3.2}	E2F {3.3.2.1}	E2F1 {3.3.2.1.1}
+834	FOXA2.H12CORE.0.PSM.A	Helix-turn-helix domains {3}	Fork head/winged helix factors {3.3}	FOX {3.3.1}	FOXA {3.3.1.1}	FOXA2 {3.3.1.1.2}
+835	HXA9.H12CORE.1.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HOX-related {3.1.1}	HOX9-13 {3.1.1.8}	HXA9 {3.1.1.8.1}
+836	PO4F2.H12CORE.0.S.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	POU {3.1.10}	POU4 {3.1.10.4}	PO4F2 {3.1.10.4.2}
+837	RFX4.H12CORE.0.SM.B	Helix-turn-helix domains {3}	Fork head/winged helix factors {3.3}	RFX {3.3.3}	null {3.3.3.0}	RFX4 {3.3.3.0.4}
+838	SPI1.H12CORE.0.P.B	Helix-turn-helix domains {3}	Tryptophan cluster factors {3.5}	Ets-related {3.5.2}	SPI-like {3.5.2.5}	SPI1 {3.5.2.5.1}
+839	PROP1.H12CORE.0.PSM.A	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	Paired-related HD {3.1.3}	PROP {3.1.3.20}	PROP1 {3.1.3.20.1}
+840	PO3F3.H12CORE.2.S.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	POU {3.1.10}	POU3 {3.1.10.3}	PO3F3 {3.1.10.3.3}
+841	FOXF1.H12CORE.0.P.C	Helix-turn-helix domains {3}	Fork head/winged helix factors {3.3}	FOX {3.3.1}	FOXF {3.3.1.6}	FOXF1 {3.3.1.6.1}
+842	PKNX1.H12CORE.1.P.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	TALE-type HD {3.1.4}	PKNOX {3.1.4.5}	PKNX1 {3.1.4.5.1}
+843	ONEC2.H12CORE.1.PM.A	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HD-CUT {3.1.9}	ONECUT {3.1.9.1}	ONEC2 {3.1.9.1.2}
+844	HMBX1.H12CORE.0.PSM.A	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	POU {3.1.10}	HNF1-like {3.1.10.7}	HMBX1 {3.1.10.7.3}
+845	ELK1.H12CORE.0.PSM.A	Helix-turn-helix domains {3}	Tryptophan cluster factors {3.5}	Ets-related {3.5.2}	ELK-like {3.5.2.2}	ELK1 {3.5.2.2.1}
+846	NKX62.H12CORE.0.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	NK-related {3.1.2}	NK6 {3.1.2.19}	NKX62 {3.1.2.19.2}
+847	PITX1.H12CORE.1.S.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	Paired-related HD {3.1.3}	PITX {3.1.3.19}	PITX1 {3.1.3.19.1}
+848	OTX1.H12CORE.0.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	Paired-related HD {3.1.3}	OTX {3.1.3.17}	OTX1 {3.1.3.17.1}
+849	RFX3.H12CORE.2.S.B	Helix-turn-helix domains {3}	Fork head/winged helix factors {3.3}	RFX {3.3.3}	null {3.3.3.0}	RFX3 {3.3.3.0.3}
+850	PO2F3.H12CORE.1.S.C	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	POU {3.1.10}	POU2 {3.1.10.2}	PO2F3 {3.1.10.2.3}
+851	HNF1A.H12CORE.0.PS.A	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	POU {3.1.10}	HNF1-like {3.1.10.7}	HNF1A {3.1.10.7.1}
+852	HXB8.H12CORE.0.PSM.A	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HOX-related {3.1.1}	HOX8 {3.1.1.7}	HXB8 {3.1.1.7.1}
+853	NANOG.H12CORE.1.P.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	NK-related {3.1.2}	NANOG {3.1.2.12}	NANOG {3.1.2.12.1}
+854	PO2F3.H12CORE.0.PS.A	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	POU {3.1.10}	POU2 {3.1.10.2}	PO2F3 {3.1.10.2.3}
+855	FOXL2.H12CORE.0.PSM.A	Helix-turn-helix domains {3}	Fork head/winged helix factors {3.3}	FOX {3.3.1}	FOXL {3.3.1.12}	FOXL2 {3.3.1.12.2}
+856	RX.H12CORE.0.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	Paired-related HD {3.1.3}	RAX {3.1.3.22}	RX {3.1.3.22.1}
+857	GABPA.H12CORE.0.PSM.A	Helix-turn-helix domains {3}	Tryptophan cluster factors {3.5}	Ets-related {3.5.2}	ETS-like {3.5.2.1}	GABPA {3.5.2.1.5}
+858	BARX1.H12CORE.0.P.C	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	NK-related {3.1.2}	BARX {3.1.2.2}	BARX1 {3.1.2.2.1}
+859	MSX1.H12CORE.0.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	NK-related {3.1.2}	MSX {3.1.2.11}	MSX1 {3.1.2.11.1}
+860	MEIS2.H12CORE.2.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	TALE-type HD {3.1.4}	MEIS {3.1.4.2}	MEIS2 {3.1.4.2.2}
+861	NANOG.H12CORE.0.P.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	NK-related {3.1.2}	NANOG {3.1.2.12}	NANOG {3.1.2.12.1}
+862	PO5F1.H12CORE.2.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	POU {3.1.10}	POU5 {3.1.10.5}	PO5F1 {3.1.10.5.1}
+863	FEV.H12CORE.0.S.B	Helix-turn-helix domains {3}	Tryptophan cluster factors {3.5}	Ets-related {3.5.2}	ETS-like {3.5.2.1}	FEV {3.5.2.1.8}
+864	EVX2.H12CORE.0.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HOX-related {3.1.1}	EVX {3.1.1.10}	EVX2 {3.1.1.10.2}
+865	FOXD3.H12CORE.1.S.B	Helix-turn-helix domains {3}	Fork head/winged helix factors {3.3}	FOX {3.3.1}	FOXD {3.3.1.4}	FOXD3 {3.3.1.4.3}
+866	NOTO.H12CORE.0.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	NK-related {3.1.2}	NOTO {3.1.2.20}	NOTO {3.1.2.20.1}
+867	GSC2.H12CORE.0.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	Paired-related HD {3.1.3}	GSC {3.1.3.9}	GSC2 {3.1.3.9.2}
+868	RFX2.H12CORE.0.PS.A	Helix-turn-helix domains {3}	Fork head/winged helix factors {3.3}	RFX {3.3.3}	null {3.3.3.0}	RFX2 {3.3.3.0.2}
+869	FOXE1.H12CORE.1.S.C	Helix-turn-helix domains {3}	Fork head/winged helix factors {3.3}	FOX {3.3.1}	FOXE {3.3.1.5}	FOXE1 {3.3.1.5.1}
+870	OTX1.H12CORE.1.S.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	Paired-related HD {3.1.3}	OTX {3.1.3.17}	OTX1 {3.1.3.17.1}
+871	NKX21.H12CORE.0.P.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	NK-related {3.1.2}	NK2.1 {3.1.2.14}	NKX21 {3.1.2.14.1}
+872	DRGX.H12CORE.1.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	Paired-related HD {3.1.3}	DRGX {3.1.3.6}	DRGX {3.1.3.6.1}
+873	TGIF1.H12CORE.0.PSM.A	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	TALE-type HD {3.1.4}	TGIF {3.1.4.6}	TGIF1 {3.1.4.6.1}
+874	BARX2.H12CORE.0.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	NK-related {3.1.2}	BARX {3.1.2.2}	BARX2 {3.1.2.2.2}
+875	FOXJ3.H12CORE.0.SM.B	Helix-turn-helix domains {3}	Fork head/winged helix factors {3.3}	FOX {3.3.1}	FOXJ {3.3.1.10}	FOXJ3 {3.3.1.10.3}
+876	HME2.H12CORE.0.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	NK-related {3.1.2}	EN {3.1.2.7}	HME2 {3.1.2.7.2}
+877	PBX2.H12CORE.0.P.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	TALE-type HD {3.1.4}	PBX {3.1.4.4}	PBX2 {3.1.4.4.2}
+878	IRX3.H12CORE.1.S.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	TALE-type HD {3.1.4}	IRX {3.1.4.1}	IRX3 {3.1.4.1.3}
+879	NKX32.H12CORE.0.PSM.A	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	NK-related {3.1.2}	NK3 {3.1.2.16}	NKX32 {3.1.2.16.2}
+880	MEIS1.H12CORE.0.P.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	TALE-type HD {3.1.4}	MEIS {3.1.4.2}	MEIS1 {3.1.4.2.1}
+881	FOXG1.H12CORE.0.PSM.A	Helix-turn-helix domains {3}	Fork head/winged helix factors {3.3}	FOX {3.3.1}	FOXG {3.3.1.7}	FOXG1 {3.3.1.7.1}
+882	FOXH1.H12CORE.0.P.B	Helix-turn-helix domains {3}	Fork head/winged helix factors {3.3}	FOX {3.3.1}	FOXH {3.3.1.8}	FOXH1 {3.3.1.8.1}
+883	FOXP2.H12CORE.0.P.B	Helix-turn-helix domains {3}	Fork head/winged helix factors {3.3}	FOX {3.3.1}	FOXP {3.3.1.16}	FOXP2 {3.3.1.16.2}
+884	FOXK1.H12CORE.0.PS.A	Helix-turn-helix domains {3}	Fork head/winged helix factors {3.3}	FOX {3.3.1}	FOXK {3.3.1.11}	FOXK1 {3.3.1.11.1}
+885	MYB.H12CORE.0.P.B	Helix-turn-helix domains {3}	Tryptophan cluster factors {3.5}	Myb/SANT domain {3.5.1}	Myb-like {3.5.1.1}	MYB {3.5.1.1.1}
+886	HNF6.H12CORE.2.S.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HD-CUT {3.1.9}	ONECUT {3.1.9.1}	HNF6 {3.1.9.1.1}
+887	FLI1.H12CORE.0.PSM.A	Helix-turn-helix domains {3}	Tryptophan cluster factors {3.5}	Ets-related {3.5.2}	ETS-like {3.5.2.1}	FLI1 {3.5.2.1.6}
+888	IRX5.H12CORE.1.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	TALE-type HD {3.1.4}	IRX {3.1.4.1}	IRX5 {3.1.4.1.5}
+889	TFDP1.H12CORE.0.P.B	Helix-turn-helix domains {3}	Fork head/winged helix factors {3.3}	E2F {3.3.2}	DP1 {3.3.2.2}	TFDP1 {3.3.2.2.1}
+890	SIX3.H12CORE.0.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HD-SINE {3.1.6}	SIX3-like {3.1.6.2}	SIX3 {3.1.6.2.1}
+891	PO3F2.H12CORE.1.S.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	POU {3.1.10}	POU3 {3.1.10.3}	PO3F2 {3.1.10.3.2}
+892	FOXO1.H12CORE.0.PS.A	Helix-turn-helix domains {3}	Fork head/winged helix factors {3.3}	FOX {3.3.1}	FOXO {3.3.1.15}	FOXO1 {3.3.1.15.1}
+893	ETV2.H12CORE.1.PM.A	Helix-turn-helix domains {3}	Tryptophan cluster factors {3.5}	Ets-related {3.5.2}	ETS-like {3.5.2.1}	ETV2 {3.5.2.1.4}
+894	RFX3.H12CORE.1.PS.A	Helix-turn-helix domains {3}	Fork head/winged helix factors {3.3}	RFX {3.3.3}	null {3.3.3.0}	RFX3 {3.3.3.0.3}
+895	SHOX2.H12CORE.1.S.C	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	Paired-related HD {3.1.3}	SHOX {3.1.3.25}	SHOX2 {3.1.3.25.2}
+896	SATB1.H12CORE.0.P.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HD-CUT {3.1.9}	SATB {3.1.9.3}	SATB1 {3.1.9.3.1}
+897	HXB2.H12CORE.0.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HOX-related {3.1.1}	HOX2 {3.1.1.2}	HXB2 {3.1.1.2.2}
+898	ETV4.H12CORE.1.SM.B	Helix-turn-helix domains {3}	Tryptophan cluster factors {3.5}	Ets-related {3.5.2}	ELK-like {3.5.2.2}	ETV4 {3.5.2.2.5}
+899	FOXA1.H12CORE.1.S.C	Helix-turn-helix domains {3}	Fork head/winged helix factors {3.3}	FOX {3.3.1}	FOXA {3.3.1.1}	FOXA1 {3.3.1.1.1}
+900	LHX4.H12CORE.0.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HD-LIM {3.1.5}	LHX3-like {3.1.5.4}	LHX4 {3.1.5.4.2}
+901	RFX5.H12CORE.1.PSM.A	Helix-turn-helix domains {3}	Fork head/winged helix factors {3.3}	RFX {3.3.3}	null {3.3.3.0}	RFX5 {3.3.3.0.5}
+902	RFX6.H12CORE.0.P.C	Helix-turn-helix domains {3}	Fork head/winged helix factors {3.3}	RFX {3.3.3}	null {3.3.3.0}	RFX6 {3.3.3.0.6}
+903	SIX6.H12CORE.0.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HD-SINE {3.1.6}	SIX3-like {3.1.6.2}	SIX6 {3.1.6.2.2}
+904	DPRX.H12CORE.0.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	Paired-related HD {3.1.3}	DPRX {3.1.3.5}	DPRX {3.1.3.5.1}
+905	SPIB.H12CORE.0.P.B	Helix-turn-helix domains {3}	Tryptophan cluster factors {3.5}	Ets-related {3.5.2}	SPI-like {3.5.2.5}	SPIB {3.5.2.5.2}
+906	DLX2.H12CORE.0.PSM.A	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	NK-related {3.1.2}	DLX {3.1.2.5}	DLX2 {3.1.2.5.2}
+907	HXA9.H12CORE.2.P.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HOX-related {3.1.1}	HOX9-13 {3.1.1.8}	HXA9 {3.1.1.8.1}
+908	MYBA.H12CORE.2.S.B	Helix-turn-helix domains {3}	Tryptophan cluster factors {3.5}	Myb/SANT domain {3.5.1}	Myb-like {3.5.1.1}	MYBA {3.5.1.1.2}
+909	ERG.H12CORE.0.P.B	Helix-turn-helix domains {3}	Tryptophan cluster factors {3.5}	Ets-related {3.5.2}	ETS-like {3.5.2.1}	ERG {3.5.2.1.7}
+910	PO3F1.H12CORE.1.PS.A	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	POU {3.1.10}	POU3 {3.1.10.3}	PO3F1 {3.1.10.3.1}
+911	HXB13.H12CORE.1.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HOX-related {3.1.1}	HOX9-13 {3.1.1.8}	HXB13 {3.1.1.8.15}
+912	FOXC1.H12CORE.0.S.B	Helix-turn-helix domains {3}	Fork head/winged helix factors {3.3}	FOX {3.3.1}	FOXC {3.3.1.3}	FOXC1 {3.3.1.3.1}
+913	ONEC3.H12CORE.1.S.C	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HD-CUT {3.1.9}	ONECUT {3.1.9.1}	ONEC3 {3.1.9.1.3}
+914	HXC9.H12CORE.2.M.C	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HOX-related {3.1.1}	HOX9-13 {3.1.1.8}	HXC9 {3.1.1.8.3}
+915	BARX1.H12CORE.1.S.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	NK-related {3.1.2}	BARX {3.1.2.2}	BARX1 {3.1.2.2.1}
+916	BARH2.H12CORE.2.S.C	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	NK-related {3.1.2}	BARHL {3.1.2.1}	BARH2 {3.1.2.1.2}
+917	FOXP3.H12CORE.0.P.B	Helix-turn-helix domains {3}	Fork head/winged helix factors {3.3}	FOX {3.3.1}	FOXP {3.3.1.16}	FOXP3 {3.3.1.16.3}
+918	PO4F1.H12CORE.1.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	POU {3.1.10}	POU4 {3.1.10.4}	PO4F1 {3.1.10.4.1}
+919	HXC11.H12CORE.1.S.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HOX-related {3.1.1}	HOX9-13 {3.1.1.8}	HXC11 {3.1.1.8.10}
+920	LHX5.H12CORE.0.PSM.A	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HD-LIM {3.1.5}	LHX1-like {3.1.5.2}	LHX5 {3.1.5.2.2}
+921	LHX1.H12CORE.0.S.C	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HD-LIM {3.1.5}	LHX1-like {3.1.5.2}	LHX1 {3.1.5.2.1}
+922	ETS2.H12CORE.1.P.B	Helix-turn-helix domains {3}	Tryptophan cluster factors {3.5}	Ets-related {3.5.2}	ETS-like {3.5.2.1}	ETS2 {3.5.2.1.2}
+923	HXC10.H12CORE.2.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HOX-related {3.1.1}	HOX9-13 {3.1.1.8}	HXC10 {3.1.1.8.7}
+924	NKX25.H12CORE.0.PSM.A	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	NK-related {3.1.2}	NK4 {3.1.2.17}	NKX25 {3.1.2.17.2}
+925	ONEC2.H12CORE.0.S.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HD-CUT {3.1.9}	ONECUT {3.1.9.1}	ONEC2 {3.1.9.1.2}
+926	LHX2.H12CORE.1.S.C	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HD-LIM {3.1.5}	LHX2-like {3.1.5.3}	LHX2 {3.1.5.3.1}
+927	TGIF1.H12CORE.1.S.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	TALE-type HD {3.1.4}	TGIF {3.1.4.6}	TGIF1 {3.1.4.6.1}
+928	IRF3.H12CORE.1.SM.B	Helix-turn-helix domains {3}	Tryptophan cluster factors {3.5}	IRF {3.5.3}	null {3.5.3.0}	IRF3 {3.5.3.0.3}
+929	IRF1.H12CORE.0.P.B	Helix-turn-helix domains {3}	Tryptophan cluster factors {3.5}	IRF {3.5.3}	null {3.5.3.0}	IRF1 {3.5.3.0.1}
+930	FOXC1.H12CORE.1.S.C	Helix-turn-helix domains {3}	Fork head/winged helix factors {3.3}	FOX {3.3.1}	FOXC {3.3.1.3}	FOXC1 {3.3.1.3.1}
+931	LMX1A.H12CORE.0.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HD-LIM {3.1.5}	LMX {3.1.5.6}	LMX1A {3.1.5.6.1}
+932	PBX2.H12CORE.2.P.C	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	TALE-type HD {3.1.4}	PBX {3.1.4.4}	PBX2 {3.1.4.4.2}
+933	HXA11.H12CORE.0.PS.A	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HOX-related {3.1.1}	HOX9-13 {3.1.1.8}	HXA11 {3.1.1.8.9}
+934	HXB4.H12CORE.0.P.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HOX-related {3.1.1}	HOX4 {3.1.1.4}	HXB4 {3.1.1.4.2}
+935	HXD12.H12CORE.0.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HOX-related {3.1.1}	HOX9-13 {3.1.1.8}	HXD12 {3.1.1.8.13}
+936	LHX3.H12CORE.0.P.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HD-LIM {3.1.5}	LHX3-like {3.1.5.4}	LHX3 {3.1.5.4.1}
+937	IRF7.H12CORE.0.S.B	Helix-turn-helix domains {3}	Tryptophan cluster factors {3.5}	IRF {3.5.3}	null {3.5.3.0}	IRF7 {3.5.3.0.7}
+938	RFX1.H12CORE.1.PSM.A	Helix-turn-helix domains {3}	Fork head/winged helix factors {3.3}	RFX {3.3.3}	null {3.3.3.0}	RFX1 {3.3.3.0.1}
+939	RHXF2.H12CORE.0.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	Paired-related HD {3.1.3}	RHOX {3.1.3.23}	RHXF2 {3.1.3.23.2}
+940	ELF3.H12CORE.1.PM.A	Helix-turn-helix domains {3}	Tryptophan cluster factors {3.5}	Ets-related {3.5.2}	EHF-like {3.5.2.4}	ELF3 {3.5.2.4.2}
+941	IRF2.H12CORE.0.PSM.A	Helix-turn-helix domains {3}	Tryptophan cluster factors {3.5}	IRF {3.5.3}	null {3.5.3.0}	IRF2 {3.5.3.0.2}
+942	DMBX1.H12CORE.0.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	Paired-related HD {3.1.3}	DMBX {3.1.3.4}	DMBX1 {3.1.3.4.1}
+943	E2F7.H12CORE.1.P.B	Helix-turn-helix domains {3}	Fork head/winged helix factors {3.3}	E2F {3.3.2}	E2F {3.3.2.1}	E2F7 {3.3.2.1.7}
+944	SIX2.H12CORE.0.P.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HD-SINE {3.1.6}	SIX1-like {3.1.6.1}	SIX2 {3.1.6.1.2}
+945	HXC13.H12CORE.0.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HOX-related {3.1.1}	HOX9-13 {3.1.1.8}	HXC13 {3.1.1.8.16}
+946	HESX1.H12CORE.0.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	Paired-related HD {3.1.3}	HESX {3.1.3.10}	HESX1 {3.1.3.10.1}
+947	ETV7.H12CORE.1.P.C	Helix-turn-helix domains {3}	Tryptophan cluster factors {3.5}	Ets-related {3.5.2}	ETV6-like {3.5.2.6}	ETV7 {3.5.2.6.2}
+948	HXA13.H12CORE.1.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HOX-related {3.1.1}	HOX9-13 {3.1.1.8}	HXA13 {3.1.1.8.14}
+949	PBX1.H12CORE.1.P.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	TALE-type HD {3.1.4}	PBX {3.1.4.4}	PBX1 {3.1.4.4.1}
+950	PO3F1.H12CORE.0.P.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	POU {3.1.10}	POU3 {3.1.10.3}	PO3F1 {3.1.10.3.1}
+951	MEIS2.H12CORE.0.P.C	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	TALE-type HD {3.1.4}	MEIS {3.1.4.2}	MEIS2 {3.1.4.2.2}
+952	PO3F3.H12CORE.0.P.C	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	POU {3.1.10}	POU3 {3.1.10.3}	PO3F3 {3.1.10.3.3}
+953	PO3F2.H12CORE.2.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	POU {3.1.10}	POU3 {3.1.10.3}	PO3F2 {3.1.10.3.2}
+954	HNF6.H12CORE.1.S.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HD-CUT {3.1.9}	ONECUT {3.1.9.1}	HNF6 {3.1.9.1.1}
+955	PO2F2.H12CORE.0.PSM.A	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	POU {3.1.10}	POU2 {3.1.10.2}	PO2F2 {3.1.10.2.2}
+956	IRX3.H12CORE.0.M.C	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	TALE-type HD {3.1.4}	IRX {3.1.4.1}	IRX3 {3.1.4.1.3}
+957	DUXA.H12CORE.0.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	Paired-related HD {3.1.3}	DUX {3.1.3.7}	DUXA {3.1.3.7.1}
+958	CDX1.H12CORE.0.M.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HOX-related {3.1.1}	CDX {3.1.1.9}	CDX1 {3.1.1.9.1}
+959	PROP1.H12CORE.1.P.C	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	Paired-related HD {3.1.3}	PROP {3.1.3.20}	PROP1 {3.1.3.20.1}
+960	E2F4.H12CORE.1.P.B	Helix-turn-helix domains {3}	Fork head/winged helix factors {3.3}	E2F {3.3.2}	E2F {3.3.2.1}	E2F4 {3.3.2.1.4}
+961	LMX1B.H12CORE.2.S.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HD-LIM {3.1.5}	LMX {3.1.5.6}	LMX1B {3.1.5.6.2}
+962	FOXA1.H12CORE.0.P.B	Helix-turn-helix domains {3}	Fork head/winged helix factors {3.3}	FOX {3.3.1}	FOXA {3.3.1.1}	FOXA1 {3.3.1.1.1}
+963	NKX61.H12CORE.1.P.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	NK-related {3.1.2}	NK6 {3.1.2.19}	NKX61 {3.1.2.19.1}
+964	ONEC3.H12CORE.2.M.C	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HD-CUT {3.1.9}	ONECUT {3.1.9.1}	ONEC3 {3.1.9.1.3}
+965	IRF7.H12CORE.1.SM.B	Helix-turn-helix domains {3}	Tryptophan cluster factors {3.5}	IRF {3.5.3}	null {3.5.3.0}	IRF7 {3.5.3.0.7}
+966	MEIS2.H12CORE.1.PSM.A	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	TALE-type HD {3.1.4}	MEIS {3.1.4.2}	MEIS2 {3.1.4.2.2}
+967	ONEC3.H12CORE.0.S.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HD-CUT {3.1.9}	ONECUT {3.1.9.1}	ONEC3 {3.1.9.1.3}
+968	ELK4.H12CORE.0.PSM.A	Helix-turn-helix domains {3}	Tryptophan cluster factors {3.5}	Ets-related {3.5.2}	ELK-like {3.5.2.2}	ELK4 {3.5.2.2.3}
+969	HXD13.H12CORE.1.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HOX-related {3.1.1}	HOX9-13 {3.1.1.8}	HXD13 {3.1.1.8.17}
+970	ALX1.H12CORE.0.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	Paired-related HD {3.1.3}	ALX {3.1.3.1}	ALX1 {3.1.3.1.1}
+971	MYBA.H12CORE.0.P.B	Helix-turn-helix domains {3}	Tryptophan cluster factors {3.5}	Myb/SANT domain {3.5.1}	Myb-like {3.5.1.1}	MYBA {3.5.1.1.2}
+972	PRRX2.H12CORE.0.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	Paired-related HD {3.1.3}	PRRX {3.1.3.21}	PRRX2 {3.1.3.21.2}
+973	E2F4.H12CORE.0.P.B	Helix-turn-helix domains {3}	Fork head/winged helix factors {3.3}	E2F {3.3.2}	E2F {3.3.2.1}	E2F4 {3.3.2.1.4}
+974	HXD3.H12CORE.0.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HOX-related {3.1.1}	HOX3 {3.1.1.3}	HXD3 {3.1.1.3.3}
+975	IRF6.H12CORE.1.S.C	Helix-turn-helix domains {3}	Tryptophan cluster factors {3.5}	IRF {3.5.3}	null {3.5.3.0}	IRF6 {3.5.3.0.6}
+976	MEIS3.H12CORE.1.S.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	TALE-type HD {3.1.4}	MEIS {3.1.4.2}	MEIS3 {3.1.4.2.3}
+977	CDX2.H12CORE.0.PS.A	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HOX-related {3.1.1}	CDX {3.1.1.9}	CDX2 {3.1.1.9.2}
+978	NANOG.H12CORE.2.M.C	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	NK-related {3.1.2}	NANOG {3.1.2.12}	NANOG {3.1.2.12.1}
+979	HXD10.H12CORE.0.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HOX-related {3.1.1}	HOX9-13 {3.1.1.8}	HXD10 {3.1.1.8.8}
+980	VSX2.H12CORE.1.S.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	Paired-related HD {3.1.3}	VSX {3.1.3.28}	VSX2 {3.1.3.28.2}
+981	PRRX2.H12CORE.1.S.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	Paired-related HD {3.1.3}	PRRX {3.1.3.21}	PRRX2 {3.1.3.21.2}
+982	HXD8.H12CORE.0.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HOX-related {3.1.1}	HOX8 {3.1.1.7}	HXD8 {3.1.1.7.3}
+983	GBX2.H12CORE.1.S.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HOX-related {3.1.1}	GBX {3.1.1.11}	GBX2 {3.1.1.11.2}
+984	LMX1B.H12CORE.0.P.C	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HD-LIM {3.1.5}	LMX {3.1.5.6}	LMX1B {3.1.5.6.2}
+985	MIXL1.H12CORE.1.S.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	Paired-related HD {3.1.3}	MIX {3.1.3.14}	MIXL1 {3.1.3.14.1}
+986	P5F1B.H12CORE.0.S.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	POU {3.1.10}	POU5 {3.1.10.5}	P5F1B {3.1.10.5.2}
+987	LBX2.H12CORE.2.M.C	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	NK-related {3.1.2}	LBX {3.1.2.10}	LBX2 {3.1.2.10.2}
+988	HXD11.H12CORE.1.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HOX-related {3.1.1}	HOX9-13 {3.1.1.8}	HXD11 {3.1.1.8.11}
+989	HXB3.H12CORE.0.S.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HOX-related {3.1.1}	HOX3 {3.1.1.3}	HXB3 {3.1.1.3.2}
+990	ETV4.H12CORE.0.P.B	Helix-turn-helix domains {3}	Tryptophan cluster factors {3.5}	Ets-related {3.5.2}	ELK-like {3.5.2.2}	ETV4 {3.5.2.2.5}
+991	SIX2.H12CORE.1.M.C	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HD-SINE {3.1.6}	SIX1-like {3.1.6.1}	SIX2 {3.1.6.1.2}
+992	HOMEZ.H12CORE.0.S.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HD-ZF {3.1.8}	ZHX {3.1.8.5}	HOMEZ {3.1.8.5.4}
+993	VSX2.H12CORE.0.PSM.A	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	Paired-related HD {3.1.3}	VSX {3.1.3.28}	VSX2 {3.1.3.28.2}
+994	FOXO6.H12CORE.0.S.B	Helix-turn-helix domains {3}	Fork head/winged helix factors {3.3}	FOX {3.3.1}	FOXO {3.3.1.15}	FOXO6 {3.3.1.15.5}
+995	UNC4.H12CORE.0.S.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	Paired-related HD {3.1.3}	UNCX {3.1.3.27}	UNC4 {3.1.3.27.1}
+996	CUX2.H12CORE.1.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HD-CUT {3.1.9}	CUX {3.1.9.2}	CUX2 {3.1.9.2.2}
+997	SPIB.H12CORE.1.S.C	Helix-turn-helix domains {3}	Tryptophan cluster factors {3.5}	Ets-related {3.5.2}	SPI-like {3.5.2.5}	SPIB {3.5.2.5.2}
+998	TGIF2.H12CORE.0.S.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	TALE-type HD {3.1.4}	TGIF {3.1.4.6}	TGIF2 {3.1.4.6.2}
+999	PITX3.H12CORE.0.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	Paired-related HD {3.1.3}	PITX {3.1.3.19}	PITX3 {3.1.3.19.3}
+1000	HXB4.H12CORE.1.PSM.A	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HOX-related {3.1.1}	HOX4 {3.1.1.4}	HXB4 {3.1.1.4.2}
+1001	PDX1.H12CORE.0.P.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HOX-related {3.1.1}	PDX {3.1.1.15}	PDX1 {3.1.1.15.1}
+1002	HXA6.H12CORE.0.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HOX-related {3.1.1}	HOX6-7 {3.1.1.6}	HXA6 {3.1.1.6.1}
+1003	MYBB.H12CORE.1.S.B	Helix-turn-helix domains {3}	Tryptophan cluster factors {3.5}	Myb/SANT domain {3.5.1}	Myb-like {3.5.1.1}	MYBB {3.5.1.1.3}
+1004	IRF4.H12CORE.1.S.B	Helix-turn-helix domains {3}	Tryptophan cluster factors {3.5}	IRF {3.5.3}	null {3.5.3.0}	IRF4 {3.5.3.0.4}
+1005	UNC4.H12CORE.1.S.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	Paired-related HD {3.1.3}	UNCX {3.1.3.27}	UNC4 {3.1.3.27.1}
+1006	MEIS1.H12CORE.1.PS.A	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	TALE-type HD {3.1.4}	MEIS {3.1.4.2}	MEIS1 {3.1.4.2.1}
+1007	MEIS3.H12CORE.0.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	TALE-type HD {3.1.4}	MEIS {3.1.4.2}	MEIS3 {3.1.4.2.3}
+1008	PO6F1.H12CORE.0.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	POU {3.1.10}	POU6 {3.1.10.6}	PO6F1 {3.1.10.6.1}
+1009	FOXD2.H12CORE.1.SM.B	Helix-turn-helix domains {3}	Fork head/winged helix factors {3.3}	FOX {3.3.1}	FOXD {3.3.1.4}	FOXD2 {3.3.1.4.2}
+1010	FOXE1.H12CORE.0.SM.B	Helix-turn-helix domains {3}	Fork head/winged helix factors {3.3}	FOX {3.3.1}	FOXE {3.3.1.5}	FOXE1 {3.3.1.5.1}
+1011	ETS1.H12CORE.1.P.B	Helix-turn-helix domains {3}	Tryptophan cluster factors {3.5}	Ets-related {3.5.2}	ETS-like {3.5.2.1}	ETS1 {3.5.2.1.1}
+1012	HXB9.H12CORE.1.M.C	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HOX-related {3.1.1}	HOX9-13 {3.1.1.8}	HXB9 {3.1.1.8.2}
+1013	IRF4.H12CORE.0.P.B	Helix-turn-helix domains {3}	Tryptophan cluster factors {3.5}	IRF {3.5.3}	null {3.5.3.0}	IRF4 {3.5.3.0.4}
+1014	IRF6.H12CORE.0.SM.B	Helix-turn-helix domains {3}	Tryptophan cluster factors {3.5}	IRF {3.5.3}	null {3.5.3.0}	IRF6 {3.5.3.0.6}
+1015	RFX3.H12CORE.0.PSM.A	Helix-turn-helix domains {3}	Fork head/winged helix factors {3.3}	RFX {3.3.3}	null {3.3.3.0}	RFX3 {3.3.3.0.3}
+1016	HXA9.H12CORE.0.P.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HOX-related {3.1.1}	HOX9-13 {3.1.1.8}	HXA9 {3.1.1.8.1}
+1017	ETV6.H12CORE.1.P.B	Helix-turn-helix domains {3}	Tryptophan cluster factors {3.5}	Ets-related {3.5.2}	ETV6-like {3.5.2.6}	ETV6 {3.5.2.6.1}
+1018	RFX2.H12CORE.1.PSM.A	Helix-turn-helix domains {3}	Fork head/winged helix factors {3.3}	RFX {3.3.3}	null {3.3.3.0}	RFX2 {3.3.3.0.2}
+1019	PO3F1.H12CORE.3.M.C	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	POU {3.1.10}	POU3 {3.1.10.3}	PO3F1 {3.1.10.3.1}
+1020	FOXL1.H12CORE.0.S.B	Helix-turn-helix domains {3}	Fork head/winged helix factors {3.3}	FOX {3.3.1}	FOXL {3.3.1.12}	FOXL1 {3.3.1.12.1}
+1021	HXA10.H12CORE.0.S.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HOX-related {3.1.1}	HOX9-13 {3.1.1.8}	HXA10 {3.1.1.8.5}
+1022	VSX1.H12CORE.1.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	Paired-related HD {3.1.3}	VSX {3.1.3.28}	VSX1 {3.1.3.28.1}
+1023	HXC8.H12CORE.0.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HOX-related {3.1.1}	HOX8 {3.1.1.7}	HXC8 {3.1.1.7.2}
+1024	FOXJ2.H12CORE.1.SM.B	Helix-turn-helix domains {3}	Fork head/winged helix factors {3.3}	FOX {3.3.1}	FOXJ {3.3.1.10}	FOXJ2 {3.3.1.10.2}
+1025	SPDEF.H12CORE.1.SM.B	Helix-turn-helix domains {3}	Tryptophan cluster factors {3.5}	Ets-related {3.5.2}	SPDEF-like {3.5.2.7}	SPDEF {3.5.2.7.1}
+1026	TLX2.H12CORE.0.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	NK-related {3.1.2}	TLX {3.1.2.21}	TLX2 {3.1.2.21.2}
+1027	IRF5.H12CORE.1.S.B	Helix-turn-helix domains {3}	Tryptophan cluster factors {3.5}	IRF {3.5.3}	null {3.5.3.0}	IRF5 {3.5.3.0.5}
+1028	ELF3.H12CORE.0.S.B	Helix-turn-helix domains {3}	Tryptophan cluster factors {3.5}	Ets-related {3.5.2}	EHF-like {3.5.2.4}	ELF3 {3.5.2.4.2}
+1029	BARH1.H12CORE.0.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	NK-related {3.1.2}	BARHL {3.1.2.1}	BARH1 {3.1.2.1.1}
+1030	HXC10.H12CORE.1.S.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HOX-related {3.1.1}	HOX9-13 {3.1.1.8}	HXC10 {3.1.1.8.7}
+1031	PHX2B.H12CORE.1.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	Paired-related HD {3.1.3}	PHOX {3.1.3.18}	PHX2B {3.1.3.18.2}
+1032	IRF8.H12CORE.0.P.B	Helix-turn-helix domains {3}	Tryptophan cluster factors {3.5}	IRF {3.5.3}	null {3.5.3.0}	IRF8 {3.5.3.0.8}
+1033	ESX1.H12CORE.0.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	Paired-related HD {3.1.3}	ESX {3.1.3.8}	ESX1 {3.1.3.8.1}
+1034	LBX2.H12CORE.1.S.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	NK-related {3.1.2}	LBX {3.1.2.10}	LBX2 {3.1.2.10.2}
+1035	ARGFX.H12CORE.0.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	Paired-related HD {3.1.3}	ARGFX {3.1.3.2}	ARGFX {3.1.3.2.1}
+1036	PO3F4.H12CORE.0.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	POU {3.1.10}	POU3 {3.1.10.3}	PO3F4 {3.1.10.3.4}
+1037	VENTX.H12CORE.0.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	NK-related {3.1.2}	VENTX {3.1.2.23}	VENTX {3.1.2.23.1}
+1038	HXD4.H12CORE.0.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HOX-related {3.1.1}	HOX4 {3.1.1.4}	HXD4 {3.1.1.4.4}
+1039	HXA4.H12CORE.0.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HOX-related {3.1.1}	HOX4 {3.1.1.4}	HXA4 {3.1.1.4.1}
+1040	ALX4.H12CORE.0.S.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	Paired-related HD {3.1.3}	ALX {3.1.3.1}	ALX4 {3.1.3.1.3}
+1041	LHX2.H12CORE.0.PS.A	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HD-LIM {3.1.5}	LHX2-like {3.1.5.3}	LHX2 {3.1.5.3.1}
+1042	ETS2.H12CORE.0.S.C	Helix-turn-helix domains {3}	Tryptophan cluster factors {3.5}	Ets-related {3.5.2}	ETS-like {3.5.2.1}	ETS2 {3.5.2.1.2}
+1043	SIX4.H12CORE.0.P.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HD-SINE {3.1.6}	SIX4-like {3.1.6.3}	SIX4 {3.1.6.3.1}
+1044	LMX1B.H12CORE.1.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HD-LIM {3.1.5}	LMX {3.1.5.6}	LMX1B {3.1.5.6.2}
+1045	MIXL1.H12CORE.0.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	Paired-related HD {3.1.3}	MIX {3.1.3.14}	MIXL1 {3.1.3.14.1}
+1046	ELF2.H12CORE.1.M.B	Helix-turn-helix domains {3}	Tryptophan cluster factors {3.5}	Ets-related {3.5.2}	ELF1-like {3.5.2.3}	ELF2 {3.5.2.3.2}
+1047	ESX1.H12CORE.1.S.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	Paired-related HD {3.1.3}	ESX {3.1.3.8}	ESX1 {3.1.3.8.1}
+1048	NKX23.H12CORE.0.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	NK-related {3.1.2}	NK4 {3.1.2.17}	NKX23 {3.1.2.17.1}
+1049	RFX7.H12CORE.0.SM.B	Helix-turn-helix domains {3}	Fork head/winged helix factors {3.3}	RFX {3.3.3}	null {3.3.3.0}	RFX7 {3.3.3.0.7}
+1050	FOXM1.H12CORE.0.P.B	Helix-turn-helix domains {3}	Fork head/winged helix factors {3.3}	FOX {3.3.1}	FOXM {3.3.1.13}	FOXM1 {3.3.1.13.1}
+1051	IRF3.H12CORE.0.PS.A	Helix-turn-helix domains {3}	Tryptophan cluster factors {3.5}	IRF {3.5.3}	null {3.5.3.0}	IRF3 {3.5.3.0.3}
+1052	IRF9.H12CORE.0.PSM.A	Helix-turn-helix domains {3}	Tryptophan cluster factors {3.5}	IRF {3.5.3}	null {3.5.3.0}	IRF9 {3.5.3.0.9}
+1053	FOXJ2.H12CORE.2.S.B	Helix-turn-helix domains {3}	Fork head/winged helix factors {3.3}	FOX {3.3.1}	FOXJ {3.3.1.10}	FOXJ2 {3.3.1.10.2}
+1054	DRGX.H12CORE.0.S.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	Paired-related HD {3.1.3}	DRGX {3.1.3.6}	DRGX {3.1.3.6.1}
+1055	CDX4.H12CORE.0.S.C	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HOX-related {3.1.1}	CDX {3.1.1.9}	CDX4 {3.1.1.9.3}
+1056	CDX1.H12CORE.1.S.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HOX-related {3.1.1}	CDX {3.1.1.9}	CDX1 {3.1.1.9.1}
+1057	GSX1.H12CORE.0.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HOX-related {3.1.1}	GSX {3.1.1.12}	GSX1 {3.1.1.12.1}
+1058	PO5F1.H12CORE.0.P.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	POU {3.1.10}	POU5 {3.1.10.5}	PO5F1 {3.1.10.5.1}
+1059	NKX31.H12CORE.0.PSM.A	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	NK-related {3.1.2}	NK3 {3.1.2.16}	NKX31 {3.1.2.16.1}
+1060	ETV1.H12CORE.1.PM.A	Helix-turn-helix domains {3}	Tryptophan cluster factors {3.5}	Ets-related {3.5.2}	ELK-like {3.5.2.2}	ETV1 {3.5.2.2.4}
+1061	ETV6.H12CORE.0.PS.A	Helix-turn-helix domains {3}	Tryptophan cluster factors {3.5}	Ets-related {3.5.2}	ETV6-like {3.5.2.6}	ETV6 {3.5.2.6.1}
+1062	E2F8.H12CORE.0.P.C	Helix-turn-helix domains {3}	Fork head/winged helix factors {3.3}	E2F {3.3.2}	E2F {3.3.2.1}	E2F8 {3.3.2.1.8}
+1063	FOXD2.H12CORE.0.S.B	Helix-turn-helix domains {3}	Fork head/winged helix factors {3.3}	FOX {3.3.1}	FOXD {3.3.1.4}	FOXD2 {3.3.1.4.2}
+1064	HMX1.H12CORE.0.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	NK-related {3.1.2}	NK5-HMX {3.1.2.18}	HMX1 {3.1.2.18.1}
+1065	NKX63.H12CORE.0.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	NK-related {3.1.2}	NK6 {3.1.2.19}	NKX63 {3.1.2.19.3}
+1066	DLX4.H12CORE.1.S.C	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	NK-related {3.1.2}	DLX {3.1.2.5}	DLX4 {3.1.2.5.4}
+1067	VAX1.H12CORE.0.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	NK-related {3.1.2}	VAX {3.1.2.22}	VAX1 {3.1.2.22.1}
+1068	NKX22.H12CORE.0.P.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	NK-related {3.1.2}	NK2.2 {3.1.2.15}	NKX22 {3.1.2.15.1}
+1069	RHXF1.H12CORE.0.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	Paired-related HD {3.1.3}	RHOX {3.1.3.23}	RHXF1 {3.1.3.23.1}
+1070	MSX1.H12CORE.1.S.C	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	NK-related {3.1.2}	MSX {3.1.2.11}	MSX1 {3.1.2.11.1}
+1071	BARH2.H12CORE.0.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	NK-related {3.1.2}	BARHL {3.1.2.1}	BARH2 {3.1.2.1.2}
+1072	HXB9.H12CORE.0.S.C	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HOX-related {3.1.1}	HOX9-13 {3.1.1.8}	HXB9 {3.1.1.8.2}
+1073	SPIB.H12CORE.2.SM.B	Helix-turn-helix domains {3}	Tryptophan cluster factors {3.5}	Ets-related {3.5.2}	SPI-like {3.5.2.5}	SPIB {3.5.2.5.2}
+1074	TF2LY.H12CORE.1.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	TALE-type HD {3.1.4}	PKNOX {3.1.4.5}	TF2LY {3.1.4.5.4}
+1075	HXA11.H12CORE.1.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HOX-related {3.1.1}	HOX9-13 {3.1.1.8}	HXA11 {3.1.1.8.9}
+1076	IRX1.H12CORE.0.S.C	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	TALE-type HD {3.1.4}	IRX {3.1.4.1}	IRX1 {3.1.4.1.1}
+1077	PO5F1.H12CORE.1.P.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	POU {3.1.10}	POU5 {3.1.10.5}	PO5F1 {3.1.10.5.1}
+1078	CDX4.H12CORE.1.M.C	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HOX-related {3.1.1}	CDX {3.1.1.9}	CDX4 {3.1.1.9.3}
+1079	PO4F1.H12CORE.0.S.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	POU {3.1.10}	POU4 {3.1.10.4}	PO4F1 {3.1.10.4.1}
+1080	PBX3.H12CORE.0.P.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	TALE-type HD {3.1.4}	PBX {3.1.4.4}	PBX3 {3.1.4.4.3}
+1081	ISL2.H12CORE.0.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HD-LIM {3.1.5}	ISL {3.1.5.1}	ISL2 {3.1.5.1.2}
+1082	RFX5.H12CORE.0.P.B	Helix-turn-helix domains {3}	Fork head/winged helix factors {3.3}	RFX {3.3.3}	null {3.3.3.0}	RFX5 {3.3.3.0.5}
+1083	ELK3.H12CORE.0.PSM.A	Helix-turn-helix domains {3}	Tryptophan cluster factors {3.5}	Ets-related {3.5.2}	ELK-like {3.5.2.2}	ELK3 {3.5.2.2.2}
+1084	ARX.H12CORE.0.S.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	Paired-related HD {3.1.3}	ARX {3.1.3.3}	ARX {3.1.3.3.1}
+1085	FOXR2.H12CORE.0.M.C	Helix-turn-helix domains {3}	Fork head/winged helix factors {3.3}	FOX {3.3.1}	FOXR {3.3.1.18}	FOXR2 {3.3.1.18.2}
+1086	ELF5.H12CORE.0.PSM.A	Helix-turn-helix domains {3}	Tryptophan cluster factors {3.5}	Ets-related {3.5.2}	EHF-like {3.5.2.4}	ELF5 {3.5.2.4.3}
+1087	ETS1.H12CORE.0.S.B	Helix-turn-helix domains {3}	Tryptophan cluster factors {3.5}	Ets-related {3.5.2}	ETS-like {3.5.2.1}	ETS1 {3.5.2.1.1}
+1088	MNX1.H12CORE.0.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HOX-related {3.1.1}	MNX {3.1.1.13}	MNX1 {3.1.1.13.1}
+1089	EVX2.H12CORE.1.S.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HOX-related {3.1.1}	EVX {3.1.1.10}	EVX2 {3.1.1.10.2}
+1090	TLX3.H12CORE.0.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	NK-related {3.1.2}	TLX {3.1.2.21}	TLX3 {3.1.2.21.3}
+1091	RAX2.H12CORE.0.S.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	Paired-related HD {3.1.3}	RAX {3.1.3.22}	RAX2 {3.1.3.22.2}
+1092	EVX1.H12CORE.0.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HOX-related {3.1.1}	EVX {3.1.1.10}	EVX1 {3.1.1.10.1}
+1093	HXD11.H12CORE.0.PS.A	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HOX-related {3.1.1}	HOX9-13 {3.1.1.8}	HXD11 {3.1.1.8.11}
+1094	HXC4.H12CORE.0.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HOX-related {3.1.1}	HOX4 {3.1.1.4}	HXC4 {3.1.1.4.3}
+1095	LHX6.H12CORE.0.P.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HD-LIM {3.1.5}	LHX6-like {3.1.5.5}	LHX6 {3.1.5.5.1}
+1096	GBX2.H12CORE.0.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HOX-related {3.1.1}	GBX {3.1.1.11}	GBX2 {3.1.1.11.2}
+1097	NKX28.H12CORE.0.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	NK-related {3.1.2}	NK2.2 {3.1.2.15}	NKX28 {3.1.2.15.2}
+1098	PKNX1.H12CORE.3.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	TALE-type HD {3.1.4}	PKNOX {3.1.4.5}	PKNX1 {3.1.4.5.1}
+1099	HXB6.H12CORE.0.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HOX-related {3.1.1}	HOX6-7 {3.1.1.6}	HXB6 {3.1.1.6.2}
+1100	SIX4.H12CORE.1.M.C	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HD-SINE {3.1.6}	SIX4-like {3.1.6.3}	SIX4 {3.1.6.3.1}
+1101	ERF.H12CORE.0.PS.A	Helix-turn-helix domains {3}	Tryptophan cluster factors {3.5}	Ets-related {3.5.2}	ETS-like {3.5.2.1}	ERF {3.5.2.1.11}
+1102	ISX.H12CORE.2.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	Paired-related HD {3.1.3}	ISX {3.1.3.12}	ISX {3.1.3.12.1}
+1103	PHX2A.H12CORE.0.PS.A	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	Paired-related HD {3.1.3}	PHOX {3.1.3.18}	PHX2A {3.1.3.18.1}
+1104	LHX8.H12CORE.1.M.C	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HD-LIM {3.1.5}	LHX6-like {3.1.5.5}	LHX8 {3.1.5.5.2}
+1105	E2F7.H12CORE.0.S.C	Helix-turn-helix domains {3}	Fork head/winged helix factors {3.3}	E2F {3.3.2}	E2F {3.3.2.1}	E2F7 {3.3.2.1.7}
+1106	MYBA.H12CORE.1.PS.A	Helix-turn-helix domains {3}	Tryptophan cluster factors {3.5}	Myb/SANT domain {3.5.1}	Myb-like {3.5.1.1}	MYBA {3.5.1.1.2}
+1107	PHX2A.H12CORE.1.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	Paired-related HD {3.1.3}	PHOX {3.1.3.18}	PHX2A {3.1.3.18.1}
+1108	PO3F1.H12CORE.2.S.C	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	POU {3.1.10}	POU3 {3.1.10.3}	PO3F1 {3.1.10.3.1}
+1109	BSH.H12CORE.0.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	NK-related {3.1.2}	BSX {3.1.2.3}	BSH {3.1.2.3.1}
+1110	EMX1.H12CORE.0.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	NK-related {3.1.2}	EMX {3.1.2.6}	EMX1 {3.1.2.6.1}
+1111	PO6F2.H12CORE.0.S.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	POU {3.1.10}	POU6 {3.1.10.6}	PO6F2 {3.1.10.6.2}
+1112	RFX1.H12CORE.0.PM.A	Helix-turn-helix domains {3}	Fork head/winged helix factors {3.3}	RFX {3.3.3}	null {3.3.3.0}	RFX1 {3.3.3.0.1}
+1113	PITX1.H12CORE.0.PSM.A	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	Paired-related HD {3.1.3}	PITX {3.1.3.19}	PITX1 {3.1.3.19.1}
+1114	SIX2.H12CORE.2.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HD-SINE {3.1.6}	SIX1-like {3.1.6.1}	SIX2 {3.1.6.1.2}
+1115	VSX1.H12CORE.0.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	Paired-related HD {3.1.3}	VSX {3.1.3.28}	VSX1 {3.1.3.28.1}
+1116	TF2LX.H12CORE.1.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	TALE-type HD {3.1.4}	PKNOX {3.1.4.5}	TF2LX {3.1.4.5.3}
+1117	ALX4.H12CORE.1.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	Paired-related HD {3.1.3}	ALX {3.1.3.1}	ALX4 {3.1.3.1.3}
+1118	FOXA3.H12CORE.0.PS.A	Helix-turn-helix domains {3}	Fork head/winged helix factors {3.3}	FOX {3.3.1}	FOXA {3.3.1.1}	FOXA3 {3.3.1.1.3}
+1119	RFX5.H12CORE.2.S.B	Helix-turn-helix domains {3}	Fork head/winged helix factors {3.3}	RFX {3.3.3}	null {3.3.3.0}	RFX5 {3.3.3.0.5}
+1120	PRRX1.H12CORE.1.S.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	Paired-related HD {3.1.3}	PRRX {3.1.3.21}	PRRX1 {3.1.3.21.1}
+1121	HNF1B.H12CORE.1.P.D	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	POU {3.1.10}	HNF1-like {3.1.10.7}	HNF1B {3.1.10.7.2}
+1122	FOXA3.H12CORE.1.M.C	Helix-turn-helix domains {3}	Fork head/winged helix factors {3.3}	FOX {3.3.1}	FOXA {3.3.1.1}	FOXA3 {3.3.1.1.3}
+1123	LHX9.H12CORE.0.PS.A	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HD-LIM {3.1.5}	LHX2-like {3.1.5.3}	LHX9 {3.1.5.3.2}
+1124	FOXO4.H12CORE.0.SM.B	Helix-turn-helix domains {3}	Fork head/winged helix factors {3.3}	FOX {3.3.1}	FOXO {3.3.1.15}	FOXO4 {3.3.1.15.3}
+1125	PO3F3.H12CORE.1.P.C	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	POU {3.1.10}	POU3 {3.1.10.3}	PO3F3 {3.1.10.3.3}
+1126	PIT1.H12CORE.1.S.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	POU {3.1.10}	POU1 {3.1.10.1}	PIT1 {3.1.10.1.1}
+1127	IRX2.H12CORE.0.S.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	TALE-type HD {3.1.4}	IRX {3.1.4.1}	IRX2 {3.1.4.1.2}
+1128	LHX8.H12CORE.0.S.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HD-LIM {3.1.5}	LHX6-like {3.1.5.5}	LHX8 {3.1.5.5.2}
+1129	DLX1.H12CORE.1.PSM.A	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	NK-related {3.1.2}	DLX {3.1.2.5}	DLX1 {3.1.2.5.1}
+1130	IRX5.H12CORE.0.M.C	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	TALE-type HD {3.1.4}	IRX {3.1.4.1}	IRX5 {3.1.4.1.5}
+1131	HNF6.H12CORE.3.M.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HD-CUT {3.1.9}	ONECUT {3.1.9.1}	HNF6 {3.1.9.1.1}
+1132	BARH1.H12CORE.1.S.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	NK-related {3.1.2}	BARHL {3.1.2.1}	BARH1 {3.1.2.1.1}
+1133	ETV7.H12CORE.0.SM.B	Helix-turn-helix domains {3}	Tryptophan cluster factors {3.5}	Ets-related {3.5.2}	ETV6-like {3.5.2.6}	ETV7 {3.5.2.6.2}
+1134	PO2F2.H12CORE.2.S.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	POU {3.1.10}	POU2 {3.1.10.2}	PO2F2 {3.1.10.2.2}
+1135	FOXD3.H12CORE.0.P.C	Helix-turn-helix domains {3}	Fork head/winged helix factors {3.3}	FOX {3.3.1}	FOXD {3.3.1.4}	FOXD3 {3.3.1.4.3}
+1136	PKNX1.H12CORE.2.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	TALE-type HD {3.1.4}	PKNOX {3.1.4.5}	PKNX1 {3.1.4.5.1}
+1137	LHX6.H12CORE.2.M.C	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HD-LIM {3.1.5}	LHX6-like {3.1.5.5}	LHX6 {3.1.5.5.1}
+1138	GBX1.H12CORE.1.S.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HOX-related {3.1.1}	GBX {3.1.1.11}	GBX1 {3.1.1.11.1}
+1139	FLI1.H12CORE.1.P.B	Helix-turn-helix domains {3}	Tryptophan cluster factors {3.5}	Ets-related {3.5.2}	ETS-like {3.5.2.1}	FLI1 {3.5.2.1.6}
+1140	HXA5.H12CORE.0.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HOX-related {3.1.1}	HOX5 {3.1.1.5}	HXA5 {3.1.1.5.1}
+1141	DLX4.H12CORE.0.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	NK-related {3.1.2}	DLX {3.1.2.5}	DLX4 {3.1.2.5.4}
+1142	HXB7.H12CORE.1.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HOX-related {3.1.1}	HOX6-7 {3.1.1.6}	HXB7 {3.1.1.6.5}
+1143	ALX3.H12CORE.0.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	Paired-related HD {3.1.3}	ALX {3.1.3.1}	ALX3 {3.1.3.1.2}
+1144	CUX1.H12CORE.1.S.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HD-CUT {3.1.9}	CUX {3.1.9.2}	CUX1 {3.1.9.2.1}
+1145	SPI1.H12CORE.1.S.B	Helix-turn-helix domains {3}	Tryptophan cluster factors {3.5}	Ets-related {3.5.2}	SPI-like {3.5.2.5}	SPI1 {3.5.2.5.1}
+1146	PKNX1.H12CORE.0.P.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	TALE-type HD {3.1.4}	PKNOX {3.1.4.5}	PKNX1 {3.1.4.5.1}
+1147	PITX2.H12CORE.0.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	Paired-related HD {3.1.3}	PITX {3.1.3.19}	PITX2 {3.1.3.19.2}
+1148	FOXB1.H12CORE.0.SM.B	Helix-turn-helix domains {3}	Fork head/winged helix factors {3.3}	FOX {3.3.1}	FOXB {3.3.1.2}	FOXB1 {3.3.1.2.1}
+1149	IRX3.H12CORE.2.S.C	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	TALE-type HD {3.1.4}	IRX {3.1.4.1}	IRX3 {3.1.4.1.3}
+1150	PRRX1.H12CORE.0.S.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	Paired-related HD {3.1.3}	PRRX {3.1.3.21}	PRRX1 {3.1.3.21.1}
+1151	EHF.H12CORE.0.P.B	Helix-turn-helix domains {3}	Tryptophan cluster factors {3.5}	Ets-related {3.5.2}	EHF-like {3.5.2.4}	EHF {3.5.2.4.1}
+1152	IRF5.H12CORE.0.SM.B	Helix-turn-helix domains {3}	Tryptophan cluster factors {3.5}	IRF {3.5.3}	null {3.5.3.0}	IRF5 {3.5.3.0.5}
+1153	ELF1.H12CORE.0.PSM.A	Helix-turn-helix domains {3}	Tryptophan cluster factors {3.5}	Ets-related {3.5.2}	ELF1-like {3.5.2.3}	ELF1 {3.5.2.3.1}
+1154	NKX61.H12CORE.0.PS.A	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	NK-related {3.1.2}	NK6 {3.1.2.19}	NKX61 {3.1.2.19.1}
+1155	GBX1.H12CORE.0.S.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HOX-related {3.1.1}	GBX {3.1.1.11}	GBX1 {3.1.1.11.1}
+1156	NKX61.H12CORE.2.S.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	NK-related {3.1.2}	NK6 {3.1.2.19}	NKX61 {3.1.2.19.1}
+1157	SHOX.H12CORE.0.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	Paired-related HD {3.1.3}	SHOX {3.1.3.25}	SHOX {3.1.3.25.1}
+1158	HXC11.H12CORE.0.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HOX-related {3.1.1}	HOX9-13 {3.1.1.8}	HXC11 {3.1.1.8.10}
+1159	E2F3.H12CORE.0.P.B	Helix-turn-helix domains {3}	Fork head/winged helix factors {3.3}	E2F {3.3.2}	E2F {3.3.2.1}	E2F3 {3.3.2.1.3}
+1160	GSC.H12CORE.0.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	Paired-related HD {3.1.3}	GSC {3.1.3.9}	GSC {3.1.3.9.1}
+1161	LHX6.H12CORE.1.S.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HD-LIM {3.1.5}	LHX6-like {3.1.5.5}	LHX6 {3.1.5.5.1}
+1162	FOXJ2.H12CORE.0.PSM.A	Helix-turn-helix domains {3}	Fork head/winged helix factors {3.3}	FOX {3.3.1}	FOXJ {3.3.1.10}	FOXJ2 {3.3.1.10.2}
+1163	TF2LX.H12CORE.0.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	TALE-type HD {3.1.4}	PKNOX {3.1.4.5}	TF2LX {3.1.4.5.3}
+1164	E2F8.H12CORE.1.SM.B	Helix-turn-helix domains {3}	Fork head/winged helix factors {3.3}	E2F {3.3.2}	E2F {3.3.2.1}	E2F8 {3.3.2.1.8}
+1165	HXB7.H12CORE.0.P.C	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HOX-related {3.1.1}	HOX6-7 {3.1.1.6}	HXB7 {3.1.1.6.5}
+1166	HNF1B.H12CORE.0.PS.A	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	POU {3.1.10}	HNF1-like {3.1.10.7}	HNF1B {3.1.10.7.2}
+1167	PKNX2.H12CORE.0.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	TALE-type HD {3.1.4}	PKNOX {3.1.4.5}	PKNX2 {3.1.4.5.2}
+1168	HXB13.H12CORE.0.PS.A	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HOX-related {3.1.1}	HOX9-13 {3.1.1.8}	HXB13 {3.1.1.8.15}
+1169	ZEB1.H12CORE.0.P.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HD-ZF {3.1.8}	ZEB {3.1.8.3}	ZEB1 {3.1.8.3.1}
+1170	NKX32.H12CORE.1.S.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	NK-related {3.1.2}	NK3 {3.1.2.16}	NKX32 {3.1.2.16.2}
+1171	VAX2.H12CORE.0.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	NK-related {3.1.2}	VAX {3.1.2.22}	VAX2 {3.1.2.22.2}
+1172	SATB1.H12CORE.1.P.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HD-CUT {3.1.9}	SATB {3.1.9.3}	SATB1 {3.1.9.3.1}
+1173	ELF4.H12CORE.0.PS.A	Helix-turn-helix domains {3}	Tryptophan cluster factors {3.5}	Ets-related {3.5.2}	ELF1-like {3.5.2.3}	ELF4 {3.5.2.3.3}
+1174	LBX2.H12CORE.0.S.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	NK-related {3.1.2}	LBX {3.1.2.10}	LBX2 {3.1.2.10.2}
+1175	E2F4.H12CORE.2.S.B	Helix-turn-helix domains {3}	Fork head/winged helix factors {3.3}	E2F {3.3.2}	E2F {3.3.2.1}	E2F4 {3.3.2.1.4}
+1176	E2F2.H12CORE.0.S.B	Helix-turn-helix domains {3}	Fork head/winged helix factors {3.3}	E2F {3.3.2}	E2F {3.3.2.1}	E2F2 {3.3.2.1.2}
+1177	HXC12.H12CORE.0.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HOX-related {3.1.1}	HOX9-13 {3.1.1.8}	HXC12 {3.1.1.8.12}
+1178	CUX1.H12CORE.0.PM.A	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HD-CUT {3.1.9}	CUX {3.1.9.2}	CUX1 {3.1.9.2.1}
+1179	EMX2.H12CORE.0.S.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	NK-related {3.1.2}	EMX {3.1.2.6}	EMX2 {3.1.2.6.2}
+1180	ELF5.H12CORE.1.S.B	Helix-turn-helix domains {3}	Tryptophan cluster factors {3.5}	Ets-related {3.5.2}	EHF-like {3.5.2.4}	ELF5 {3.5.2.4.3}
+1181	FOXK2.H12CORE.0.P.B	Helix-turn-helix domains {3}	Fork head/winged helix factors {3.3}	FOX {3.3.1}	FOXK {3.3.1.11}	FOXK2 {3.3.1.11.2}
+1182	DLX3.H12CORE.0.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	NK-related {3.1.2}	DLX {3.1.2.5}	DLX3 {3.1.2.5.3}
+1183	ISX.H12CORE.1.S.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	Paired-related HD {3.1.3}	ISX {3.1.3.12}	ISX {3.1.3.12.1}
+1184	GSX2.H12CORE.0.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HOX-related {3.1.1}	GSX {3.1.1.12}	GSX2 {3.1.1.12.2}
+1185	HXC9.H12CORE.1.S.C	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HOX-related {3.1.1}	HOX9-13 {3.1.1.8}	HXC9 {3.1.1.8.3}
+1186	E2F1.H12CORE.0.P.B	Helix-turn-helix domains {3}	Fork head/winged helix factors {3.3}	E2F {3.3.2}	E2F {3.3.2.1}	E2F1 {3.3.2.1.1}
+1187	PBX3.H12CORE.1.P.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	TALE-type HD {3.1.4}	PBX {3.1.4.4}	PBX3 {3.1.4.4.3}
+1188	PITX3.H12CORE.1.S.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	Paired-related HD {3.1.3}	PITX {3.1.3.19}	PITX3 {3.1.3.19.3}
+1189	HMX3.H12CORE.0.S.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	NK-related {3.1.2}	NK5-HMX {3.1.2.18}	HMX3 {3.1.2.18.3}
+1190	HXB1.H12CORE.0.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HOX-related {3.1.1}	HOX1 {3.1.1.1}	HXB1 {3.1.1.1.2}
+1191	ETV2.H12CORE.0.S.B	Helix-turn-helix domains {3}	Tryptophan cluster factors {3.5}	Ets-related {3.5.2}	ETS-like {3.5.2.1}	ETV2 {3.5.2.1.4}
+1192	SIX1.H12CORE.0.P.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HD-SINE {3.1.6}	SIX1-like {3.1.6.1}	SIX1 {3.1.6.1.1}
+1193	PIT1.H12CORE.0.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	POU {3.1.10}	POU1 {3.1.10.1}	PIT1 {3.1.10.1.1}
+1194	CUX1.H12CORE.2.P.C	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HD-CUT {3.1.9}	CUX {3.1.9.2}	CUX1 {3.1.9.2.1}
+1195	MYBB.H12CORE.0.S.B	Helix-turn-helix domains {3}	Tryptophan cluster factors {3.5}	Myb/SANT domain {3.5.1}	Myb-like {3.5.1.1}	MYBB {3.5.1.1.3}
+1196	MEOX2.H12CORE.0.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HOX-related {3.1.1}	MEOX {3.1.1.14}	MEOX2 {3.1.1.14.2}
+1197	ARX.H12CORE.1.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	Paired-related HD {3.1.3}	ARX {3.1.3.3}	ARX {3.1.3.3.1}
+1198	ALX3.H12CORE.1.S.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	Paired-related HD {3.1.3}	ALX {3.1.3.1}	ALX3 {3.1.3.1.2}
+1199	PO3F2.H12CORE.0.P.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	POU {3.1.10}	POU3 {3.1.10.3}	PO3F2 {3.1.10.3.2}
+1200	DLX1.H12CORE.0.S.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	NK-related {3.1.2}	DLX {3.1.2.5}	DLX1 {3.1.2.5.1}
+1201	IRF8.H12CORE.1.SM.B	Helix-turn-helix domains {3}	Tryptophan cluster factors {3.5}	IRF {3.5.3}	null {3.5.3.0}	IRF8 {3.5.3.0.8}
+1202	ELF2.H12CORE.0.PS.A	Helix-turn-helix domains {3}	Tryptophan cluster factors {3.5}	Ets-related {3.5.2}	ELF1-like {3.5.2.3}	ELF2 {3.5.2.3.2}
+1203	DLX2.H12CORE.1.S.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	NK-related {3.1.2}	DLX {3.1.2.5}	DLX2 {3.1.2.5.2}
+1204	HXA13.H12CORE.0.P.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HOX-related {3.1.1}	HOX9-13 {3.1.1.8}	HXA13 {3.1.1.8.14}
+1205	CRX.H12CORE.0.PSM.A	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	Paired-related HD {3.1.3}	OTX {3.1.3.17}	CRX {3.1.3.17.3}
+1206	ETV3.H12CORE.0.SM.B	Helix-turn-helix domains {3}	Tryptophan cluster factors {3.5}	Ets-related {3.5.2}	ETS-like {3.5.2.1}	ETV3 {3.5.2.1.9}
+1207	HESX1.H12CORE.1.S.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	Paired-related HD {3.1.3}	HESX {3.1.3.10}	HESX1 {3.1.3.10.1}
+1208	MSX2.H12CORE.1.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	NK-related {3.1.2}	MSX {3.1.2.11}	MSX2 {3.1.2.11.2}
+1209	CDX2.H12CORE.1.M.C	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HOX-related {3.1.1}	CDX {3.1.1.9}	CDX2 {3.1.1.9.2}
+1210	DLX6.H12CORE.0.SM.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	NK-related {3.1.2}	DLX {3.1.2.5}	DLX6 {3.1.2.5.6}
+1211	TGIF2.H12CORE.1.PSM.A	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	TALE-type HD {3.1.4}	TGIF {3.1.4.6}	TGIF2 {3.1.4.6.2}
+1212	ELF4.H12CORE.1.M.B	Helix-turn-helix domains {3}	Tryptophan cluster factors {3.5}	Ets-related {3.5.2}	ELF1-like {3.5.2.3}	ELF4 {3.5.2.3.3}
+1213	ZEB2.H12CORE.0.P.B	Helix-turn-helix domains {3}	Homeo domain factors {3.1}	HD-ZF {3.1.8}	ZEB {3.1.8.3}	ZEB2 {3.1.8.3.2}
