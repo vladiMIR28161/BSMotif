@@ -25,7 +25,7 @@ This allows identifying clusters of similar motifs within structural levels of D
 ## Installation
 
 ``` bash
-git clone git clone https://github.com/vladiMIR28161/BSMotifs.git
+git clone https://github.com/vladiMIR28161/BSMotifs.git
 cd bsmotifs
 pip install
 ```
@@ -80,3 +80,4 @@ for superclass in tomtom.Query_superclass.unique():
 
 
 *numpy
+
