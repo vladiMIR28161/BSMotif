@@ -27,9 +27,9 @@ setup(
         "Topic :: Scientific/Engineering :: Bio-Informatics",
     ],
     entry_points={
-        "console_scripts": [
-            "bsmotifs = main:main",
-        ],
+    'console_scripts': [
+        'bsmotifs = bsmotifs.main:main',
+    ],
     },
     python_requires=">=3.8",
 )
