@@ -17,13 +17,13 @@ Input data:
 
 1. file Classification.tsv — TF classification by DNA-binding domains (including superclass, class, family, subfamily, gene).
 
-2. path to the directory where the PVM files are stored in .meme format;
+2. path to the directory where the PWM files are stored in .meme format;
 
 3. path to the directory where the output files will be located.
 
 Output data:
 
-1. file all_tomtom_results.tsv — the result of executing the Tomtom.
+1. file Tomtom_results.tsv — the result of executing the Tomtom.
 
 2. file Score.tsv — table with motif similarity scores for each TF pair.
 
@@ -38,35 +38,25 @@ This allows identifying clusters of similar motifs within structural levels of D
 ## Installation
 
 ``` bash
-git clone https://github.com/vladiMIR28161/BSMotifs.git
-cd bsmotifs
+git clone https://github.com/vladiMIR28161/BSMotif.git
+cd bsmotif
 pip install .
 ```
 
-After installation, the bsmotifs command becomes available in the terminal.
+After installation, the bsmotif command becomes available in the terminal.
 
 ## Usage
 
 ``` bash
-bsmotifs input_classification.tsv input_tomtom.tsv score.tsv classification.xlsx
+bsmotif <input_classification.tsv> <pfm_dir> <output_dir>
 ```
-
-Where:
-
-* input_classification.tsv — input table with TF classification
-
-* input_tomtom.tsv — table with Tomtom results
-
-* score.tsv — output file with similarity scores
-
-* classification.xlsx — output file with hierarchical branches
 
 ## Example code
 
 ``` python
-from bsmotifs.io import read_classification, read_tomtom, save_results
-from bsmotifs.preprocessing import fill_classification, calculate_score_tf
-from bsmotifs.hierarchical_classification import hierarchical_classification_tf
+from bsmotif.io import read_classification, read_tomtom, save_results
+from bsmotif.preprocessing import fill_classification, calculate_score_tf
+from bsmotif.hierarchical_classification import hierarchical_classification_tf
 import pandas as pd
 
 classification = read_classification("Classification.tsv")
@@ -110,4 +100,5 @@ for superclass in tomtom.Query_superclass.unique():
 * Ilya E Vorontsov, Irina A Eliseeva, Arsenii Zinkevich, Mikhail Nikonov, Sergey Abramov, Alexandr Boytsov, Vasily Kamenets, Alexandra Kasianova, Semyon Kolmykov, Ivan S Yevshin, Alexander Favorov, Yulia A Medvedeva, Arttu Jolma, Fedor Kolpakov, Vsevolod J Makeev, Ivan V Kulakovskiy, HOCOMOCO in 2024: a rebuild of the curated collection of binding models for human and mouse transcription factors, Nucleic Acids Research, Volume 52, Issue D1, 5 January 2024, Pages D154–D163, https://doi.org/10.1093/nar/gkad1077
 
 * Levitsky V. G., Vatolina T. Yu., Raditsa V. V. Relation between the hierarchical classification of transcription factors by the structure of their DNA-binding domains and the variability in the binding site motifs of these factors. Journal of Genetics and Breeding.
+
 
