@@ -14,6 +14,9 @@ setup(
     url="https://github.com/vladiMIR28161/BSMotif",
     packages=find_packages(),
     include_package_data=True,
+    package_data={
+        'bsmotif': ['run_tomtom.sh'], 
+    },
     install_requires=[
         "pandas>=1.5.0",
         "numpy>=1.22.0",
@@ -32,4 +35,5 @@ setup(
     ],
     },
     python_requires=">=3.8",
+
 )
