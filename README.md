@@ -54,7 +54,7 @@ bsmotif <input_classification.tsv> <pfm_dir> <output_dir>
 ## Example code
 
 ``` bash
-bsmotif BSMotif/example/inp/Classification.tsv BSMotif/example/inp/H12CORE_pfm_meme BSMotif/example/out
+bsmotif example/inp/Classification.tsv example/inp/H12CORE_pfm_meme example/out
 ```
 
 ## Requirements
@@ -82,6 +82,7 @@ bsmotif BSMotif/example/inp/Classification.tsv BSMotif/example/inp/H12CORE_pfm_m
 * Ilya E Vorontsov, Irina A Eliseeva, Arsenii Zinkevich, Mikhail Nikonov, Sergey Abramov, Alexandr Boytsov, Vasily Kamenets, Alexandra Kasianova, Semyon Kolmykov, Ivan S Yevshin, Alexander Favorov, Yulia A Medvedeva, Arttu Jolma, Fedor Kolpakov, Vsevolod J Makeev, Ivan V Kulakovskiy, HOCOMOCO in 2024: a rebuild of the curated collection of binding models for human and mouse transcription factors, Nucleic Acids Research, Volume 52, Issue D1, 5 January 2024, Pages D154–D163, https://doi.org/10.1093/nar/gkad1077
 
 * Levitsky V. G., Vatolina T. Yu., Raditsa V. V. Relation between the hierarchical classification of transcription factors by the structure of their DNA-binding domains and the variability in the binding site motifs of these factors. Journal of Genetics and Breeding.
+
 
 
 
