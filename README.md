@@ -53,26 +53,8 @@ bsmotif <input_classification.tsv> <pfm_dir> <output_dir>
 
 ## Example code
 
-``` python
-from bsmotif.io import read_classification, read_tomtom, save_results
-from bsmotif.preprocessing import fill_classification, calculate_score_tf
-from bsmotif.hierarchical_classification import hierarchical_classification_tf
-import pandas as pd
-
-classification = read_classification("Classification.tsv")
-tomtom = read_tomtom("Tomtom.tsv")
-
-tomtom = fill_classification(tomtom, classification)
-tomtom = calculate_score_tf(tomtom)
-tomtom = save_results(tomtom, "Score.tsv")
-
-# Hierarchical classification by levels
-for superclass in tomtom.Query_superclass.unique():
-    res_tomtom_filtr = tomtom.loc[tomtom.Query_superclass == superclass].reset_index(drop=True)
-    class_ = hierarchical_classification_tf(res_tomtom_filtr, 'Query_superclass', 'Target_superclass', 'Query_class', 'Target_class')
-    family = hierarchical_classification_tf(class_, 'Query_class', 'Target_class', 'Query_family', 'Target_family')
-    subfamily = hierarchical_classification_tf(family, 'Query_family', 'Target_family', 'Query_subfamily', 'Target_subfamily')
-    gene = hierarchical_classification_tf(subfamily, 'Query_subfamily', 'Target_subfamily', 'Query_gene', 'Target_gene')
+``` bash
+bsmotif BSMotif/example/inp/Classification.tsv BSMotif/example/inp/H12CORE_pfm_meme BSMotif/example/out
 ```
 
 ## Requirements
@@ -100,5 +82,6 @@ for superclass in tomtom.Query_superclass.unique():
 * Ilya E Vorontsov, Irina A Eliseeva, Arsenii Zinkevich, Mikhail Nikonov, Sergey Abramov, Alexandr Boytsov, Vasily Kamenets, Alexandra Kasianova, Semyon Kolmykov, Ivan S Yevshin, Alexander Favorov, Yulia A Medvedeva, Arttu Jolma, Fedor Kolpakov, Vsevolod J Makeev, Ivan V Kulakovskiy, HOCOMOCO in 2024: a rebuild of the curated collection of binding models for human and mouse transcription factors, Nucleic Acids Research, Volume 52, Issue D1, 5 January 2024, Pages D154–D163, https://doi.org/10.1093/nar/gkad1077
 
 * Levitsky V. G., Vatolina T. Yu., Raditsa V. V. Relation between the hierarchical classification of transcription factors by the structure of their DNA-binding domains and the variability in the binding site motifs of these factors. Journal of Genetics and Breeding.
+
 
 
