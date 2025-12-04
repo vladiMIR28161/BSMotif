@@ -31,7 +31,6 @@ def main():
     print("\n________Launching Tomtom via run_tomtom.sh________")
     result = subprocess.run(
         [str(bash_script), str(input_classification), str(pfm_dir), str(output_tomtom_dir)],
-        cwd=script_dir,
         capture_output=True,
         text=True
     )
@@ -91,4 +90,5 @@ def main():
         quoting=3)
     
 if __name__ == "__main__":
+
     main()
