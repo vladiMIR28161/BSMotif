@@ -9,6 +9,7 @@ import pandas as pd
 import sys
 import subprocess
 import numpy as np
+import bsmotif.table_html as table_html
 
 def main():
     if len(sys.argv) != 4:
@@ -81,6 +82,16 @@ def main():
 
     # Removing auxiliary columns
     hierarchical_classification.results_df = hierarchical_classification.results_df.drop(columns=['Branch_key', 'List_key'])
+
+    output_html = Path(output_tomtom_dir) / "Motif_logos.html"
+    output_pcm_tmp = Path(output_tomtom_dir) / "tmp_pcm.txt"
+
+    table_html.generate_motif_logos(
+        hierarchical_classification.results_df,
+        input_classification,
+        pfm_dir,
+        output_html,
+        output_pcm_tmp)
     
     hierarchical_classification.results_df.to_csv(result_classification,
         sep='\t',
@@ -92,3 +103,4 @@ def main():
 if __name__ == "__main__":
 
     main()
+
