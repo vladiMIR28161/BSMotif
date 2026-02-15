@@ -101,7 +101,7 @@ def hierarchical_classification_tf (df, query_col, target_col, next_query_col, n
                     med = np.median(df_new.Score_TF.unique()).round(3)
                     if np.isnan(med):
                         med = '#'
-                    print(br, med)
+                    print(br[1], med)
                     results_df.loc[len(results_df)] = [code_lvl + ' ' + str(br[0]), ', '.join(br[1]), str(med)]
                     df = pd.concat([df, df_new, df_new]).drop_duplicates(keep=False)
                 print ('\n')
@@ -119,40 +119,18 @@ def hierarchical_classification_tf (df, query_col, target_col, next_query_col, n
                             if np.isnan(med):
                                 med = '#'
                             count += 1
-                            print(br2, med)
+                            print([br2], med)
                             df = pd.concat([df, df_new, df_new]).drop_duplicates(keep=False)
                             results_df.loc[len(results_df)] = [code_lvl + ' ' + str(count), br2, str(med)]
                     else:
                         br3 = copy(br[1])
-                        for br2 in br3:
-                            df_new = df[(df[next_query_col].isin([br2]) & df[next_target_col].isin([br2]))].reset_index(drop=True)
-                            med = np.median(df_new.Log10pvalue.unique()).round(3)
-                            if med < 3:
-                                if np.isnan(med):
-                                    med = '#'
-                                count += 1
-                                print(br2, med)
-                                results_df.loc[len(results_df)] = [code_lvl + ' ' + str(count), br2, str(med)]
-                                br[1].remove(br2)
-                        df_new = df[(df[next_query_col].isin(br[1]) & df[next_target_col].isin(br[1]))].reset_index(drop=True)
+                        df_new = df[(df[next_query_col].isin(br3) & df[next_target_col].isin(br3))].reset_index(drop=True)
                         med = np.median(df_new.Log10pvalue.unique()).round(3)
-                        if med >= 3:
-                            if np.isnan(med):
-                                med = '#'
-                            count += 1
-                            print(*br[1], med)
-                            df = pd.concat([df, df_new, df_new]).drop_duplicates(keep=False)
-                            results_df.loc[len(results_df)] = [code_lvl + ' ' + str(count), ', '.join(br[1]), str(med)]
-                        else:
-                            for br2 in br[1]:
-                                df_new = df[(df[next_query_col].isin([br2]) & df[next_target_col].isin([br2]))].reset_index(drop=True)
-                                med = np.median(df_new.Log10pvalue.unique()).round(3)
-                                if np.isnan(med):
-                                    med = '#'
-                                count += 1
-                                print(br2, med)
-                                df = pd.concat([df, df_new, df_new]).drop_duplicates(keep=False)
-                                results_df.loc[len(results_df)] = [code_lvl + ' ' + str(count), br2, str(med)]
+                        if np.isnan(med):
+                            med = '#'
+                        count += 1
+                        print(br3, med)
+                        results_df.loc[len(results_df)] = [code_lvl + ' ' + str(count), ', '.join(br3), str(med)]
+                        df = pd.concat([df, df_new, df_new]).drop_duplicates(keep=False)
                 print ('\n')
-        
     return df
