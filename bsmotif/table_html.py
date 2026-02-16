@@ -149,10 +149,10 @@ def generate_motif_logos(results_df, classification_tsv, meme_dir, output_html, 
                     elif line.startswith("0.") or line.startswith("1.") or line.startswith(" 0.") or line.startswith(" 1."):
                         if flag == 0:
                             new_file.write(main_stroka)
-                            new_file.write(line)
+                            new_file.write(line.lstrip())
                             flag = 1
                         else:
-                            new_file.write(line)
+                            new_file.write(line.lstrip())
                 new_file.write("\n")
         new_file.close()
 
