@@ -146,7 +146,7 @@ def generate_motif_logos(results_df, classification_tsv, meme_dir, output_html, 
                         main_stroka = "> " + line.rstrip().split(" ")[1]
                     elif line.startswith("letter-probability"):
                         main_stroka += " length=" + line.split("w= ")[1].split(" nsites=")[0] + "\n"
-                    elif line.startswith("0.") or line.startswith("1."):
+                    elif line.startswith("0.") or line.startswith("1.") or line.startswith(" 0.") or line.startswith(" 1."):
                         if flag == 0:
                             new_file.write(main_stroka)
                             new_file.write(line)
