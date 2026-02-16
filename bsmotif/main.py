@@ -83,7 +83,7 @@ def main():
     # Removing auxiliary columns
     hierarchical_classification.results_df = hierarchical_classification.results_df.drop(columns=['Branch_key', 'List_key'])
 
-    output_html = Path(output_tomtom_dir) / "Motif_logos.html"
+    output_html = Path(output_tomtom_dir) / "Branches_logos.html"
     output_pcm_tmp = Path(output_tomtom_dir) / "tmp_pcm.txt"
 
     table_html.generate_motif_logos(
@@ -103,4 +103,5 @@ def main():
 if __name__ == "__main__":
 
     main()
+
 
