@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 import pandas as pd
+import numpy as np
 
 def fill_classification(tomtom, classification):
     for i in pd.concat([tomtom['Query_ID'], tomtom['Target_ID']]).unique():
@@ -22,7 +23,8 @@ def calculate_score_tf(tomtom):
             local_tomtom = tomtom.loc[(((tomtom.Query_gene == tf_1) & (tomtom.Target_gene == tf_2)) |
                                        ((tomtom.Query_gene == tf_2) & (tomtom.Target_gene == tf_1)))]
             tomtom.loc[(((tomtom.Query_gene == tf_1) & (tomtom.Target_gene == tf_2)) | 
-                        ((tomtom.Query_gene == tf_2) & (tomtom.Target_gene == tf_1))), 'Score_TF'] = max(local_tomtom.Log10pvalue)
+                        ((tomtom.Query_gene == tf_2) & (tomtom.Target_gene == tf_1))), 'Score_TF'] = np.median(local_tomtom.Log10pvalue.dropna())
         else:
             continue
+
     return tomtom
