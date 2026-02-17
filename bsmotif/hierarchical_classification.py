@@ -115,7 +115,7 @@ def hierarchical_classification_tf (df, query_col, target_col, next_query_col, n
                     if len (br[1]) == 1:
                         for br2 in br[1]:
                             df_new = df[(df[next_query_col].isin([br2]) & df[next_target_col].isin([br2]))].reset_index(drop=True)
-                            med = np.median(df_new.Log10pvalue.unique()).round(3)
+                            med = np.median(df_new.Score_TF.unique()).round(3)
                             if np.isnan(med):
                                 med = '#'
                             count += 1
@@ -125,7 +125,7 @@ def hierarchical_classification_tf (df, query_col, target_col, next_query_col, n
                     else:
                         br3 = copy(br[1])
                         df_new = df[(df[next_query_col].isin(br3) & df[next_target_col].isin(br3))].reset_index(drop=True)
-                        med = np.median(df_new.Log10pvalue.unique()).round(3)
+                        med = np.median(df_new.Score_TF.unique()).round(3)
                         if np.isnan(med):
                             med = '#'
                         count += 1
@@ -134,3 +134,4 @@ def hierarchical_classification_tf (df, query_col, target_col, next_query_col, n
                         df = pd.concat([df, df_new, df_new]).drop_duplicates(keep=False)
                 print ('\n')
     return df
+
