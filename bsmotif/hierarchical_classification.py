@@ -70,8 +70,7 @@ def hierarchical_classification_tf (df, query_col, target_col, next_query_col, n
                 N_2 = N
                 for x_2 in list(branch.values())[N_2:]:
                     N_2 += 1
-                    mask = sub_df[(sub_df[next_query_col].isin(x) | sub_df[next_target_col].isin(x)) & 
-                                  (sub_df[next_query_col].isin(x_2) | sub_df[next_target_col].isin(x_2))].reset_index(drop=True)
+                    mask = sub_df[(sub_df[next_query_col].isin(x + x_2)) & (sub_df[next_target_col].isin(x + x_2))].reset_index(drop=True)
                     med = np.median(mask.Score_TF.unique()).round(3)
                     if med >= max_score:
                         max_score = med
@@ -134,4 +133,5 @@ def hierarchical_classification_tf (df, query_col, target_col, next_query_col, n
                         df = pd.concat([df, df_new, df_new]).drop_duplicates(keep=False)
                 print ('\n')
     return df
+
 
