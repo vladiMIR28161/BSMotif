@@ -265,7 +265,7 @@ def generate_motif_logos(results_df, classification_tsv, meme_dir, output_html, 
     <html>
     <head>
     <meta charset="utf-8">
-    <title>Motif Logos</title>
+    <title>Table of branches</title>
 
     <style>
     table {
