@@ -9,7 +9,7 @@ BSMotif constructs the tree of similar TFBS motifs consisting of distinct branch
 
 De novo motif search is the main approach to determine the nucleotide specificity of binding of the key regulators of gene transcription, TFs, based on data from massive genome-wide sequencing of their binding site regions in vivo, such as ChIP-seq. The number of motifs of known TFBSs has increased several times in recent years. Due to the similarity in the structure of the DNA-binding domains of TFs, many structurally cognate TFs have similar and sometimes almost indistinguishable binding site motifs. The classification of TFs by the structure of the DNA-binding domains from the TFClass database defines the top levels of the hierarchy (superclasses and classes of TFs) by the structure of these domains, and the next levels (families and subfamilies of TFs) by the alignments of amino acid sequences of domains. However, this classification does not take into account the similarity of TFBS motifs, whereas to identify valid TFs from massive sequencing data of TFBSs, such as ChIP-seq, one has to deal with TFBS motifs rather than TFs themselves.
 The BSMotif determines the levels of the hierarchy (classes, families, subfamilies, or TFs), starting from which and lower in the TFClass hierarchy the known TFs become the significantly similar in terms of their TFBS motifs.
-The application of BSMotif to the TFBS motif collections from the [Hocomoco](https://hocomoco.autosome.org/) and [Jaspar](https://jaspar.elixir.no/) databases was recently described in Levitsky et al. [2025](https://doi.org/10.18699/vjgb-25-99)
+The application of BSMotif to the TFBS motif collections from the [Hocomoco](https://hocomoco.autosome.org/) and [Jaspar](https://jaspar.elixir.no/) databases was recently described in [Levitsky et al. 2025](https://doi.org/10.18699/vjgb-25-99)
 
 ## Overview
 
@@ -27,7 +27,9 @@ Output data:
 
 2. file Score.tsv — table with motif similarity scores for each TF pair.
 
-2. file Branches.tsv — list of TF branches of similar TFBS motifs.
+3. file Branches.tsv — list of TF branches of similar TFBS motifs.
+
+4. file Branches_logos.html — HTML table of motif branches containing the list of transcription factors, motif similarity values, and merged motif logos for each branch.
 
 Example:
 
@@ -90,6 +92,7 @@ bsmotif example/inp/Classification.tsv example/inp/H12CORE_pfm_meme example/out
 * Ilya E Vorontsov, Irina A Eliseeva, Arsenii Zinkevich, Mikhail Nikonov, Sergey Abramov, Alexandr Boytsov, Vasily Kamenets, Alexandra Kasianova, Semyon Kolmykov, Ivan S Yevshin, Alexander Favorov, Yulia A Medvedeva, Arttu Jolma, Fedor Kolpakov, Vsevolod J Makeev, Ivan V Kulakovskiy, HOCOMOCO in 2024: a rebuild of the curated collection of binding models for human and mouse transcription factors, Nucleic Acids Research, Volume 52, Issue D1, 5 January 2024, Pages D154–D163, https://doi.org/10.1093/nar/gkad1077
 
 * Levitsky V. G., Vatolina T. Yu., Raditsa V. V. Relation between the hierarchical classification of transcription factors by the structure of their DNA-binding domains and the variability in the binding site motifs of these factors. Journal of Genetics and Breeding.
+
 
 
 
