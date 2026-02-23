@@ -68,8 +68,21 @@ def hierarchical_classification_tf (df, query_col, target_col, next_query_col, n
             for x in branch.values():
                 N += 1
                 N_2 = N
+                mask_x = sub_df[(sub_df[next_query_col].isin(x)) & (sub_df[next_target_col].isin(x))].reset_index(drop=True)
+                med_x = np.median(mask_x.Score_TF.unique()).round(3)
+                if med_x < 3:
+                    continue
                 for x_2 in list(branch.values())[N_2:]:
                     N_2 += 1
+                    mask_x_2 = sub_df[(sub_df[next_query_col].isin(x_2)) & (sub_df[next_target_col].isin(x_2))].reset_index(drop=True)
+                    med_x_2 = np.median(mask_x_2.Score_TF.unique()).round(3)
+                    if med_x_2 < 3:
+                        continue
+                    mask_x_x_2 = sub_df[((sub_df[next_query_col].isin(x)) & (sub_df[next_target_col].isin(x_2))) |
+                                       ((sub_df[next_query_col].isin(x_2)) & (sub_df[next_target_col].isin(x)))].reset_index(drop=True)
+                    med_x_x_2 = np.median(mask_x_x_2.Score_TF.unique()).round(3)
+                    if med_x_x_2 < 3:
+                        continue
                     mask = sub_df[(sub_df[next_query_col].isin(x + x_2)) & (sub_df[next_target_col].isin(x + x_2))].reset_index(drop=True)
                     med = np.median(mask.Score_TF.unique()).round(3)
                     if med >= max_score:
@@ -133,5 +146,6 @@ def hierarchical_classification_tf (df, query_col, target_col, next_query_col, n
                         df = pd.concat([df, df_new, df_new]).drop_duplicates(keep=False)
                 print ('\n')
     return df
+
 
 
