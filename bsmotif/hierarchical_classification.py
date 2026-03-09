@@ -109,7 +109,7 @@ def hierarchical_classification_tf (df, query_col, target_col, next_query_col, n
         
         if next_query_col != 'Query_gene':        
             if len(branch) == 0:
-                print ('Ветвей нет!')
+                print ('No branch!')
             else:
                 for br in branch.items():
                     df_new = df[(df[next_query_col].isin(br[1]) & df[next_target_col].isin(br[1]))].reset_index(drop=True)
@@ -123,7 +123,7 @@ def hierarchical_classification_tf (df, query_col, target_col, next_query_col, n
         
         else:    
             if len(branch) == 0:
-                print('Ветвей нет')
+                print('No branch!')
             else:
                 count = 0
                 for br in branch.items():
@@ -149,6 +149,7 @@ def hierarchical_classification_tf (df, query_col, target_col, next_query_col, n
                         df = pd.concat([df, df_new, df_new]).drop_duplicates(keep=False)
                 print ('\n')
     return df
+
 
 
 
