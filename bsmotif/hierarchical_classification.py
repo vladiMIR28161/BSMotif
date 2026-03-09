@@ -20,7 +20,8 @@ def hierarchical_classification_tf (df, query_col, target_col, next_query_col, n
     # sort by numeric value inside {}
     unique_levels = sorted(
         unique_levels,
-        key=lambda x: tuple(map(int, x.split('{')[1].strip('}').split('.'))))
+        key=lambda x: tuple((0, int(p)) if p.isdigit() else (1, p)
+                            for p in re.findall(r'\d+|[a-z]+', x.split('{')[1].strip('}'))))
     
     for lvl in unique_levels:
         
@@ -33,7 +34,8 @@ def hierarchical_classification_tf (df, query_col, target_col, next_query_col, n
         next_ids = pd.concat([sub_df[next_query_col], sub_df[next_target_col]]).dropna().unique()
         next_ids = sorted(
             next_ids,
-            key=lambda x: tuple(map(int, x.split('{')[1].strip('}').split('.'))))
+            key=lambda x: tuple((0, int(p)) if p.isdigit() else (1, p)
+                            for p in re.findall(r'\d+|[a-z]+', x.split('{')[1].strip('}'))))
         
         # calculate pairwise medians
         pairs = []
@@ -50,7 +52,8 @@ def hierarchical_classification_tf (df, query_col, target_col, next_query_col, n
             pairs = [x for x in pairs if x[0] not in black_list and x[1] not in black_list]
 
         list_level = list({item for row in pairs for item in row if not isinstance(item, (int, float))})
-        list_level = sorted(list_level, key=lambda x: tuple(map(int, x.split('{')[1].strip('}').split('.'))))
+        list_level = sorted(list_level, key=lambda x: tuple((0, int(p)) if p.isdigit() else (1, p)
+                            for p in re.findall(r'\d+|[a-z]+', x.split('{')[1].strip('}'))))
         
         branch = {}
         N = 0
@@ -146,6 +149,7 @@ def hierarchical_classification_tf (df, query_col, target_col, next_query_col, n
                         df = pd.concat([df, df_new, df_new]).drop_duplicates(keep=False)
                 print ('\n')
     return df
+
 
 
 
