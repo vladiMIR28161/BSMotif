@@ -1,4 +1,4 @@
-### BSMotifs
+### BSMotif
 
 BSMotif is a Python package representing a pipeline for cluster analysis based on
 - the similarity of transcription factors (TF) binding site (TFBS) motifs, e.g., using the [Tomtom motif comparison tool](https://meme-suite.org/meme/tools/tomtom) ([Gupta et al., 2007](https://doi.org/10.1186/gb-2007-8-2-r24));
@@ -20,6 +20,8 @@ Input data:
 2. path to the directory where the PWM files are stored in .meme format;
 
 3. path to the directory where the output files will be located.
+
+4. threshold at which we combine the TFBS into a separate branch. 
 
 Output data:
 
@@ -58,13 +60,13 @@ tomtom --version
 BSMotif is launched using the following command:
 
 ``` bash
-bsmotif <input_classification.tsv> <pfm_dir> <output_dir>
+bsmotif <input_classification.tsv> <pfm_dir> <output_dir> <threshold>
 ```
 
 ## Example code
 
 ``` bash
-bsmotif example/inp/Classification.tsv example/inp/H12CORE_pfm_meme example/out
+bsmotif example/inp/Classification.tsv example/inp/H12CORE_pfm_meme example/out 3
 ```
 
 ## Requirements
