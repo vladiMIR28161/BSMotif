@@ -12,14 +12,15 @@ import numpy as np
 import bsmotif.table_html as table_html
 
 def main():
-    if len(sys.argv) != 4:
-        print("Usage: bsmotif <classification.tsv> <pfm_dir> <output_dir>")
+    if len(sys.argv) != 5:
+        print("Usage: bsmotif <classification.tsv> <pfm_dir> <output_dir> <threshold>")
         sys.exit(1)
         
     
     input_classification = sys.argv[1]
     pfm_dir = sys.argv[2]
     output_tomtom_dir = sys.argv[3]
+    threshold = float(sys.argv[4])
     result_score = output_tomtom_dir + "/Score.tsv"
     result_classification = output_tomtom_dir + "/Branches.tsv"
     
@@ -29,6 +30,7 @@ def main():
 
     bash_script.chmod(0o755)
 
+    print("START")
     print("\n________Launching Tomtom via run_tomtom.sh________")
     result = subprocess.run(
         [str(bash_script), str(input_classification), str(pfm_dir), str(output_tomtom_dir)],
@@ -57,10 +59,10 @@ def main():
 
     for superclass in tomtom.Query_superclass.unique():
         res_tomtom_filtr = tomtom.loc[tomtom.Query_superclass == superclass].reset_index(drop=True)
-        class_ = hierarchical_classification.hierarchical_classification_tf (res_tomtom_filtr, 'Query_superclass', 'Target_superclass', 'Query_class', 'Target_class')
-        family = hierarchical_classification.hierarchical_classification_tf (class_, 'Query_class', 'Target_class', 'Query_family', 'Target_family')
-        subfamily = hierarchical_classification.hierarchical_classification_tf (family, 'Query_family', 'Target_family', 'Query_subfamily', 'Target_subfamily')
-        gene = hierarchical_classification.hierarchical_classification_tf (subfamily, 'Query_subfamily', 'Target_subfamily', 'Query_gene', 'Target_gene')
+        class_ = hierarchical_classification.hierarchical_classification_tf (res_tomtom_filtr, 'Query_superclass', 'Target_superclass', 'Query_class', 'Target_class', threshold)
+        family = hierarchical_classification.hierarchical_classification_tf (class_, 'Query_class', 'Target_class', 'Query_family', 'Target_family', threshold)
+        subfamily = hierarchical_classification.hierarchical_classification_tf (family, 'Query_family', 'Target_family', 'Query_subfamily', 'Target_subfamily', threshold)
+        gene = hierarchical_classification.hierarchical_classification_tf (subfamily, 'Query_subfamily', 'Target_subfamily', 'Query_gene', 'Target_gene', threshold)
 
     # Sorting results_df
     hierarchical_classification.results_df['Branch_key'] = hierarchical_classification.results_df['Branch'].apply(extract_min_branch_code)
@@ -75,30 +77,30 @@ def main():
     hierarchical_classification.results_df['Branch'] = hierarchical_classification.results_df['Branch'].apply(renumber_branch)
 
     # Add new numbers in the order they appear within each branch.
-    hierarchical_classification.results_df['Branch'] = (
-        hierarchical_classification.results_df.groupby('Branch')['Branch']
-          .transform(lambda s: [f"{s.iloc[0]} {i+1}" for i in range(len(s))])
-    )
+    hierarchical_classification.results_df['Branch'] = (hierarchical_classification.results_df.groupby('Branch')['Branch'].transform(lambda s: [f"{s.iloc[0]} {i+1}" for i in range(len(s))]))
 
     # Removing auxiliary columns
     hierarchical_classification.results_df = hierarchical_classification.results_df.drop(columns=['Branch_key', 'List_key'])
 
-    output_html = Path(output_tomtom_dir) / "Branches_logos.html"
-    output_pcm_tmp = Path(output_tomtom_dir) / "tmp_pcm.txt"
-
-    table_html.generate_motif_logos(
-        hierarchical_classification.results_df,
-        input_classification,
-        pfm_dir,
-        output_html,
-        output_pcm_tmp)
-    
     hierarchical_classification.results_df.to_csv(result_classification,
         sep='\t',
         index=False,
         encoding='utf-8',
         float_format='%.3f', 
         quoting=3)
+    
+    output_html = Path(output_tomtom_dir) / "Branches_logos.html"
+    output_pcm_tmp = Path(output_tomtom_dir) / "tmp_pcm.txt"
+    score = pd.read_csv(result_score, sep='\t')
+    branches = pd.read_csv(result_classification, sep='\t')
+
+    table_html.generate_motif_logos(hierarchical_classification.results_df,
+        input_classification,
+        pfm_dir,
+        output_html,
+        output_pcm_tmp,
+        score,
+        branches)
     
 if __name__ == "__main__":
 

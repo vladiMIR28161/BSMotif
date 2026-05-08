@@ -7,8 +7,127 @@ matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 import io
 import base64
+import re
+import seaborn as sns
 
-def generate_motif_logos(results_df, classification_tsv, meme_dir, output_html, output_pcm_tmp):
+def generate_heatmap_base64(score, branch_list):
+
+    def extract_nums(s):
+        nums = re.search(r'\{([^}]*)\}', s).group(1)
+        return tuple(map(int, nums.split('.')))
+
+    def extract_braces(s):
+        match = re.search(r'\{[^}]*\}', s)
+        return match.group(0) if match else s
+
+    base_fontsize = 5
+    pairs_list = []
+    repeats = []
+    branch_list = branch_list.split(", ")
+    first_code_branch = re.findall(r"\{(.*?)\}", branch_list[0])
+
+    if len(first_code_branch[0].split(".")) == 1:
+        query = "Query_superclass"
+        target = "Target_superclass"
+
+    elif len(first_code_branch[0].split(".")) == 2:
+        query = "Query_class"
+        target = "Target_class"
+
+    elif len(first_code_branch[0].split(".")) == 3:
+        query = "Query_family"
+        target = "Target_family"
+
+    elif len(first_code_branch[0].split(".")) == 4:
+        query = "Query_subfamily"
+        target = "Target_subfamily"
+
+    else:
+        query = "Query_gene"
+        target = "Target_gene"
+
+    for branch1 in branch_list:
+        for branch2 in branch_list:
+
+            if [branch1, branch2] in repeats:
+                continue
+
+            pair_df = score.loc[
+                (((score[query] == branch1) & (score[target] == branch2)) |
+                 ((score[query] == branch2) & (score[target] == branch1)))
+            ]
+
+            med = np.median(pair_df.Score_TF.unique()).round(3)
+
+            if np.isnan(med):
+                med = '#'
+
+            pairs_list.append([branch1, branch2, med])
+
+            repeats.append([branch1, branch2])
+            repeats.append([branch2, branch1])
+
+    normalized = []
+
+    for a, b, val in pairs_list:
+
+        if extract_nums(a) > extract_nums(b):
+            a, b = b, a
+        normalized.append([a, b, val])
+    pairs_list = sorted(normalized, key = lambda x: (extract_nums(x[0]), extract_nums(x[1])))
+    df = pd.DataFrame(pairs_list, columns = ['row', 'col', 'val'])
+    order = sorted(set(df['row']) | set(df['col']), key = extract_nums)
+    df['row'] = pd.Categorical(df['row'], categories = order, ordered = True)
+    df['col'] = pd.Categorical(df['col'], categories = order, ordered = True)
+    result = df.pivot(index = 'row', columns = 'col', values = 'val')
+    result = result.fillna('')
+    result = result.rename_axis(index = None, columns = None)
+    result.columns = result.columns.str.extract(r'(\{[^}]*\})', expand = False)
+    heatmap_data = result.replace("#", np.nan).replace("", np.nan).astype(float)
+    cell_size = 0.6
+    n = len(order)
+    fig, ax = plt.subplots(figsize = (n * cell_size, n * cell_size))
+    cmap = plt.get_cmap('Reds', 100)
+
+    sns.heatmap(heatmap_data, annot = False, vmin = 0, vmax = 3, cmap = cmap, linewidths = 0.8, linecolor = "grey",
+        cbar_kws = {'shrink': 0.8, 'label': 'Median', 'pad': 0.05, 'location': "bottom"}, ax = ax)
+
+    cbar = ax.collections[0].colorbar
+    cbar.set_ticks([0, 1, 2, 3])
+    cbar.set_ticklabels(["0", "1", "2", "3"])
+    cbar.set_label('Median', fontsize = base_fontsize)
+    cbar.ax.tick_params(labelsize = base_fontsize)
+
+    for i in range(result.shape[0]):
+        for j in range(result.shape[1]):
+            value = result.iloc[i, j]
+            if value != "":
+                try:
+                    num = float(value)
+                    color = 'white' if num > 1.5 else 'black'
+                except:
+                    color = 'black'
+                ax.text(j + 0.5, i + 0.5, str(value), ha = 'center', va = 'center', color = color, fontsize = base_fontsize)
+
+    tick_fontsize = base_fontsize
+    if result.shape[1] == 1:
+        rotation_value = 0
+    else:
+        rotation_value = 90
+    ax.set_xticklabels([extract_braces(x.get_text()) for x in ax.get_xticklabels()], rotation = rotation_value, ha = 'center', fontsize = tick_fontsize)
+    ax.set_yticklabels([t.get_text() for t in ax.get_yticklabels()], rotation = 0, fontsize = tick_fontsize)
+    ax.tick_params(axis = 'both', labelsize = tick_fontsize)
+    ax.xaxis.tick_top()
+    ax.set_aspect('equal')
+    plt.subplots_adjust(left = 0.2, right = 0.9, top = 0.9, bottom = 0.2)
+    buf = io.BytesIO()
+    plt.savefig(buf, format = "png", dpi = 200, bbox_inches = 'tight', pad_inches = 0.05)
+    buf.seek(0)
+    b64 = base64.b64encode(buf.getvalue()).decode('utf-8')
+    plt.close()
+    return b64
+
+def generate_motif_logos(results_df, classification_tsv, meme_dir, output_html, output_pcm_tmp, score_result, branch_result):
 
     def PCM_to_reverse_complement(PCM):
         reverse_complement_PCM = PCM[::-1][:, ::-1]
@@ -125,6 +244,7 @@ def generate_motif_logos(results_df, classification_tsv, meme_dir, output_html, 
 
     branch = results_df.copy()
     branch["Logo_df"] = None
+    branch["Heatmap_df"] = None
 
     file_path = classification_tsv
     df0 = pd.read_csv(file_path, sep='\t', index_col=0)
@@ -256,8 +376,9 @@ def generate_motif_logos(results_df, classification_tsv, meme_dir, output_html, 
         buf.seek(0)
 
         b64_string = base64.b64encode(buf.getvalue()).decode('utf-8')
-
         branch.loc[branch['List'] == br, 'Logo_df'] = b64_string
+        heatmap_b64 = generate_heatmap_base64(score_result, br)
+        branch.loc[branch['List'] == br, 'Heatmap_df'] = heatmap_b64
         plt.close()
 
     os.remove(output_pcm_tmp)
@@ -268,41 +389,66 @@ def generate_motif_logos(results_df, classification_tsv, meme_dir, output_html, 
     <title>Table of branches</title>
 
     <style>
+
+    body {
+        font-family: Arial, sans-serif;
+        margin: 20px;
+    }
+
     table {
         border-collapse: collapse;
         width: 100%;
-        table-layout: fixed;   /* фиксированная ширина колонок */
+        table-layout: fixed;
     }
 
     th, td {
         border: 1px solid black;
-        padding: 5px;
+        padding: 10px;
         vertical-align: middle;
+        text-align: center;
+    }
+
+    th {
+        background-color: #f2f2f2;
+        font-size: 20px;
+    }
+
+    td {
+        font-size: 18px;
     }
 
     th:nth-child(1), td:nth-child(1) {
-        width: 6%;
-        white-space: nowrap;   /* запрет переноса */
+        width: 7%;
+        white-space: nowrap;
     }
 
     th:nth-child(2), td:nth-child(2) {
-        width: 59%;
+        width: 15%;
+        text-align: center;
     }
 
     th:nth-child(3), td:nth-child(3) {
-        width: 5%;
-        text-align: center;
+        width: 7%;
+        white-space: nowrap;
+        font-size: 20px;
     }
 
     th:nth-child(4), td:nth-child(4) {
-        width: 30%;
-        text-align: center;
+        width: 36%;
+    }
+
+    th:nth-child(5), td:nth-child(5) {
+        width: 35%;
     }
 
     img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
         max-width: 100%;
         height: auto;
     }
+
     </style>
 
     </head>
@@ -314,6 +460,7 @@ def generate_motif_logos(results_df, classification_tsv, meme_dir, output_html, 
     <th>List</th>
     <th>Similarity</th>
     <th>Logo</th>
+    <th>Heatmap</th>
     </tr>
     """
 
@@ -329,6 +476,9 @@ def generate_motif_logos(results_df, classification_tsv, meme_dir, output_html, 
             <td>{row['Similarity']}</td>
             <td>
                 <img src="data:image/png;base64,{row['Logo_df']}">
+            </td>
+            <td>
+                <img src="data:image/png;base64,{row['Heatmap_df']}">
             </td>
         </tr>
         """

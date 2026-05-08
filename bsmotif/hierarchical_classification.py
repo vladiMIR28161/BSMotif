@@ -10,7 +10,7 @@ warnings.filterwarnings("ignore", category=RuntimeWarning)
 
 results_df = pd.DataFrame(columns=['Branch', 'List', 'Similarity'], dtype=str)
 
-def hierarchical_classification_tf (df, query_col, target_col, next_query_col, next_target_col):
+def hierarchical_classification_tf (df, query_col, target_col, next_query_col, next_target_col, threshold):
     
     df['Branch'] = 0
     
@@ -48,7 +48,7 @@ def hierarchical_classification_tf (df, query_col, target_col, next_query_col, n
                 
         # filter low-median self-similarites
         if next_query_col != 'Query_gene':
-            black_list = [x[0] for x in pairs if x[0] == x[1] and x[2] < 3]
+            black_list = [x[0] for x in pairs if x[0] == x[1] and x[2] < threshold]
             pairs = [x for x in pairs if x[0] not in black_list and x[1] not in black_list]
 
         list_level = list({item for row in pairs for item in row if not isinstance(item, (int, float))})
@@ -65,7 +65,7 @@ def hierarchical_classification_tf (df, query_col, target_col, next_query_col, n
         # definition of branches
         flag = 0
         while flag == 0:
-            max_score = 3
+            max_score = threshold
             N = 0
             total_x = '0'
             for x in branch.values():
@@ -73,18 +73,17 @@ def hierarchical_classification_tf (df, query_col, target_col, next_query_col, n
                 N_2 = N
                 mask_x = sub_df[(sub_df[next_query_col].isin(x)) & (sub_df[next_target_col].isin(x))].reset_index(drop=True)
                 med_x = np.median(mask_x.Score_TF.unique()).round(3)
-                if med_x < 3:
+                if med_x < threshold:
                     continue
                 for x_2 in list(branch.values())[N_2:]:
                     N_2 += 1
                     mask_x_2 = sub_df[(sub_df[next_query_col].isin(x_2)) & (sub_df[next_target_col].isin(x_2))].reset_index(drop=True)
                     med_x_2 = np.median(mask_x_2.Score_TF.unique()).round(3)
-                    if med_x_2 < 3:
+                    if med_x_2 < threshold:
                         continue
-                    mask_x_x_2 = sub_df[((sub_df[next_query_col].isin(x)) & (sub_df[next_target_col].isin(x_2))) |
-                                       ((sub_df[next_query_col].isin(x_2)) & (sub_df[next_target_col].isin(x)))].reset_index(drop=True)
+                    mask_x_x_2 = sub_df[((sub_df[next_query_col].isin(x)) & (sub_df[next_target_col].isin(x_2))) | ((sub_df[next_query_col].isin(x_2)) & (sub_df[next_target_col].isin(x)))].reset_index(drop=True)
                     med_x_x_2 = np.median(mask_x_x_2.Score_TF.unique()).round(3)
-                    if med_x_x_2 < 3:
+                    if med_x_x_2 < threshold:
                         continue
                     mask = sub_df[(sub_df[next_query_col].isin(x + x_2)) & (sub_df[next_target_col].isin(x + x_2))].reset_index(drop=True)
                     med = np.median(mask.Score_TF.unique()).round(3)
@@ -109,7 +108,7 @@ def hierarchical_classification_tf (df, query_col, target_col, next_query_col, n
         
         if next_query_col != 'Query_gene':        
             if len(branch) == 0:
-                print ('No branch!')
+                print ('Ветвей нет!')
             else:
                 for br in branch.items():
                     df_new = df[(df[next_query_col].isin(br[1]) & df[next_target_col].isin(br[1]))].reset_index(drop=True)
@@ -123,7 +122,7 @@ def hierarchical_classification_tf (df, query_col, target_col, next_query_col, n
         
         else:    
             if len(branch) == 0:
-                print('No branch!')
+                print('Ветвей нет')
             else:
                 count = 0
                 for br in branch.items():
@@ -149,8 +148,5 @@ def hierarchical_classification_tf (df, query_col, target_col, next_query_col, n
                         df = pd.concat([df, df_new, df_new]).drop_duplicates(keep=False)
                 print ('\n')
     return df
-
-
-
 
 
