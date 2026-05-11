@@ -14,7 +14,14 @@ def generate_heatmap_base64(score, branch_list):
 
     def extract_nums(s):
         nums = re.search(r'\{([^}]*)\}', s).group(1)
-        return tuple(map(int, nums.split('.')))
+        parts = nums.split('.')
+        parsed = []
+        for p in parts:
+            match = re.match(r'(\d+)([a-zA-Z]*)', p)
+            number = int(match.group(1))
+            suffix = match.group(2)
+            parsed.append((number, suffix))
+        return tuple(parsed)
 
     def extract_braces(s):
         match = re.search(r'\{[^}]*\}', s)
